@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MOORE of Wisconsin:\nH.R. 1490.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe Congress enacts this bill pursuant to Sections 7 & 8 of\nArticle I of the United States Constitution and Amendment XVI\nof the United States Constitution.\n[Page H730]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-21",
+    "latestAction": {
+      "actionDate": "2025-02-21",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1490",
+    "number": "1490",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001160",
+        "district": 4,
+        "firstName": "Gwen",
+        "fullName": "Rep. Moore, Gwen [D-WI-4]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/M001160?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/text?format=json"
+    },
+    "title": "TRIO Access Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1490/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-21T19:44:15Z",
+    "updateDateIncludingText": "2025-07-21T19:44:15Z"
+  },
+  "request": {
+    "billNumber": "1490",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

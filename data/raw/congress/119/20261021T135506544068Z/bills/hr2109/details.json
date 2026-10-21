@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 49 (Friday, March 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DAVIS of North Carolina:\nH.R. 2109.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3; to regulate commerce with\nforeign nations, and among the several states, and with the\nIndian tribes.\n[Page H1162]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-14",
+    "latestAction": {
+      "actionDate": "2025-04-04",
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2109",
+    "number": "2109",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000230",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+        "isByRequest": "N",
+        "lastName": "Davis",
+        "middleName": "G.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/D000230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/text?format=json"
+    },
+    "title": "Cybersecurity for Rural Water Systems Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2109/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:20:41Z",
+    "updateDateIncludingText": "2026-09-19T23:20:41Z"
+  },
+  "request": {
+    "billNumber": "2109",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

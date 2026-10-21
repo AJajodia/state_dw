@@ -1,0 +1,77 @@
+{
+  "bill": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Energy and Natural Resources on March 4, 2026",
+        "pubDate": "2026-06-12T17:12:00Z",
+        "title": "S. 2787, Grasslands Grazing Act of 2025",
+        "url": "https://www.cbo.gov/publication/62525"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-11",
+    "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 485."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2787",
+    "number": "2787",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001261",
+        "firstName": "John",
+        "fullName": "Sen. Barrasso, John [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Barrasso",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/B001261?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/text?format=json"
+    },
+    "title": "Grasslands Grazing Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2787/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:09:59Z",
+    "updateDateIncludingText": "2026-09-08T18:09:59Z"
+  },
+  "request": {
+    "billNumber": "2787",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 142 (Friday, August 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MASSIE:\nH.R. 5066.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H3717]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-29",
+    "latestAction": {
+      "actionDate": "2025-08-29",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5066",
+    "number": "5066",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001184",
+        "district": 4,
+        "firstName": "Thomas",
+        "fullName": "Rep. Massie, Thomas [R-KY-4]",
+        "isByRequest": "N",
+        "lastName": "Massie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/text?format=json"
+    },
+    "title": "Safe Students Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5066/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-22T14:31:02Z",
+    "updateDateIncludingText": "2026-05-22T14:31:02Z"
+  },
+  "request": {
+    "billNumber": "5066",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

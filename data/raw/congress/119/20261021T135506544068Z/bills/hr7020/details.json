@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7020/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7020/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 8 (Monday, January 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. NORTON:\nH.R. 7020.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 17 of section 8 of article I of the Constitution\n[Page H656]\n</pre>",
+    "introducedDate": "2026-01-12",
+    "latestAction": {
+      "actionDate": "2026-01-12",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7020",
+    "number": "7020",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "isByRequest": "N",
+        "lastName": "Norton",
+        "middleName": "Holmes",
+        "party": "D",
+        "state": "DC",
+        "url": "https://api.congress.gov/v3/member/N000147?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7020/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7020/text?format=json"
+    },
+    "title": "District of Columbia Courts and Public Defender Service Employment Non-Discrimination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7020/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-03T21:14:16Z",
+    "updateDateIncludingText": "2026-02-03T21:14:16Z"
+  },
+  "request": {
+    "billNumber": "7020",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 63 (Thursday, April 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. FRIEDMAN:\nH.R. 8217.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution\n[Page H2831]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-09",
+    "latestAction": {
+      "actionDate": "2026-04-09",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8217",
+    "number": "8217",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000483",
+        "district": 30,
+        "firstName": "Laura",
+        "fullName": "Rep. Friedman, Laura [D-CA-30]",
+        "isByRequest": "N",
+        "lastName": "Friedman",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/F000483?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/text?format=json"
+    },
+    "title": "Next Gen Road Safety Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8217/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:40:52Z",
+    "updateDateIncludingText": "2026-09-19T23:40:52Z"
+  },
+  "request": {
+    "billNumber": "8217",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

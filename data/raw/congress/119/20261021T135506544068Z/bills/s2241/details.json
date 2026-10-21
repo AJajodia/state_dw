@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2241",
+    "number": "2241",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/text?format=json"
+    },
+    "title": "Enhancing Detection of Human Trafficking Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2241/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-15T20:00:52Z",
+    "updateDateIncludingText": "2026-10-15T20:00:52Z"
+  },
+  "request": {
+    "billNumber": "2241",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

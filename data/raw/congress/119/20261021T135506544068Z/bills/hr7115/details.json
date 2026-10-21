@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 11 (Thursday, January 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of West Virginia:\nH.R. 7115.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1\n[Page H921]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-15",
+    "latestAction": {
+      "actionDate": "2026-01-15",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7115",
+    "number": "7115",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001235",
+        "district": 2,
+        "firstName": "Riley",
+        "fullName": "Rep. Moore, Riley M. [R-WV-2]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/M001235?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/text?format=json"
+    },
+    "title": "Jumpstart Savings Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7115/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:44Z",
+    "updateDateIncludingText": "2026-09-01T08:05:44Z"
+  },
+  "request": {
+    "billNumber": "7115",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

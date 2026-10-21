@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OWENS:\nH.R. 4716.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the Constitution\n[Page H3649]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-03-18",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4716",
+    "number": "4716",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000086",
+        "district": 4,
+        "firstName": "Burgess",
+        "fullName": "Rep. Owens, Burgess [R-UT-4]",
+        "isByRequest": "N",
+        "lastName": "Owens",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/O000086?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/text?format=json"
+    },
+    "title": "To transfer administrative jurisdiction of certain Federal land in Saratoga Springs, Utah, from the Secretary of the Interior to the United States Postal Service for construction of a post office, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4716/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-18T00:03:01Z",
+    "updateDateIncludingText": "2026-07-18T00:03:01Z"
+  },
+  "request": {
+    "billNumber": "4716",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

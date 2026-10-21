@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. DAVIDS of Kansas:\nH.R. 9346.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis legislation is enacted pursuant to Article I, Section\n8 of the United States Constitution.\n[Page H4126]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9346",
+    "number": "9346",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000629",
+        "district": 3,
+        "firstName": "Sharice",
+        "fullName": "Rep. Davids, Sharice [D-KS-3]",
+        "isByRequest": "N",
+        "lastName": "Davids",
+        "party": "D",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/D000629?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/text?format=json"
+    },
+    "title": "USDA Field Office Stability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9346/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-03T08:06:23Z",
+    "updateDateIncludingText": "2026-07-03T08:06:23Z"
+  },
+  "request": {
+    "billNumber": "9346",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

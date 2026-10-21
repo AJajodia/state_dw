@@ -1,0 +1,29 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001199",
+      "district": 21,
+      "firstName": "Brian",
+      "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mast",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-15",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001199?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "1296",
+    "billType": "hres",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hres/1296?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 156 (Thursday, October 1, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. GRIJALVA:\nH.R. 10672.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Sec. 1 and Sec. 8\n[Page H6019]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-01",
+    "latestAction": {
+      "actionDate": "2026-10-01",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10672",
+    "number": "10672",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000606",
+        "district": 7,
+        "firstName": "Adelita",
+        "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+        "isByRequest": "N",
+        "lastName": "Grijalva",
+        "middleName": "S.",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/text?format=json"
+    },
+    "title": "America\u2019s College Promise Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10672/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-14T16:09:47Z",
+    "updateDateIncludingText": "2026-10-14T16:09:47Z"
+  },
+  "request": {
+    "billNumber": "10672",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

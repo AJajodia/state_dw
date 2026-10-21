@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 156 (Thursday, October 1, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DeSAULNIER:\nH.R. 10641.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H6019]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-01",
+    "latestAction": {
+      "actionDate": "2026-10-01",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10641",
+    "number": "10641",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000623",
+        "district": 10,
+        "firstName": "Mark",
+        "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+        "isByRequest": "N",
+        "lastName": "DeSaulnier",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/D000623?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/text?format=json"
+    },
+    "title": "Employee and Retiree Access to Justice Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10641/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-14T19:38:34Z",
+    "updateDateIncludingText": "2026-10-14T19:38:34Z"
+  },
+  "request": {
+    "billNumber": "10641",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-25",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1129",
+    "number": "1129",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001198",
+        "firstName": "Roger",
+        "fullName": "Sen. Marshall, Roger [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Marshall",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/text?format=json"
+    },
+    "title": "Dietary Guidelines Reform Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1129/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-28T19:00:42Z",
+    "updateDateIncludingText": "2026-07-28T19:00:42Z"
+  },
+  "request": {
+    "billNumber": "1129",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-01-23",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S336-337)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/211",
+    "number": "211",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001261",
+        "firstName": "John",
+        "fullName": "Sen. Barrasso, John [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Barrasso",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/B001261?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/text?format=json"
+    },
+    "title": "Resiliency for Ranching and Natural Conservation Health Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/211/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:09:59Z",
+    "updateDateIncludingText": "2026-09-08T18:09:59Z"
+  },
+  "request": {
+    "billNumber": "211",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

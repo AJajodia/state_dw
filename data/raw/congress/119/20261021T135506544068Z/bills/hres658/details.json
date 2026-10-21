@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-15",
+    "latestAction": {
+      "actionDate": "2025-08-15",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/658",
+    "number": "658",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001143",
+        "district": 4,
+        "firstName": "Betty",
+        "fullName": "Rep. McCollum, Betty [D-MN-4]",
+        "isByRequest": "N",
+        "lastName": "McCollum",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001143?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/text?format=json"
+    },
+    "title": "Recognizing the nonprofit sector and the contributions of nonprofit employees, and expressing support for August 17, 2025, to be designated as \"National Nonprofit Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/658/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-09-05T16:56:23Z",
+    "updateDateIncludingText": "2025-09-05T16:56:23Z"
+  },
+  "request": {
+    "billNumber": "658",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001053",
+      "district": 4,
+      "firstName": "Tom",
+      "fullName": "Rep. Cole, Tom [R-OK-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cole",
+      "party": "R",
+      "sponsorshipDate": "2026-10-06",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/C001053?format=json"
+    },
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2026-10-06",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "10751",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/10751?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

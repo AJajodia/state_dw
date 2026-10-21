@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/784/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/784/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Referred to the Committee on Rules and Administration. (text: CR S3060)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/784",
+    "number": "784",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000174",
+        "firstName": "Jon",
+        "fullName": "Sen. Ossoff, Jon [D-GA]",
+        "isByRequest": "N",
+        "lastName": "Ossoff",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/O000174?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/784/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/784/text?format=json"
+    },
+    "title": "A resolution prohibiting the buying or selling of certain investments by Senators.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/784/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-07-08T14:39:57Z",
+    "updateDateIncludingText": "2026-07-08T14:39:57Z"
+  },
+  "request": {
+    "billNumber": "784",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

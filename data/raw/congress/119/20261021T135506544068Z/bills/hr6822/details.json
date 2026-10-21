@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TONKO:\nH.R. 6822.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\nThe Congress shall have Power to regulate Commerce with\nforeign Nations, and among several States, and with the\nIndian tribes.\n[Page H6025]\n</pre>",
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6822",
+    "number": "6822",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000469",
+        "district": 20,
+        "firstName": "Paul",
+        "fullName": "Rep. Tonko, Paul [D-NY-20]",
+        "isByRequest": "N",
+        "lastName": "Tonko",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/text?format=json"
+    },
+    "title": "Stopping Grinch Bots Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6822/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-29T13:02:47Z",
+    "updateDateIncludingText": "2026-04-29T13:02:47Z"
+  },
+  "request": {
+    "billNumber": "6822",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

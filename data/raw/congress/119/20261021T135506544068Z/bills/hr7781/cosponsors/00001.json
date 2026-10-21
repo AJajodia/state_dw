@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "J000301",
+      "district": 0,
+      "firstName": "Dusty",
+      "fullName": "Rep. Johnson, Dusty [R-SD-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Johnson",
+      "party": "R",
+      "sponsorshipDate": "2026-03-03",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/J000301?format=json"
+    },
+    {
+      "bioguideId": "C001119",
+      "district": 2,
+      "firstName": "Angie",
+      "fullName": "Rep. Craig, Angie [D-MN-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Craig",
+      "party": "D",
+      "sponsorshipDate": "2026-04-15",
+      "state": "MN",
+      "url": "https://api.congress.gov/v3/member/C001119?format=json"
+    },
+    {
+      "bioguideId": "H001094",
+      "district": 4,
+      "firstName": "Val",
+      "fullName": "Rep. Hoyle, Val T. [D-OR-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hoyle",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-21",
+      "state": "OR",
+      "url": "https://api.congress.gov/v3/member/H001094?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "7781",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/7781?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 114 (Tuesday, July 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VELAZQUEZ:\nH.R. 9691.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\nThe Congress shall have Power . . . To regulate Commerce\nwith foreign Nations, and among the several States, and with\nthe Indian Tribes.\n[Page H4468]\n</pre>",
+    "introducedDate": "2026-07-14",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9691",
+    "number": "9691",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/text?format=json"
+    },
+    "title": "7(a) Program Risk Oversight Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9691/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-22T15:01:18Z",
+    "updateDateIncludingText": "2026-07-22T15:01:18Z"
+  },
+  "request": {
+    "billNumber": "9691",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

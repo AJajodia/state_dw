@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "K000009",
+      "district": 9,
+      "firstName": "Marcy",
+      "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaptur",
+      "party": "D",
+      "sponsorshipDate": "2025-12-16",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/K000009?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "6748",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/6748?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

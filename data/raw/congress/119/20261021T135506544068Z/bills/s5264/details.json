@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-05",
+    "latestAction": {
+      "actionDate": "2026-08-05",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S4478)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5264",
+    "number": "5264",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000122",
+        "firstName": "John",
+        "fullName": "Sen. Reed, Jack [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Reed",
+        "middleName": "F.",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/R000122?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/text?format=json"
+    },
+    "title": "Bus Operator Safety and Security Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5264/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-20T19:04:24Z",
+    "updateDateIncludingText": "2026-08-20T19:04:24Z"
+  },
+  "request": {
+    "billNumber": "5264",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

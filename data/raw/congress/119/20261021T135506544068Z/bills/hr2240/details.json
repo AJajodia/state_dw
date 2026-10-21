@@ -1,0 +1,93 @@
+{
+  "bill": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee the Judiciary on March 25, 2025",
+        "pubDate": "2025-03-31T19:42:00Z",
+        "title": "H.R. 2240, Improving Law Enforcement Officer Safety and Wellness Through Data Act",
+        "url": "https://www.cbo.gov/publication/61282"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-79",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/79?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 52 (Friday, March 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of North Carolina:\nH.R. 2240.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the U.S. Constitution.\n[Page H1189]\n</pre>",
+    "cosponsors": {
+      "count": 22,
+      "countIncludingWithdrawnCosponsors": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2025-05-19",
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2240",
+    "number": "2240",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001236",
+        "district": 14,
+        "firstName": "Tim",
+        "fullName": "Rep. Moore, Tim [R-NC-14]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001236?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/text?format=json"
+    },
+    "title": "Improving Law Enforcement Officer Safety and Wellness Through Data Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2240/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "2240",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

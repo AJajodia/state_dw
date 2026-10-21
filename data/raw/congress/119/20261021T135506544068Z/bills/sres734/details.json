@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-14",
+    "latestAction": {
+      "actionDate": "2026-05-14",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2313; text: CR S2310)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/734",
+    "number": "734",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/text?format=json"
+    },
+    "title": "A resolution designating May 16, 2026, as \"Kids to Parks Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/734/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-06-24T14:00:10Z",
+    "updateDateIncludingText": "2026-06-24T14:00:10Z"
+  },
+  "request": {
+    "billNumber": "734",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

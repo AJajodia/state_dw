@@ -1,0 +1,80 @@
+{
+  "bill": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on December 2, 2025",
+        "pubDate": "2026-01-26T20:13:00Z",
+        "title": "H.R. 6329, Information Quality Assurance Act",
+        "url": "https://www.cbo.gov/publication/62042"
+      }
+    ],
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 200 (Monday, December 1, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. McCLAIN:\nH.R. 6329.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H4966]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-01",
+    "latestAction": {
+      "actionDate": "2026-02-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6329",
+    "number": "6329",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001136",
+        "district": 9,
+        "firstName": "Lisa",
+        "fullName": "Rep. McClain, Lisa C. [R-MI-9]",
+        "isByRequest": "N",
+        "lastName": "McClain",
+        "middleName": "C.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/text?format=json"
+    },
+    "title": "Information Quality Assurance Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6329/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-28T06:38:19Z",
+    "updateDateIncludingText": "2026-07-13T19:01:29Z"
+  },
+  "request": {
+    "billNumber": "6329",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

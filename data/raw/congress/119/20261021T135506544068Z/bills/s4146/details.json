@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-19",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4146",
+    "number": "4146",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000571",
+        "firstName": "Cynthia",
+        "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+        "isByRequest": "N",
+        "lastName": "Lummis",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/L000571?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/text?format=json"
+    },
+    "title": "Local Data for Better Conservation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4146/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:12:22Z",
+    "updateDateIncludingText": "2026-09-08T18:12:22Z"
+  },
+  "request": {
+    "billNumber": "4146",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

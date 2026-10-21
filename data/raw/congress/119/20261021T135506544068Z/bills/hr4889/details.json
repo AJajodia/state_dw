@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 135 (Tuesday, August 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KILEY of California:\nH.R. 4889.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section IV\n[Page H3682]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-05",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Motion to Discharge Committee filed by Mr. Kiley (CA). Petition No: 119-21. (<a href=\"https://clerk.house.gov/DischargePetition/2026051221\">Discharge petition</a> text with signatures.)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4889",
+    "number": "4889",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000401",
+        "district": 3,
+        "firstName": "Kevin",
+        "fullName": "Rep. Kiley, Kevin [R-CA-3]",
+        "isByRequest": "N",
+        "lastName": "Kiley",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000401?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/text?format=json"
+    },
+    "title": "To prohibit States from carrying out more than one Congressional redistricting after a decennial census and apportionment.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4889/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:34:08Z",
+    "updateDateIncludingText": "2026-09-19T23:34:08Z"
+  },
+  "request": {
+    "billNumber": "4889",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

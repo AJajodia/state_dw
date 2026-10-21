@@ -1,0 +1,83 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+        "pubDate": "2026-08-27T14:23:00Z",
+        "title": "H.R. 8202, a bill to amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limitations for export control violations",
+        "url": "https://www.cbo.gov/publication/62604"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 62 (Monday, April 6, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MACKENZIE:\nH.R. 8202.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2825]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-06",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Ordered to be Reported by the Yeas and Nays: 44 - 0."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8202",
+    "number": "8202",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001230",
+        "district": 7,
+        "firstName": "Ryan",
+        "fullName": "Rep. Mackenzie, Ryan [R-PA-7]",
+        "isByRequest": "N",
+        "lastName": "Mackenzie",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/text?format=json"
+    },
+    "title": "To amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limitations for export control violations.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8202/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:21:35Z",
+    "updateDateIncludingText": "2026-09-19T23:21:35Z"
+  },
+  "request": {
+    "billNumber": "8202",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

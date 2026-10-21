@@ -1,0 +1,167 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "N000015",
+      "district": 1,
+      "firstName": "Richard",
+      "fullName": "Rep. Neal, Richard E. [D-MA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Neal",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/N000015?format=json"
+    },
+    {
+      "bioguideId": "J000295",
+      "district": 14,
+      "firstName": "David",
+      "fullName": "Rep. Joyce, David P. [R-OH-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Joyce",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/J000295?format=json"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": 1,
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/F000466?format=json"
+    },
+    {
+      "bioguideId": "B001296",
+      "district": 2,
+      "firstName": "Brendan",
+      "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boyle",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/B001296?format=json"
+    },
+    {
+      "bioguideId": "S001213",
+      "district": 1,
+      "firstName": "Bryan",
+      "fullName": "Rep. Steil, Bryan [R-WI-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Steil",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/S001213?format=json"
+    },
+    {
+      "bioguideId": "G000593",
+      "district": 28,
+      "firstName": "Carlos",
+      "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gimenez",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/G000593?format=json"
+    },
+    {
+      "bioguideId": "S001200",
+      "district": 9,
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/S001200?format=json"
+    },
+    {
+      "bioguideId": "H001052",
+      "district": 1,
+      "firstName": "Andy",
+      "fullName": "Rep. Harris, Andy [R-MD-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/H001052?format=json"
+    },
+    {
+      "bioguideId": "H001072",
+      "district": 2,
+      "firstName": "J.",
+      "fullName": "Rep. Hill, J. French [R-AR-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hill",
+      "middleName": "French",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/H001072?format=json"
+    },
+    {
+      "bioguideId": "F000474",
+      "district": 1,
+      "firstName": "Mike",
+      "fullName": "Rep. Flood, Mike [R-NE-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Flood",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NE",
+      "url": "https://api.congress.gov/v3/member/F000474?format=json"
+    },
+    {
+      "bioguideId": "M001235",
+      "district": 2,
+      "firstName": "Riley",
+      "fullName": "Rep. Moore, Riley [R-WV-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moore",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "WV",
+      "url": "https://api.congress.gov/v3/member/M001235?format=json"
+    },
+    {
+      "bioguideId": "D000600",
+      "district": 26,
+      "firstName": "Mario",
+      "fullName": "Rep. Diaz-Balart, Mario [R-FL-26]",
+      "isOriginalCosponsor": false,
+      "lastName": "Diaz-Balart",
+      "party": "R",
+      "sponsorshipDate": "2025-02-04",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/D000600?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 12,
+    "countIncludingWithdrawnCosponsors": 12
+  },
+  "request": {
+    "billNumber": "74",
+    "billType": "hres",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hres/74?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

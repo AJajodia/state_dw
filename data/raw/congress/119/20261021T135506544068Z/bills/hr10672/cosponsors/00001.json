@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S000185",
+      "district": 3,
+      "firstName": "Robert",
+      "fullName": "Rep. Scott, Robert C. \"Bobby\" [D-VA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Scott",
+      "middleName": "C. \"Bobby\"",
+      "party": "D",
+      "sponsorshipDate": "2026-10-01",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/S000185?format=json"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2026-10-01",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    },
+    {
+      "bioguideId": "L000273",
+      "district": 3,
+      "firstName": "Teresa",
+      "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Leger Fernandez",
+      "party": "D",
+      "sponsorshipDate": "2026-10-01",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000273?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "10672",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/10672?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

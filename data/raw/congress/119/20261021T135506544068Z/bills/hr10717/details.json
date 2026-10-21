@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 156 (Thursday, October 1, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VINDMAN:\nH.R. 10717.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H6020]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-01",
+    "latestAction": {
+      "actionDate": "2026-10-01",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10717",
+    "number": "10717",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000138",
+        "district": 7,
+        "firstName": "Eugene",
+        "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "isByRequest": "N",
+        "lastName": "Vindman",
+        "middleName": "Simon",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/V000138?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/text?format=json"
+    },
+    "title": "Wigs for Warriors Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10717/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-14T21:32:48Z",
+    "updateDateIncludingText": "2026-10-14T21:32:48Z"
+  },
+  "request": {
+    "billNumber": "10717",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,6 @@
+# Official NeoBERT environment; use Python 3.11 on a Linux NVIDIA GPU node.
+# xformers 0.0.28.post3 requires torch 2.5.1 (Python 3.13 is unsupported).
+torch==2.5.1
+xformers==0.0.28.post3
+transformers==4.48.2
+numpy==1.26.4

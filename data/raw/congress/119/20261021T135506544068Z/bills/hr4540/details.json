@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VINDMAN:\nH.R. 4540.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H3477]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-12-19",
+      "text": "Referred to the Subcommittee on Economic Opportunity."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4540",
+    "number": "4540",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000138",
+        "district": 7,
+        "firstName": "Eugene",
+        "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "isByRequest": "N",
+        "lastName": "Vindman",
+        "middleName": "Simon",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/V000138?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/text?format=json"
+    },
+    "title": "Military Family GI Bill Promise Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4540/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-03T09:05:26Z",
+    "updateDateIncludingText": "2026-02-03T09:05:26Z"
+  },
+  "request": {
+    "billNumber": "4540",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

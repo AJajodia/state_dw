@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 86 (Wednesday, May 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOODEN:\nH.R. 3539.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe Constitutional authority on which this bill rests is\nthe power of Congress to promote the ``Progress of Science\nand useful Arts, by securing for limited Times to Authors and\nInventors the exclusive Right to their respective Writings\nand Discoveries'' as enumerated in Article I, Section 8,\nclause 8. Additionally, the constitutional authority of\nCongress to enact this legislation is also provided by\nArticle I, section 8 of the United States Constitution,\nspecifically clause 18 (relating to the power to make all\nlaws necessary and proper for carrying out the powers vested\nin Congress).\n[Page H2362]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3539",
+    "number": "3539",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000589",
+        "district": 5,
+        "firstName": "Lance",
+        "fullName": "Rep. Gooden, Lance [R-TX-5]",
+        "isByRequest": "N",
+        "lastName": "Gooden",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000589?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/text?format=json"
+    },
+    "title": "Leadership in CET Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T22:08:32Z",
+    "updateDateIncludingText": "2025-12-05T22:08:32Z"
+  },
+  "request": {
+    "billNumber": "3539",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-05",
+    "latestAction": {
+      "actionDate": "2026-08-05",
+      "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4477-4478)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5250",
+    "number": "5250",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001035",
+        "firstName": "Susan",
+        "fullName": "Sen. Collins, Susan M. [R-ME]",
+        "isByRequest": "N",
+        "lastName": "Collins",
+        "middleName": "M.",
+        "party": "R",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/C001035?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/text?format=json"
+    },
+    "title": "Medicare Home Health Payment Integrity and Protection Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5250/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-15T11:03:30Z",
+    "updateDateIncludingText": "2026-09-15T11:03:30Z"
+  },
+  "request": {
+    "billNumber": "5250",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

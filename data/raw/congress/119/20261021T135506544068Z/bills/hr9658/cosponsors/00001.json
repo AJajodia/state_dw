@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001184",
+      "district": 4,
+      "firstName": "Thomas",
+      "fullName": "Rep. Massie, Thomas [R-KY-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Massie",
+      "party": "R",
+      "sponsorshipDate": "2026-07-13",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/M001184?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "9658",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/9658?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

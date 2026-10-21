@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROUZER:\nH.R. 834.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-02-01",
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/834",
+    "number": "834",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": 7,
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "isByRequest": "N",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/text?format=json"
+    },
+    "title": "Disaster Assistance Fairness Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/834/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-11T20:45:26Z",
+    "updateDateIncludingText": "2026-05-11T20:45:26Z"
+  },
+  "request": {
+    "billNumber": "834",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

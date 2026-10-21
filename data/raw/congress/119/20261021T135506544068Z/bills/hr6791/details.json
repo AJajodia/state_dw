@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/actions?format=json"
+    },
+    "committees": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TONY GONZALES of Texas:\nH.R. 6791.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H6024]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6791",
+    "number": "6791",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000594",
+        "district": 23,
+        "firstName": "Tony",
+        "fullName": "Rep. Gonzales, Tony [R-TX-23]",
+        "isByRequest": "N",
+        "lastName": "Gonzales",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000594?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/text?format=json"
+    },
+    "title": "To authorize the Land Port of Entry Community Infrastructure Program to address deficiencies in community infrastructure supportive of land ports of entry, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6791/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:01Z",
+    "updateDateIncludingText": "2026-09-19T23:39:01Z"
+  },
+  "request": {
+    "billNumber": "6791",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

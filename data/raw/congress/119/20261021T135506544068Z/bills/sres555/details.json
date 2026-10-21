@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/555",
+    "number": "555",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000802",
+        "firstName": "Sheldon",
+        "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/W000802?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/text?format=json"
+    },
+    "title": "A resolution recognizing that climate change poses a threat to the mortgage market and to home values.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/555/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-01-06T18:52:53Z",
+    "updateDateIncludingText": "2026-01-06T18:52:53Z"
+  },
+  "request": {
+    "billNumber": "555",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

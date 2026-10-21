@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 209 (Thursday, December 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MURPHY:\nH.R. 6662.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H5811]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2026-01-15",
+      "text": "Referred to the Subcommittee on Health."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6662",
+    "number": "6662",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001210",
+        "district": 3,
+        "firstName": "Gregory",
+        "fullName": "Rep. Murphy, Gregory F. [R-NC-3]",
+        "isByRequest": "N",
+        "lastName": "Murphy",
+        "middleName": "F.",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001210?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/text?format=json"
+    },
+    "title": "Department of Defense and Department of Veterans Affairs Medical Credentialing Integration Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6662/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:10:29Z",
+    "updateDateIncludingText": "2026-09-19T23:10:29Z"
+  },
+  "request": {
+    "billNumber": "6662",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

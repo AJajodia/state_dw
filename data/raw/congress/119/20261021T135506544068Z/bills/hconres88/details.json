@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-22",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/88",
+    "number": "88",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001068",
+        "district": 2,
+        "firstName": "Jared",
+        "fullName": "Rep. Huffman, Jared [D-CA-2]",
+        "isByRequest": "N",
+        "lastName": "Huffman",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/H001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/text?format=json"
+    },
+    "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/88/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-09-19T23:21:04Z",
+    "updateDateIncludingText": "2026-09-19T23:21:04Z"
+  },
+  "request": {
+    "billNumber": "88",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

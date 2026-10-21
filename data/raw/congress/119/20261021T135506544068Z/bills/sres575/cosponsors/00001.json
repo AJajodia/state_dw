@@ -1,0 +1,27 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001190",
+      "firstName": "Markwayne",
+      "fullName": "Sen. Mullin, Markwayne [R-OK]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mullin",
+      "party": "R",
+      "sponsorshipDate": "2026-01-06",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/M001190?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "575",
+    "billType": "sres",
+    "billUrl": "https://api.congress.gov/v3/bill/119/sres/575?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

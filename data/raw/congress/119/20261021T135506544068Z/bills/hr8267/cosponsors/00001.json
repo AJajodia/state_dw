@@ -1,0 +1,52 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-04-29",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    },
+    {
+      "bioguideId": "C001063",
+      "district": 28,
+      "firstName": "Henry",
+      "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cuellar",
+      "party": "D",
+      "sponsorshipDate": "2026-06-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001063?format=json"
+    },
+    {
+      "bioguideId": "M000871",
+      "district": 1,
+      "firstName": "Tracey",
+      "fullName": "Rep. Mann, Tracey [R-KS-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Mann",
+      "party": "R",
+      "sponsorshipDate": "2026-09-28",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/M000871?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "8267",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8267?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

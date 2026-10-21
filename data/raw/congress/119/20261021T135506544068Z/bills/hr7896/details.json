@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-03-12",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7896",
+    "number": "7896",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000380",
+        "district": 1,
+        "firstName": "Gabe",
+        "fullName": "Rep. Amo, Gabe [D-RI-1]",
+        "isByRequest": "N",
+        "lastName": "Amo",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/A000380?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/text?format=json"
+    },
+    "title": "NOAA Global Ocean Monitoring and Observing Research Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7896/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:45Z",
+    "updateDateIncludingText": "2026-09-01T08:05:45Z"
+  },
+  "request": {
+    "billNumber": "7896",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

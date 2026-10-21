@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "Referred to the Committee on Environment and Public Works. (text: CR S4423)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/18",
+    "number": "18",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001176",
+        "firstName": "Jeff",
+        "fullName": "Sen. Merkley, Jeff [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Merkley",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/M001176?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/text?format=json"
+    },
+    "title": "A concurrent resolution recognizing a health and safety emergency disproportionately affecting the fundamental rights of children due to the Trump administration's directives that unleash fossil fuels and greenhouse gas emissions that contribute to climate change, while suppressing climate change science.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sconres/18/titles?format=json"
+    },
+    "type": "SCONRES",
+    "updateDate": "2026-09-24T10:56:24Z",
+    "updateDateIncludingText": "2026-09-24T10:56:24Z"
+  },
+  "request": {
+    "billNumber": "18",
+    "billType": "sconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "bill": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+        "pubDate": "2026-08-04T15:18:00Z",
+        "title": "H.R. 9570, a bill to designate the facility of the United States Postal Service located at 117 West Lovett Street in Charlotte, Michigan, as the &quot;Francis C. Flaherty Post Office Building&quot;",
+        "url": "https://www.cbo.gov/publication/62626"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 110 (Thursday, July 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BARRETT:\nH.R. 9570.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4370]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-02",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9570",
+    "number": "9570",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001321",
+        "district": 7,
+        "firstName": "Tom",
+        "fullName": "Rep. Barrett, Tom [R-MI-7]",
+        "isByRequest": "N",
+        "lastName": "Barrett",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/B001321?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 117 West Lovett Street in Charlotte, Michigan, as the \"Francis C. Flaherty Post Office Building\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9570/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-24T22:01:26Z",
+    "updateDateIncludingText": "2026-09-24T22:01:26Z"
+  },
+  "request": {
+    "billNumber": "9570",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

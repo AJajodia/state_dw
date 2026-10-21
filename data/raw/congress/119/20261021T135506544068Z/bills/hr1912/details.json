@@ -1,0 +1,82 @@
+{
+  "bill": {
+    "actions": {
+      "count": 22,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CONNOLLY:\nH.R. 1912.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1039]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-12-12",
+      "text": "Became Public Law No: 119-56."
+    },
+    "laws": [
+      {
+        "number": "119-56",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1912",
+    "number": "1912",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001078",
+        "district": 11,
+        "firstName": "Gerald",
+        "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Connolly",
+        "middleName": "E.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001078?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/text?format=json"
+    },
+    "title": "Veteran Fraud Reimbursement Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1912/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-10T19:28:26Z",
+    "updateDateIncludingText": "2026-07-13T19:48:52Z"
+  },
+  "request": {
+    "billNumber": "1912",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

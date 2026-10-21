@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "W000795",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Wilson, Joe [R-SC-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Wilson",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/W000795?format=json"
+    },
+    {
+      "bioguideId": "K000009",
+      "district": 9,
+      "firstName": "Marcy",
+      "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kaptur",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/K000009?format=json"
+    },
+    {
+      "bioguideId": "S000522",
+      "district": 4,
+      "firstName": "Christopher",
+      "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "NJ",
+      "url": "https://api.congress.gov/v3/member/S000522?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "4804",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4804?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

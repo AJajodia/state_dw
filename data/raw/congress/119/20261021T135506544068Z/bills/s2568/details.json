@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2568/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2568/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2025-07-31",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2568",
+    "number": "2568",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000577",
+        "firstName": "Mike",
+        "fullName": "Sen. Lee, Mike [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/L000577?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2568/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2568/text?format=json"
+    },
+    "title": "Protecting American Jobs Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2568/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-09-18T18:17:25Z",
+    "updateDateIncludingText": "2025-09-18T18:17:25Z"
+  },
+  "request": {
+    "billNumber": "2568",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

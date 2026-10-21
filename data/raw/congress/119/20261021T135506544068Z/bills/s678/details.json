@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-20",
+    "latestAction": {
+      "actionDate": "2025-02-20",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/678",
+    "number": "678",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/text?format=json"
+    },
+    "title": "LIVE Beneficiaries Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/678/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-05T21:39:57Z",
+    "updateDateIncludingText": "2025-12-05T21:39:57Z"
+  },
+  "request": {
+    "billNumber": "678",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

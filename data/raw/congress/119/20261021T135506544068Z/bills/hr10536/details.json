@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 152 (Thursday, September 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARBAJAL:\nH.R. 10536.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H6004]\n</pre>",
+    "introducedDate": "2026-09-24",
+    "latestAction": {
+      "actionDate": "2026-09-24",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10536",
+    "number": "10536",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001112",
+        "district": 24,
+        "firstName": "Salud",
+        "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+        "isByRequest": "N",
+        "lastName": "Carbajal",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001112?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/text?format=json"
+    },
+    "title": "Ocean Protection and DDT Reduction Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10536/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-15T17:48:44Z",
+    "updateDateIncludingText": "2026-10-15T17:48:44Z"
+  },
+  "request": {
+    "billNumber": "10536",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

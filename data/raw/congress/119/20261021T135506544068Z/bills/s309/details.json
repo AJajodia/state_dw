@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2025-01-29",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/309",
+    "number": "309",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000618",
+        "firstName": "Steve",
+        "fullName": "Sen. Daines, Steve [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Daines",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/D000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/text?format=json"
+    },
+    "title": "A PLUS Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/309/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-05T21:36:19Z",
+    "updateDateIncludingText": "2025-12-05T21:36:19Z"
+  },
+  "request": {
+    "billNumber": "309",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

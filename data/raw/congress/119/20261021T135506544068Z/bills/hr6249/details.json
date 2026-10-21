@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 197 (Friday, November 21, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BALINT:\nH.R. 6249.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the U.S. Constitution\n[Page H4896]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-21",
+    "latestAction": {
+      "actionDate": "2025-11-22",
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6249",
+    "number": "6249",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001318",
+        "firstName": "Becca",
+        "fullName": "Rep. Balint, Becca [D-VT-At Large]",
+        "isByRequest": "N",
+        "lastName": "Balint",
+        "party": "D",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/B001318?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/text?format=json"
+    },
+    "title": "Addressing Addiction After Disasters Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6249/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-16T09:06:37Z",
+    "updateDateIncludingText": "2026-01-16T09:06:37Z"
+  },
+  "request": {
+    "billNumber": "6249",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

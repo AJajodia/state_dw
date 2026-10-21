@@ -1,0 +1,29 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000165",
+      "district": 7,
+      "firstName": "Thomas",
+      "fullName": "Rep. Tiffany, Thomas P. [R-WI-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Tiffany",
+      "middleName": "P.",
+      "party": "R",
+      "sponsorshipDate": "2025-02-25",
+      "state": "WI",
+      "url": "https://api.congress.gov/v3/member/T000165?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "1587",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/1587?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 29,
+      "countIncludingWithdrawnCosponsors": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/413",
+    "number": "413",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001215",
+        "district": 11,
+        "firstName": "Haley",
+        "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+        "isByRequest": "N",
+        "lastName": "Stevens",
+        "middleName": "M.",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/text?format=json"
+    },
+    "title": "Condemning Hamas for its premeditated, coordinated, and brutal terrorist attacks on October 7, 2023, against Israel and demanding that Hamas immediately release all remaining hostages and return them to safety, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/413/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-11-30T06:57:55Z",
+    "updateDateIncludingText": "2025-11-30T06:57:55Z"
+  },
+  "request": {
+    "billNumber": "413",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

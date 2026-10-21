@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1475",
+    "number": "1475",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000802",
+        "firstName": "Sheldon",
+        "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/W000802?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/text?format=json"
+    },
+    "title": "Clean Cloud Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1475/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:12:22Z",
+    "updateDateIncludingText": "2026-09-08T18:12:22Z"
+  },
+  "request": {
+    "billNumber": "1475",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 133 (Friday, August 1, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. CHU:\nH.R. 4840.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 1 (Taxing and Spending Clause)\n[Page H3674]\n</pre>",
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-01",
+    "latestAction": {
+      "actionDate": "2025-08-01",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4840",
+    "number": "4840",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001080",
+        "district": 28,
+        "firstName": "Judy",
+        "fullName": "Rep. Chu, Judy [D-CA-28]",
+        "isByRequest": "N",
+        "lastName": "Chu",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001080?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/text?format=json"
+    },
+    "title": "CREATE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4840/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-22T08:05:35Z",
+    "updateDateIncludingText": "2026-09-22T08:05:35Z"
+  },
+  "request": {
+    "billNumber": "4840",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

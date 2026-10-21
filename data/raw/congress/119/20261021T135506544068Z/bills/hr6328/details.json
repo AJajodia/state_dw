@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 199 (Friday, November 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VINDMAN:\nH.R. 6328.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H4908]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-28",
+    "latestAction": {
+      "actionDate": "2025-11-28",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6328",
+    "number": "6328",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000138",
+        "district": 7,
+        "firstName": "Eugene",
+        "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "isByRequest": "N",
+        "lastName": "Vindman",
+        "middleName": "Simon",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/V000138?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/text?format=json"
+    },
+    "title": "Main Street Home Builders Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6328/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-07T09:05:34Z",
+    "updateDateIncludingText": "2026-01-07T09:05:34Z"
+  },
+  "request": {
+    "billNumber": "6328",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

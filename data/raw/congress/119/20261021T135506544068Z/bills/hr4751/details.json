@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. WASSERMAN SCHULTZ:\nH.R. 4751.\nCongress has the power to enact this legislation pursuant\nto the following:\nUS Constitution, Article 1, Section 8\n[Page H3650]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4751",
+    "number": "4751",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000797",
+        "district": 25,
+        "firstName": "Debbie",
+        "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "isByRequest": "N",
+        "lastName": "Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/W000797?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/text?format=json"
+    },
+    "title": "To amend the Virginia Graeme Baker Pool and Spa Safety Act to reauthorize certain programs, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4751/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-18T00:01:14Z",
+    "updateDateIncludingText": "2026-07-18T00:01:14Z"
+  },
+  "request": {
+    "billNumber": "4751",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

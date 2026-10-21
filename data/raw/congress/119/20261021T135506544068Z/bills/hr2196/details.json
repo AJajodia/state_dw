@@ -1,0 +1,87 @@
+{
+  "bill": {
+    "actions": {
+      "count": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-518",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/518?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 50 (Tuesday, March 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HUDSON:\nH.R. 2196.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2\n[Page H1172]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-18",
+    "latestAction": {
+      "actionDate": "2026-09-11",
+      "text": "Became Public Law No: 119-107."
+    },
+    "laws": [
+      {
+        "number": "119-107",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2196",
+    "number": "2196",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001067",
+        "district": 9,
+        "firstName": "Richard",
+        "fullName": "Rep. Hudson, Richard [R-NC-9]",
+        "isByRequest": "N",
+        "lastName": "Hudson",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001067?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/text?format=json"
+    },
+    "title": "National Emergency Medical Services Memorial Extension Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2196/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-28T19:34:21Z",
+    "updateDateIncludingText": "2026-09-28T19:34:21Z"
+  },
+  "request": {
+    "billNumber": "2196",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

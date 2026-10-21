@@ -1,0 +1,85 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Financial Services on January 22, 2026",
+        "pubDate": "2026-02-26T17:35:00Z",
+        "title": "H.R. 1799, Financial Reporting Threshold Modernization Act",
+        "url": "https://www.cbo.gov/publication/62185"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-556",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/556?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LOUDERMILK:\nH.R. 1799.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8.\n[Page H946]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Placed on the Union Calendar, Calendar No. 478."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1799",
+    "number": "1799",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000583",
+        "district": 11,
+        "firstName": "Barry",
+        "fullName": "Rep. Loudermilk, Barry [R-GA-11]",
+        "isByRequest": "N",
+        "lastName": "Loudermilk",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/L000583?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/text?format=json"
+    },
+    "title": "Financial Reporting Threshold Modernization Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1799/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:44Z",
+    "updateDateIncludingText": "2026-06-11T23:26:44Z"
+  },
+  "request": {
+    "billNumber": "1799",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

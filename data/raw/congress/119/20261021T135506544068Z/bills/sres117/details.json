@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/117/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/117/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-03-06",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1616; text: CR S1609)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/117",
+    "number": "117",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000355",
+        "firstName": "Mitch",
+        "fullName": "Sen. McConnell, Mitch [R-KY]",
+        "isByRequest": "N",
+        "lastName": "McConnell",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M000355?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/117/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/117/text?format=json"
+    },
+    "title": "A resolution providing for members on the part of the Senate of the Joint Committee on Printing and the Joint Committee of Congress on the Library.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/117/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-05-14T17:55:37Z",
+    "updateDateIncludingText": "2025-05-14T17:55:37Z"
+  },
+  "request": {
+    "billNumber": "117",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

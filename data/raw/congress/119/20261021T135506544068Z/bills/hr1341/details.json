@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PERRY:\nH.R. 1341.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the US Constitution.\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Referred to the Subcommittee on Water Resources and Environment."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1341",
+    "number": "1341",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000605",
+        "district": 10,
+        "firstName": "Scott",
+        "fullName": "Rep. Perry, Scott [R-PA-10]",
+        "isByRequest": "N",
+        "lastName": "Perry",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/P000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/text?format=json"
+    },
+    "title": "DRILL Now Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1341/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-02T14:04:15Z",
+    "updateDateIncludingText": "2025-05-02T14:04:15Z"
+  },
+  "request": {
+    "billNumber": "1341",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

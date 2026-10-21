@@ -1,0 +1,41 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "L000273",
+      "district": 3,
+      "firstName": "Teresa",
+      "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Leger Fernandez",
+      "party": "D",
+      "sponsorshipDate": "2025-02-18",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/L000273?format=json"
+    },
+    {
+      "bioguideId": "S001218",
+      "district": 1,
+      "firstName": "Melanie",
+      "fullName": "Rep. Stansbury, Melanie A. [D-NM-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stansbury",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-18",
+      "state": "NM",
+      "url": "https://api.congress.gov/v3/member/S001218?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "1444",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/1444?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

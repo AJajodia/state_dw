@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 130 (Tuesday, July 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. CHU:\nH.R. 4787.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 1 (Taxing and Spending Clause)\n[Page H3664]\n</pre>",
+    "introducedDate": "2025-07-29",
+    "latestAction": {
+      "actionDate": "2025-07-29",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4787",
+    "number": "4787",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001080",
+        "district": 28,
+        "firstName": "Judy",
+        "fullName": "Rep. Chu, Judy [D-CA-28]",
+        "isByRequest": "N",
+        "lastName": "Chu",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001080?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/text?format=json"
+    },
+    "title": "To amend the Internal Revenue Code of 1986 to extend the deduction for film and television productions and to make certain changes with respect to the calculation of such deduction.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4787/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-22T18:40:32Z",
+    "updateDateIncludingText": "2026-05-22T18:40:32Z"
+  },
+  "request": {
+    "billNumber": "4787",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

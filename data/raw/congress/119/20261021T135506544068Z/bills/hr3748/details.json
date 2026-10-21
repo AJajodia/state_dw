@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 96 (Thursday, June 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BERA:\nH.R. 3748.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of section 8 of article I of the Constitution.\n[Page H2507]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-05",
+    "latestAction": {
+      "actionDate": "2025-06-05",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3748",
+    "number": "3748",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001287",
+        "district": 6,
+        "firstName": "Ami",
+        "fullName": "Rep. Bera, Ami [D-CA-6]",
+        "isByRequest": "N",
+        "lastName": "Bera",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/B001287?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/text?format=json"
+    },
+    "title": "MARITIME Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3748/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-22T12:32:17Z",
+    "updateDateIncludingText": "2025-07-22T12:32:17Z"
+  },
+  "request": {
+    "billNumber": "3748",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

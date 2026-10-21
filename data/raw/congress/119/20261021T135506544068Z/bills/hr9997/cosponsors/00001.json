@@ -1,0 +1,40 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "H001085",
+      "district": 6,
+      "firstName": "Chrissy",
+      "fullName": "Rep. Houlahan, Chrissy [D-PA-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Houlahan",
+      "party": "D",
+      "sponsorshipDate": "2026-07-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/H001085?format=json"
+    },
+    {
+      "bioguideId": "K000401",
+      "district": 3,
+      "firstName": "Kevin",
+      "fullName": "Rep. Kiley, Kevin [I-CA-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Kiley",
+      "party": "I",
+      "sponsorshipDate": "2026-07-30",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/K000401?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "9997",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/9997?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

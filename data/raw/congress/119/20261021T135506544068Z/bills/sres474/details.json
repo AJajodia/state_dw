@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/474/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/474/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-29",
+    "latestAction": {
+      "actionDate": "2025-10-29",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7830-7831; text: CR S7829-7830)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/474",
+    "number": "474",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001243",
+        "firstName": "Marsha",
+        "fullName": "Sen. Blackburn, Marsha [R-TN]",
+        "isByRequest": "N",
+        "lastName": "Blackburn",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001243?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/474/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/474/text?format=json"
+    },
+    "title": "A resolution designating October 2025 as \"National Country Music Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/474/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-24T23:41:16Z",
+    "updateDateIncludingText": "2026-09-24T23:41:16Z"
+  },
+  "request": {
+    "billNumber": "474",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

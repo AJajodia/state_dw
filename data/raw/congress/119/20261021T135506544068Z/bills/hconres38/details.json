@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 94,
+      "countIncludingWithdrawnCosponsors": 94,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2026-03-05",
+      "actionTime": "16:38:01",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/38",
+    "number": "38",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001184",
+        "district": 4,
+        "firstName": "Thomas",
+        "fullName": "Rep. Massie, Thomas [R-KY-4]",
+        "isByRequest": "N",
+        "lastName": "Massie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/text?format=json"
+    },
+    "title": "Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from unauthorized hostilities in the Islamic Republic of Iran.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/38/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-03-10T16:05:32Z",
+    "updateDateIncludingText": "2026-03-10T16:05:32Z"
+  },
+  "request": {
+    "billNumber": "38",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9737/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9737/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 116 (Thursday, July 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DeSAULNIER:\nH.R. 9737.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8.\n[Page H4624]\n</pre>",
+    "introducedDate": "2026-07-16",
+    "latestAction": {
+      "actionDate": "2026-07-16",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9737",
+    "number": "9737",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000623",
+        "district": 10,
+        "firstName": "Mark",
+        "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+        "isByRequest": "N",
+        "lastName": "DeSaulnier",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/D000623?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9737/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9737/text?format=json"
+    },
+    "title": "Consumer Health Claim Assistance Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9737/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-23T14:18:38Z",
+    "updateDateIncludingText": "2026-07-23T14:18:38Z"
+  },
+  "request": {
+    "billNumber": "9737",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

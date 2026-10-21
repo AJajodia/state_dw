@@ -1,0 +1,64 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2026-07-22",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    },
+    {
+      "bioguideId": "H001099",
+      "district": 8,
+      "firstName": "Mike",
+      "fullName": "Rep. Haridopolos, Mike [R-FL-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Haridopolos",
+      "party": "R",
+      "sponsorshipDate": "2026-07-22",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/H001099?format=json"
+    },
+    {
+      "bioguideId": "H001101",
+      "district": 10,
+      "firstName": "Pat",
+      "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Harrigan",
+      "party": "R",
+      "sponsorshipDate": "2026-07-22",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/H001101?format=json"
+    },
+    {
+      "bioguideId": "F000480",
+      "district": 20,
+      "firstName": "Vince",
+      "fullName": "Rep. Fong, Vince [R-CA-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Fong",
+      "party": "R",
+      "sponsorshipDate": "2026-07-22",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/F000480?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 4,
+    "countIncludingWithdrawnCosponsors": 4
+  },
+  "request": {
+    "billNumber": "9880",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/9880?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

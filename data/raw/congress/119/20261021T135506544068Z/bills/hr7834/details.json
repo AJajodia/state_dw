@@ -1,0 +1,82 @@
+{
+  "bill": {
+    "actions": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-804",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/804?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 42 (Thursday, March 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Florida:\nH.R. 7834.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the Constitution\n[Page H2473]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7834",
+    "number": "7834",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000597",
+        "district": 15,
+        "firstName": "Laurel",
+        "fullName": "Rep. Lee, Laurel M. [R-FL-15]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "middleName": "M.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/L000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/text?format=json"
+    },
+    "title": "Safe Cloud Storage Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7834/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-25T14:41:55Z",
+    "updateDateIncludingText": "2026-09-25T14:41:55Z"
+  },
+  "request": {
+    "billNumber": "7834",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

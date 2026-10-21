@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MASSIE:\nH.R. 3795.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H2534]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3795",
+    "number": "3795",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001184",
+        "district": 4,
+        "firstName": "Thomas",
+        "fullName": "Rep. Massie, Thomas [R-KY-4]",
+        "isByRequest": "N",
+        "lastName": "Massie",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/text?format=json"
+    },
+    "title": "Gold Reserve Transparency Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3795/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-05T20:36:27Z",
+    "updateDateIncludingText": "2026-01-05T20:36:27Z"
+  },
+  "request": {
+    "billNumber": "3795",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

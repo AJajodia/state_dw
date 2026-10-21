@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "G000598",
+      "district": 42,
+      "firstName": "Robert",
+      "fullName": "Rep. Garcia, Robert [D-CA-42]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garcia",
+      "party": "D",
+      "sponsorshipDate": "2026-02-11",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000598?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "7483",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/7483?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

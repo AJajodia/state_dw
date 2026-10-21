@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 23 (Monday, February 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MILLER of Ohio:\nH.R. 7306.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 9, Clause 7 of the U.S. Constitution\n[Page H1949]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-02",
+    "latestAction": {
+      "actionDate": "2026-02-02",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7306",
+    "number": "7306",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001222",
+        "district": 7,
+        "firstName": "Max",
+        "fullName": "Rep. Miller, Max L. [R-OH-7]",
+        "isByRequest": "N",
+        "lastName": "Miller",
+        "middleName": "L.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/M001222?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/text?format=json"
+    },
+    "title": "CLOSE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7306/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-12T09:06:21Z",
+    "updateDateIncludingText": "2026-04-15T16:27:19Z"
+  },
+  "request": {
+    "billNumber": "7306",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

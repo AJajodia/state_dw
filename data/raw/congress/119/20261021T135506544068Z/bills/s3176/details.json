@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3176",
+    "number": "3176",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/text?format=json"
+    },
+    "title": "A bill to direct the United States Postal Service to designate single, unique ZIP Codes for certain Oklahoma communities, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3176/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-09T21:11:22Z",
+    "updateDateIncludingText": "2025-12-09T21:11:22Z"
+  },
+  "request": {
+    "billNumber": "3176",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

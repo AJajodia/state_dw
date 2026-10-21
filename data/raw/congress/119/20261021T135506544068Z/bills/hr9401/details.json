@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 80,
+      "countIncludingWithdrawnCosponsors": 80,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9401",
+    "number": "9401",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001068",
+        "district": 9,
+        "firstName": "Steve",
+        "fullName": "Rep. Cohen, Steve [D-TN-9]",
+        "isByRequest": "N",
+        "lastName": "Cohen",
+        "party": "D",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/C001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/text?format=json"
+    },
+    "title": "Latonya Reeves Freedom Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9401/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:45Z",
+    "updateDateIncludingText": "2026-10-16T08:05:45Z"
+  },
+  "request": {
+    "billNumber": "9401",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

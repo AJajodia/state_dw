@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLYDE:\nH.J. Res. 58.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H678]\n</pre>",
+    "introducedDate": "2025-02-12",
+    "latestAction": {
+      "actionDate": "2025-02-12",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/58",
+    "number": "58",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001116",
+        "district": 9,
+        "firstName": "Andrew",
+        "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+        "isByRequest": "N",
+        "lastName": "Clyde",
+        "middleName": "S.",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001116?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/text?format=json"
+    },
+    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services relating to \"Medicare Program; Calendar Year (CY) 2025 Home Health Prospective Payment System (HH PPS) Rate Update; HH Quality Reporting Program Requirements; HH Value-Based Purchasing Expanded Model Requirements; Home Intravenous Immune Globulin (IVIG) Items and Services Rate Update; and Other Medicare Policies\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/58/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2025-06-13T20:35:59Z",
+    "updateDateIncludingText": "2025-06-13T20:35:59Z"
+  },
+  "request": {
+    "billNumber": "58",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

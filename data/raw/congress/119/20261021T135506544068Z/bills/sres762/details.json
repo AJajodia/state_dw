@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-09",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2701-2702)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/762",
+    "number": "762",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001046",
+        "firstName": "Martin",
+        "fullName": "Sen. Heinrich, Martin [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Heinrich",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/H001046?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/text?format=json"
+    },
+    "title": "A resolution supporting the designation of the second Friday in June as \"National Service and Conservation Corps Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/762/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-06-23T21:53:22Z",
+    "updateDateIncludingText": "2026-06-23T21:53:22Z"
+  },
+  "request": {
+    "billNumber": "762",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

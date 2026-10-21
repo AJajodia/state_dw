@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1426",
+    "number": "1426",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001227",
+        "firstName": "Eric",
+        "fullName": "Sen. Schmitt, Eric [R-MO]",
+        "isByRequest": "N",
+        "lastName": "Schmitt",
+        "middleName": "S.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/S001227?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/text?format=json"
+    },
+    "title": "Easter Monday Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1426/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "1426",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

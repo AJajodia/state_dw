@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Read twice and referred to the Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3185",
+    "number": "3185",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000790",
+        "firstName": "Raphael",
+        "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+        "isByRequest": "N",
+        "lastName": "Warnock",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/W000790?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/text?format=json"
+    },
+    "title": "ANCHOR for Military Families Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3185/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-01-16T12:03:21Z",
+    "updateDateIncludingText": "2026-01-16T12:03:21Z"
+  },
+  "request": {
+    "billNumber": "3185",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SUOZZI:\nH.R. 1102.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, clause 2\n[Page H557]\n</pre>",
+    "cosponsors": {
+      "count": 53,
+      "countIncludingWithdrawnCosponsors": 53,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-02-06",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1102",
+    "number": "1102",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001201",
+        "district": 3,
+        "firstName": "Thomas",
+        "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+        "isByRequest": "N",
+        "lastName": "Suozzi",
+        "middleName": "R.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S001201?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/text?format=json"
+    },
+    "title": "Commission To Study the Potential of a National Museum of Italian American History and Culture Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1102/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-10T09:06:23Z",
+    "updateDateIncludingText": "2025-12-10T09:06:23Z"
+  },
+  "request": {
+    "billNumber": "1102",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

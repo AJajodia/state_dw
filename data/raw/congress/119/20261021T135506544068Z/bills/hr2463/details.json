@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SANCHEZ:\nH.R. 2463.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 1 (Taxing and spending clause)\n[Page H1339]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-03-27",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2463",
+    "number": "2463",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001156",
+        "district": 38,
+        "firstName": "Linda",
+        "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+        "isByRequest": "N",
+        "lastName": "S\u00e1nchez",
+        "middleName": "T.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S001156?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/text?format=json"
+    },
+    "title": "Mechanical Insulation Installation Incentive Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2463/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-08T20:15:30Z",
+    "updateDateIncludingText": "2025-05-08T20:15:30Z"
+  },
+  "request": {
+    "billNumber": "2463",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

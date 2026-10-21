@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 23 (Monday, February 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ISSA:\nH.R. 7311.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution\n[Page H1949]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-02",
+    "latestAction": {
+      "actionDate": "2026-02-02",
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7311",
+    "number": "7311",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "I000056",
+        "district": 48,
+        "firstName": "Darrell",
+        "fullName": "Rep. Issa, Darrell [R-CA-48]",
+        "isByRequest": "N",
+        "lastName": "Issa",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/I000056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/text?format=json"
+    },
+    "title": "Lebanon Election Integrity and Diaspora Voting Protection Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7311/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-18T09:05:35Z",
+    "updateDateIncludingText": "2026-02-18T09:05:35Z"
+  },
+  "request": {
+    "billNumber": "7311",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

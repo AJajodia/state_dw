@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2251",
+    "number": "2251",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000584",
+        "firstName": "James",
+        "fullName": "Sen. Risch, James E. [R-ID]",
+        "isByRequest": "N",
+        "lastName": "Risch",
+        "middleName": "E.",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/R000584?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/text?format=json"
+    },
+    "title": "Say No to Indoctrination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2251/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-16T11:03:40Z",
+    "updateDateIncludingText": "2026-09-16T11:03:40Z"
+  },
+  "request": {
+    "billNumber": "2251",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

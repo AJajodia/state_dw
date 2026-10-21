@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 36,
+      "countIncludingWithdrawnCosponsors": 36,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-05",
+    "latestAction": {
+      "actionDate": "2026-02-05",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1040",
+    "number": "1040",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000370",
+        "district": 12,
+        "firstName": "Alma",
+        "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+        "isByRequest": "N",
+        "lastName": "Adams",
+        "middleName": "S.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/A000370?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/text?format=json"
+    },
+    "title": "Recognizing the significance of the Greensboro Four sit-in during Black History Month.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1040/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-08-06T15:12:32Z",
+    "updateDateIncludingText": "2026-08-06T15:12:32Z"
+  },
+  "request": {
+    "billNumber": "1040",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

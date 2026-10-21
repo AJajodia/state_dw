@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3748/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3748/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-29",
+    "latestAction": {
+      "actionDate": "2026-01-29",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3748",
+    "number": "3748",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000577",
+        "firstName": "Mike",
+        "fullName": "Sen. Lee, Mike [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/L000577?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3748/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3748/text?format=json"
+    },
+    "title": "Terminate Unaccountable Spending, Abuse, Deception, and Fraud Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3748/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-23T23:11:02Z",
+    "updateDateIncludingText": "2026-02-23T23:11:02Z"
+  },
+  "request": {
+    "billNumber": "3748",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

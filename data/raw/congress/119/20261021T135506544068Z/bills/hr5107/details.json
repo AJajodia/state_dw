@@ -1,0 +1,94 @@
+{
+  "bill": {
+    "actions": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/amendments?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on \nSeptember 10, 2025\n",
+        "pubDate": "2025-10-03T14:04:00Z",
+        "title": "H.R. 5107, CLEAN DC Act of 2025",
+        "url": "https://www.cbo.gov/publication/61793"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-317",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/317?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 144 (Wednesday, September 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLYDE:\nH.R. 5107.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 17: To exercise exclusive\nLegislation in all Cases whatsoever, over such District (not\nexceeding ten Miles square) as may, by Cession of particular\nStates, and the Acceptance of Congress, become the Seat of\nGovernment of the United States, and to exercise like\nAuthority over all Places purchased by the Consent of the\nLegislature of the State in which the Same shall be, for the\nErection of Forts, Magazines, Arsenals, dock-Yards, and other\nneedful Buildings;\n[Page H3829]\n</pre>",
+    "cosponsors": {
+      "count": 29,
+      "countIncludingWithdrawnCosponsors": 29,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-03",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5107",
+    "number": "5107",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001116",
+        "district": 9,
+        "firstName": "Andrew",
+        "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+        "isByRequest": "N",
+        "lastName": "Clyde",
+        "middleName": "S.",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001116?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/text?format=json"
+    },
+    "title": "Common-Sense Law Enforcement and Accountability Now in DC Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5107/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:34Z",
+    "updateDateIncludingText": "2026-07-13T18:50:16Z"
+  },
+  "request": {
+    "billNumber": "5107",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 106 (Wednesday, June 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. OCASIO-CORTEZ:\nH.R. 9442.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 3 of section 8 of article I of the Constitution and\nclause 18 of section 8 of article I of the Constitution.\n[Page H4246]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9442",
+    "number": "9442",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000172",
+        "district": 14,
+        "firstName": "Alexandria",
+        "fullName": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+        "isByRequest": "N",
+        "lastName": "Ocasio-Cortez",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/O000172?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/text?format=json"
+    },
+    "title": "Artificial Intelligence Data Center Moratorium Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9442/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:41Z",
+    "updateDateIncludingText": "2026-10-16T08:05:41Z"
+  },
+  "request": {
+    "billNumber": "9442",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

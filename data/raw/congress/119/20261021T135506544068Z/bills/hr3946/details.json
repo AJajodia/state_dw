@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 101 (Thursday, June 12, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BACON:\nH.R. 3946.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\n[Page H2822]\n</pre>",
+    "cosponsors": {
+      "count": 150,
+      "countIncludingWithdrawnCosponsors": 150,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3946",
+    "number": "3946",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001298",
+        "district": 2,
+        "firstName": "Don",
+        "fullName": "Rep. Bacon, Don [R-NE-2]",
+        "isByRequest": "N",
+        "lastName": "Bacon",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/B001298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/text?format=json"
+    },
+    "title": "FIGHT Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3946/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-29T08:05:22Z",
+    "updateDateIncludingText": "2026-09-29T08:05:22Z"
+  },
+  "request": {
+    "billNumber": "3946",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

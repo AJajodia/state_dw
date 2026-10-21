@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "actionTime": "18:47:28",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1259",
+    "number": "1259",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000522",
+        "district": 4,
+        "firstName": "Christopher",
+        "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/S000522?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/text?format=json"
+    },
+    "title": "Expressing the sense of the House of Representatives that the President should prioritize securing the release of Pastor Jin Mingri, Pastor Gao Quanfu and his wife Pang Yu, Dr. Gulshan Abbas, and Jimmy Lai detained by the People\u2019s Republic of China during future engagements with Chinese President Xi Jinping.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1259/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:35:25Z",
+    "updateDateIncludingText": "2026-09-22T16:27:19Z"
+  },
+  "request": {
+    "billNumber": "1259",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

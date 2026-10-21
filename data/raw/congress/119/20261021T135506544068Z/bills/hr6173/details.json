@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6173/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6173/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURCHETT:\nH.R. 6173.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4876]\n</pre>",
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6173",
+    "number": "6173",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001309",
+        "district": 2,
+        "firstName": "Tim",
+        "fullName": "Rep. Burchett, Tim [R-TN-2]",
+        "isByRequest": "N",
+        "lastName": "Burchett",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001309?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6173/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6173/text?format=json"
+    },
+    "title": "Public Transit Crime Prevention Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6173/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-01T21:09:20Z",
+    "updateDateIncludingText": "2026-04-01T21:09:20Z"
+  },
+  "request": {
+    "billNumber": "6173",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

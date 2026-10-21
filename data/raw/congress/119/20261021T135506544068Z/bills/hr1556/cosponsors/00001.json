@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000467",
+      "district": 15,
+      "firstName": "Glenn",
+      "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Thompson",
+      "party": "R",
+      "sponsorshipDate": "2025-02-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/T000467?format=json"
+    },
+    {
+      "bioguideId": "R000610",
+      "district": 14,
+      "firstName": "Guy",
+      "fullName": "Rep. Reschenthaler, Guy [R-PA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Reschenthaler",
+      "party": "R",
+      "sponsorshipDate": "2025-02-25",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/R000610?format=json"
+    },
+    {
+      "bioguideId": "H001098",
+      "district": 8,
+      "firstName": "Abraham",
+      "fullName": "Rep. Hamadeh, Abraham [R-AZ-8]",
+      "isOriginalCosponsor": false,
+      "lastName": "Hamadeh",
+      "middleName": "J.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-14",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/H001098?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "1556",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/1556?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "G000607",
+      "district": 1,
+      "firstName": "James",
+      "fullName": "Rep. Gallagher, James [R-CA-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gallagher",
+      "party": "R",
+      "sponsorshipDate": "2026-08-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000607?format=json"
+    },
+    {
+      "bioguideId": "B001321",
+      "district": 7,
+      "firstName": "Tom",
+      "fullName": "Rep. Barrett, Tom [R-MI-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Barrett",
+      "party": "R",
+      "sponsorshipDate": "2026-08-13",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/B001321?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "10024",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/10024?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

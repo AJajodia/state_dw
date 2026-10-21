@@ -1,0 +1,29 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M000312",
+      "district": 2,
+      "firstName": "James",
+      "fullName": "Rep. McGovern, James P. [D-MA-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "McGovern",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-19",
+      "state": "MA",
+      "url": "https://api.congress.gov/v3/member/M000312?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "8004",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8004?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

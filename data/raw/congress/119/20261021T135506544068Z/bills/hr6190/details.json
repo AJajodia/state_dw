@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HAMADEH of Arizona:\nH.R. 6190.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress holds the power to enact this tax repeal\nlegislation under Article 1, Section 8 of the U.S.\nConstitution.\n[Page H4877]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6190",
+    "number": "6190",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001098",
+        "district": 8,
+        "firstName": "Abraham",
+        "fullName": "Rep. Hamadeh, Abraham J. [R-AZ-8]",
+        "isByRequest": "N",
+        "lastName": "Hamadeh",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/H001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/text?format=json"
+    },
+    "title": "Tax Cuts for Veterans Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6190/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-17T08:05:29Z",
+    "updateDateIncludingText": "2026-03-17T08:05:29Z"
+  },
+  "request": {
+    "billNumber": "6190",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

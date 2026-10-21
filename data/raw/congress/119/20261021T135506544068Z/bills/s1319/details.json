@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-237."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1319",
+    "number": "1319",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001046",
+        "firstName": "Martin",
+        "fullName": "Sen. Heinrich, Martin [D-NM]",
+        "isByRequest": "N",
+        "lastName": "Heinrich",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/H001046?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/text?format=json"
+    },
+    "title": "Pecos Watershed Protection Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1319/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:09:59Z",
+    "updateDateIncludingText": "2026-09-08T18:09:59Z"
+  },
+  "request": {
+    "billNumber": "1319",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

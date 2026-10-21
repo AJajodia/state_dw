@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Referred to the House Committee on House Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/131",
+    "number": "131",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000591",
+        "district": 3,
+        "firstName": "Michael",
+        "fullName": "Rep. Guest, Michael [R-MS-3]",
+        "isByRequest": "N",
+        "lastName": "Guest",
+        "party": "R",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/G000591?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/text?format=json"
+    },
+    "title": "Providing amounts for the expenses of the Committee on Ethics in the One Hundred Nineteenth Congress.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/131/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-25T16:42:46Z",
+    "updateDateIncludingText": "2026-09-25T16:42:46Z"
+  },
+  "request": {
+    "billNumber": "131",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

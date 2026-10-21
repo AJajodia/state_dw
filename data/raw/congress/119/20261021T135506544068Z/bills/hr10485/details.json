@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 147 (Thursday, September 17, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BACON:\nH.R. 10485.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H5989]\n</pre>",
+    "introducedDate": "2026-09-17",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10485",
+    "number": "10485",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001298",
+        "district": 2,
+        "firstName": "Don",
+        "fullName": "Rep. Bacon, Don [R-NE-2]",
+        "isByRequest": "N",
+        "lastName": "Bacon",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/B001298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/text?format=json"
+    },
+    "title": "Minuteman III Health and Safety Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10485/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-02T19:59:04Z",
+    "updateDateIncludingText": "2026-10-02T19:59:04Z"
+  },
+  "request": {
+    "billNumber": "10485",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

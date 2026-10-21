@@ -1,0 +1,79 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+        "pubDate": "2026-05-22T14:00:05Z",
+        "title": "H.R. 8288, Strengthening Export Controls Compliance Act",
+        "url": "https://www.cbo.gov/publication/62407"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 66 (Wednesday, April 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. AMO:\nH.R. 8288.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H2925]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-15",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Ordered to be Reported by the Yeas and Nays: 39 - 5."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8288",
+    "number": "8288",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000380",
+        "district": 1,
+        "firstName": "Gabe",
+        "fullName": "Rep. Amo, Gabe [D-RI-1]",
+        "isByRequest": "N",
+        "lastName": "Amo",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/A000380?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/text?format=json"
+    },
+    "title": "Strengthening Export Controls Compliance Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8288/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:21:44Z",
+    "updateDateIncludingText": "2026-09-19T23:21:44Z"
+  },
+  "request": {
+    "billNumber": "8288",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

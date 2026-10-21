@@ -1,0 +1,52 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S001195",
+      "district": 8,
+      "firstName": "Jason",
+      "fullName": "Rep. Smith, Jason [R-MO-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2025-09-17",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/S001195?format=json"
+    },
+    {
+      "bioguideId": "C001072",
+      "district": 7,
+      "firstName": "Andr\u00e9",
+      "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carson",
+      "party": "D",
+      "sponsorshipDate": "2025-09-17",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/C001072?format=json"
+    },
+    {
+      "bioguideId": "G000546",
+      "district": 6,
+      "firstName": "Sam",
+      "fullName": "Rep. Graves, Sam [R-MO-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Graves",
+      "party": "R",
+      "sponsorshipDate": "2025-09-17",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/G000546?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "5421",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/5421?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

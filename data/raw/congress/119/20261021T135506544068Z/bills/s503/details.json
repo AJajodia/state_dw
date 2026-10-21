@@ -1,0 +1,85 @@
+{
+  "bill": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nMay 21, 2025\n",
+        "pubDate": "2025-08-14T19:04:00Z",
+        "title": "S. 503, NET Act",
+        "url": "https://www.cbo.gov/publication/61676"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-66",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/66?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-11-10",
+      "actionTime": "12:03:00",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/503",
+    "number": "503",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H000273",
+        "firstName": "John",
+        "fullName": "Sen. Hickenlooper, John W. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Hickenlooper",
+        "middleName": "W.",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/H000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/text?format=json"
+    },
+    "title": "NET Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/503/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:03:40Z",
+    "updateDateIncludingText": "2026-09-08T18:03:40Z"
+  },
+  "request": {
+    "billNumber": "503",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

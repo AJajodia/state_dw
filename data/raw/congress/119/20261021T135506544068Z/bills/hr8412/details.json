@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8412/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8412/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 70 (Tuesday, April 21, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. JACOBS:\nH.R. 8412.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection 8 of Article I of the Constitution\n[Page H3046]\n</pre>",
+    "introducedDate": "2026-04-21",
+    "latestAction": {
+      "actionDate": "2026-04-21",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8412",
+    "number": "8412",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000305",
+        "district": 51,
+        "firstName": "Sara",
+        "fullName": "Rep. Jacobs, Sara [D-CA-51]",
+        "isByRequest": "N",
+        "lastName": "Jacobs",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/J000305?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8412/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8412/text?format=json"
+    },
+    "title": "To direct the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to revise certain regulations related to infant and toddler beverages, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8412/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:18:54Z",
+    "updateDateIncludingText": "2026-09-19T23:18:54Z"
+  },
+  "request": {
+    "billNumber": "8412",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

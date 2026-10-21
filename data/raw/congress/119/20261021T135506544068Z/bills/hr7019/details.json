@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 8 (Monday, January 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEGER FERNANDEZ:\nH.R. 7019.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H656]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-12",
+    "latestAction": {
+      "actionDate": "2026-01-12",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7019",
+    "number": "7019",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000273",
+        "district": 3,
+        "firstName": "Teresa",
+        "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "isByRequest": "N",
+        "lastName": "Leger Fernandez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/text?format=json"
+    },
+    "title": "Campus Prevention and Recovery Services for Students Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7019/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-03T15:36:24Z",
+    "updateDateIncludingText": "2026-02-03T15:36:24Z"
+  },
+  "request": {
+    "billNumber": "7019",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

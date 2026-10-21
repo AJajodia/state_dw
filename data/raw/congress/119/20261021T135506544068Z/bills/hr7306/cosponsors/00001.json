@@ -1,0 +1,65 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000463",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. Turner, Michael R. [R-OH-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Turner",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000463?format=json"
+    },
+    {
+      "bioguideId": "B001306",
+      "district": 12,
+      "firstName": "Troy",
+      "fullName": "Rep. Balderson, Troy [R-OH-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Balderson",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/B001306?format=json"
+    },
+    {
+      "bioguideId": "C001126",
+      "district": 15,
+      "firstName": "Mike",
+      "fullName": "Rep. Carey, Mike [R-OH-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Carey",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/C001126?format=json"
+    },
+    {
+      "bioguideId": "S001199",
+      "district": 11,
+      "firstName": "Lloyd",
+      "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Smucker",
+      "party": "R",
+      "sponsorshipDate": "2026-02-11",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/S001199?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 4,
+    "countIncludingWithdrawnCosponsors": 4
+  },
+  "request": {
+    "billNumber": "7306",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/7306?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

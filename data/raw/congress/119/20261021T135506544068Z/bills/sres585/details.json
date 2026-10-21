@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/585/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 99,
+      "countIncludingWithdrawnCosponsors": 99,
+      "url": "https://api.congress.gov/v3/bill/119/sres/585/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-15",
+    "latestAction": {
+      "actionDate": "2026-01-15",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S263; text: CR S261)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/585",
+    "number": "585",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001267",
+        "firstName": "Michael",
+        "fullName": "Sen. Bennet, Michael F. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Bennet",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B001267?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/585/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/585/text?format=json"
+    },
+    "title": "A resolution honoring the life, achievements, and legacy of Ben Nighthorse Campbell.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/585/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-01-21T16:09:01Z",
+    "updateDateIncludingText": "2026-01-21T16:09:01Z"
+  },
+  "request": {
+    "billNumber": "585",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

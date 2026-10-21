@@ -1,0 +1,93 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "R000620",
+      "district": 29,
+      "firstName": "Luz",
+      "fullName": "Rep. Rivas, Luz [D-CA-29]",
+      "isOriginalCosponsor": true,
+      "lastName": "Rivas",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/R000620?format=json"
+    },
+    {
+      "bioguideId": "B001300",
+      "district": 44,
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": true,
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001300?format=json"
+    },
+    {
+      "bioguideId": "C001123",
+      "district": 31,
+      "firstName": "Gilbert",
+      "fullName": "Rep. Cisneros, Gilbert Ray, Jr. [D-CA-31]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cisneros",
+      "middleName": "Ray",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001123?format=json"
+    },
+    {
+      "bioguideId": "G000585",
+      "district": 34,
+      "firstName": "Jimmy",
+      "fullName": "Rep. Gomez, Jimmy [D-CA-34]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gomez",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/G000585?format=json"
+    },
+    {
+      "bioguideId": "G000586",
+      "district": 4,
+      "firstName": "Jes\u00fas",
+      "fullName": "Rep. Garc\u00eda, Jes\u00fas G. \"Chuy\" [D-IL-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garc\u00eda",
+      "middleName": "G. \"Chuy\"",
+      "party": "D",
+      "sponsorshipDate": "2025-03-31",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/G000586?format=json"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": 0,
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": false,
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "DC",
+      "url": "https://api.congress.gov/v3/member/N000147?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 6,
+    "countIncludingWithdrawnCosponsors": 6
+  },
+  "request": {
+    "billNumber": "271",
+    "billType": "hres",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hres/271?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

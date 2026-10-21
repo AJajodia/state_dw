@@ -1,0 +1,80 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+        "pubDate": "2026-08-04T15:18:00Z",
+        "title": "H.R. 8326, a bill to designate the facility of the United States Postal Service located at 16 Rev Dr Martin Luther King Jr Drive in Willingboro, New Jersey, as the &quot;James A. Cotten Post Office&quot;",
+        "url": "https://www.cbo.gov/publication/62621"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CONAWAY:\nH.R. 8326.\nCongress has the power to enact this legislation pursuant\nto the following:\nPostal Clause in Article I, Section 8, Clause 7\n[Page H2960]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Ordered to be Reported by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8326",
+    "number": "8326",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001136",
+        "district": 3,
+        "firstName": "Herbert",
+        "fullName": "Rep. Conaway, Herbert C. [D-NJ-3]",
+        "isByRequest": "N",
+        "lastName": "Conaway",
+        "middleName": "C.",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/C001136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 16 Rev Dr Martin Luther King Jr Drive in Willingboro, New Jersey, as the \"James A. Cotten Post Office\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8326/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:37:41Z",
+    "updateDateIncludingText": "2026-09-19T23:37:41Z"
+  },
+  "request": {
+    "billNumber": "8326",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

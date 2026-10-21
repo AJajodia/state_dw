@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 446."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+    "number": "4591",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001088",
+        "firstName": "Christopher",
+        "fullName": "Sen. Coons, Christopher A. [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Coons",
+        "middleName": "A.",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/C001088?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/text?format=json"
+    },
+    "title": "NO FAKES Act of 2026",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4591/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "4591",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

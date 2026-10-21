@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001309",
+      "district": 2,
+      "firstName": "Tim",
+      "fullName": "Rep. Burchett, Tim [R-TN-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burchett",
+      "party": "R",
+      "sponsorshipDate": "2026-04-22",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/B001309?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "8452",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8452?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 140 (Thursday, September 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BOYLE of Pennsylvania:\nH.R. 10251.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the General Welfare Clause\n[Page H5509]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-03",
+    "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10251",
+    "number": "10251",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001296",
+        "district": 2,
+        "firstName": "Brendan",
+        "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+        "isByRequest": "N",
+        "lastName": "Boyle",
+        "middleName": "F.",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/B001296?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/text?format=json"
+    },
+    "title": "Back-to-School Supplies Affordability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10251/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-06T08:05:46Z",
+    "updateDateIncludingText": "2026-10-06T08:05:46Z"
+  },
+  "request": {
+    "billNumber": "10251",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

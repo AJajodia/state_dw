@@ -1,0 +1,77 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-805",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/805?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 93 (Tuesday, June 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KELLY of Pennsylvania:\nH.R. 9098.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 3 of section 8 of article 1 of the Consitution\n[Page H3775]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-02",
+    "latestAction": {
+      "actionDate": "2026-09-08",
+      "text": "Placed on the Union Calendar, Calendar No. 704."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9098",
+    "number": "9098",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000376",
+        "district": 16,
+        "firstName": "Mike",
+        "fullName": "Rep. Kelly, Mike [R-PA-16]",
+        "isByRequest": "N",
+        "lastName": "Kelly",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/K000376?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/text?format=json"
+    },
+    "title": "Congressional Records Protection Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9098/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-19T21:01:36Z",
+    "updateDateIncludingText": "2026-10-19T21:01:36Z"
+  },
+  "request": {
+    "billNumber": "9098",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

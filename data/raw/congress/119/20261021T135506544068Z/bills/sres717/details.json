@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-04-30",
+    "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S2179)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/717",
+    "number": "717",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/text?format=json"
+    },
+    "title": "A resolution honoring the memory of Jereima \"Jeri\" Bustamante on the eighth anniversary of her passing.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/717/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-24T20:21:16Z",
+    "updateDateIncludingText": "2026-08-24T20:21:16Z"
+  },
+  "request": {
+    "billNumber": "717",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

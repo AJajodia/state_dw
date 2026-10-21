@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 54,
+      "countIncludingWithdrawnCosponsors": 54,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-08",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1677",
+    "number": "1677",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001230",
+        "firstName": "Tammy",
+        "fullName": "Sen. Baldwin, Tammy [D-WI]",
+        "isByRequest": "N",
+        "lastName": "Baldwin",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/B001230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/text?format=json"
+    },
+    "title": "Ensuring Lasting Smiles Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1677/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-30T11:03:20Z",
+    "updateDateIncludingText": "2026-09-30T11:03:20Z"
+  },
+  "request": {
+    "billNumber": "1677",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

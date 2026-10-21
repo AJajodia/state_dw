@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 23,
+      "countIncludingWithdrawnCosponsors": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-29",
+    "latestAction": {
+      "actionDate": "2025-01-29",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/317",
+    "number": "317",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/text?format=json"
+    },
+    "title": "Charitable Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/317/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-05T21:59:08Z",
+    "updateDateIncludingText": "2025-12-05T21:59:08Z"
+  },
+  "request": {
+    "billNumber": "317",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

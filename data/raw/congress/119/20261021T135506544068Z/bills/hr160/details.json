@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FITZPATRICK:\nH.R. 160.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 4 Clause 1.\nThe single subject of this legislation is:\nEstablishes consistent standards for voting in federal\nelections.\n[Page H41]\n</pre>",
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-01-03",
+      "text": "Referred to the Committee on House Administration, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/160",
+    "number": "160",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000466",
+        "district": 1,
+        "firstName": "Brian",
+        "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+        "isByRequest": "N",
+        "lastName": "Fitzpatrick",
+        "middleName": "K.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/F000466?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 17,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/text?format=json"
+    },
+    "title": "Restoring Faith in Elections Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/160/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-03-04T15:13:20Z",
+    "updateDateIncludingText": "2026-04-21T16:27:20Z"
+  },
+  "request": {
+    "billNumber": "160",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-30",
+    "latestAction": {
+      "actionDate": "2026-07-30",
+      "text": "Read twice and referred to the Committee on Finance. (text: CR S4372-4385; Sponsor introductory remarks on measure: CR S4371-4372)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5183",
+    "number": "5183",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000148",
+        "firstName": "Charles",
+        "fullName": "Sen. Schumer, Charles E. [D-NY]",
+        "isByRequest": "N",
+        "lastName": "Schumer",
+        "middleName": "E.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S000148?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/text?format=json"
+    },
+    "title": "Anti-Corruption Bureau Creation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5183/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-13T16:55:15Z",
+    "updateDateIncludingText": "2026-09-22T16:27:19Z"
+  },
+  "request": {
+    "billNumber": "5183",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

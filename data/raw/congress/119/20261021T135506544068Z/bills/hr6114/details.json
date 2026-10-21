@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 194 (Tuesday, November 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. POCAN:\nH.R. 6114.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4771]\n</pre>",
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6114",
+    "number": "6114",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000607",
+        "district": 2,
+        "firstName": "Mark",
+        "fullName": "Rep. Pocan, Mark [D-WI-2]",
+        "isByRequest": "N",
+        "lastName": "Pocan",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/P000607?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/text?format=json"
+    },
+    "title": "To prohibit funds made available to the Department of Health and Human Services by previous Appropriations Acts from being used for any activity that makes Medicare Advantage the default under the Medicare program.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6114/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-02T09:05:27Z",
+    "updateDateIncludingText": "2025-12-02T09:05:27Z"
+  },
+  "request": {
+    "billNumber": "6114",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

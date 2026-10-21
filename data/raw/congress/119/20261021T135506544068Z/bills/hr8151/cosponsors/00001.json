@@ -1,0 +1,65 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001316",
+      "district": 7,
+      "firstName": "Eric",
+      "fullName": "Rep. Burlison, Eric [R-MO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burlison",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001316?format=json"
+    },
+    {
+      "bioguideId": "R000614",
+      "district": 21,
+      "firstName": "Chip",
+      "fullName": "Rep. Roy, Chip [R-TX-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Roy",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/R000614?format=json"
+    },
+    {
+      "bioguideId": "C001116",
+      "district": 9,
+      "firstName": "Andrew",
+      "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Clyde",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-27",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001116?format=json"
+    },
+    {
+      "bioguideId": "H001052",
+      "district": 1,
+      "firstName": "Andy",
+      "fullName": "Rep. Harris, Andy [R-MD-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Harris",
+      "party": "R",
+      "sponsorshipDate": "2026-04-09",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/H001052?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 4,
+    "countIncludingWithdrawnCosponsors": 4
+  },
+  "request": {
+    "billNumber": "8151",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8151?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

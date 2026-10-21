@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "D000623",
+      "district": 10,
+      "firstName": "Mark",
+      "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeSaulnier",
+      "party": "D",
+      "sponsorshipDate": "2025-02-13",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/D000623?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "131",
+    "billType": "hres",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hres/131?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 32 (Tuesday, February 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SCHRIER:\nH.R. 1433.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I, Section 8 of the United States\nConstitution.\n[Page H724]\n</pre>",
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-02-18",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1433",
+    "number": "1433",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001216",
+        "district": 8,
+        "firstName": "Kim",
+        "fullName": "Rep. Schrier, Kim [D-WA-8]",
+        "isByRequest": "N",
+        "lastName": "Schrier",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/S001216?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/text?format=json"
+    },
+    "title": "Kids\u2019 Access to Primary Care Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1433/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:20:45Z",
+    "updateDateIncludingText": "2026-09-19T23:20:45Z"
+  },
+  "request": {
+    "billNumber": "1433",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

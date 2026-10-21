@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 135 (Tuesday, August 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMUCKER:\nH.R. 4900.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 3 of Section 8 of Article 1 of the Constitution\n[Page H3682]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-05",
+    "latestAction": {
+      "actionDate": "2025-08-06",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4900",
+    "number": "4900",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001199",
+        "district": 11,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+        "isByRequest": "N",
+        "lastName": "Smucker",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/S001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/text?format=json"
+    },
+    "title": "Safe Transit Accountability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4900/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-10T18:52:15Z",
+    "updateDateIncludingText": "2025-12-10T18:52:15Z"
+  },
+  "request": {
+    "billNumber": "4900",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

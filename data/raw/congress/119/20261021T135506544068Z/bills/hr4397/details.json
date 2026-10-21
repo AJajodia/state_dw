@@ -1,0 +1,79 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Foreign Affairs on December 3, 2025",
+        "pubDate": "2026-01-09T21:30:00Z",
+        "title": "H.R. 4397, Muslim Brotherhood Terrorist Designation Act of 2025",
+        "url": "https://www.cbo.gov/publication/61972"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 121 (Tuesday, July 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DIAZ-BALART:\nH.R. 4397.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H3316]\n</pre>",
+    "cosponsors": {
+      "count": 37,
+      "countIncludingWithdrawnCosponsors": 37,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-15",
+    "latestAction": {
+      "actionDate": "2025-12-03",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 14."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4397",
+    "number": "4397",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000600",
+        "district": 26,
+        "firstName": "Mario",
+        "fullName": "Rep. Diaz-Balart, Mario [R-FL-26]",
+        "isByRequest": "N",
+        "lastName": "Diaz-Balart",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/D000600?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 45,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/text?format=json"
+    },
+    "title": "Muslim Brotherhood Terrorist Designation Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4397/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:31:30Z",
+    "updateDateIncludingText": "2026-09-19T23:31:30Z"
+  },
+  "request": {
+    "billNumber": "4397",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

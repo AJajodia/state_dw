@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-08",
+    "latestAction": {
+      "actionDate": "2025-10-08",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/56",
+    "number": "56",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000273",
+        "district": 3,
+        "firstName": "Teresa",
+        "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "isByRequest": "N",
+        "lastName": "Leger Fernandez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/text?format=json"
+    },
+    "title": "Recognizing the significance of equal pay and the disparity in wages paid to Latina women in comparison to White, non-Hispanic men.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/56/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-10-14T18:42:45Z",
+    "updateDateIncludingText": "2026-10-14T18:42:45Z"
+  },
+  "request": {
+    "billNumber": "56",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "bill": {
+    "actions": {
+      "count": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Natural Resources on February 11, 2026",
+        "pubDate": "2026-02-23T20:32:00Z",
+        "title": "H.R. 1945, America\u2019s National Churchill Museum National Historic Landmark Act",
+        "url": "https://www.cbo.gov/publication/62167"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-517",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/517?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ONDER:\nH.R. 1945.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H1040]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2026-10-14",
+      "text": "Message on Senate action sent to the House."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1945",
+    "number": "1945",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000177",
+        "district": 3,
+        "firstName": "Robert",
+        "fullName": "Rep. Onder, Robert [R-MO-3]",
+        "isByRequest": "N",
+        "lastName": "Onder",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/O000177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/text?format=json"
+    },
+    "title": "America's National Churchill Museum National Historic Landmark Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1945/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-15T10:56:20Z",
+    "updateDateIncludingText": "2026-10-15T10:56:20Z"
+  },
+  "request": {
+    "billNumber": "1945",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

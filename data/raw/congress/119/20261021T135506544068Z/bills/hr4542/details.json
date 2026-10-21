@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. WASSERMAN SCHULTZ:\nH.R. 4542.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 18\n[Page H3477]\n</pre>",
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-07-18",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4542",
+    "number": "4542",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000797",
+        "district": 25,
+        "firstName": "Debbie",
+        "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "isByRequest": "N",
+        "lastName": "Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/W000797?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/text?format=json"
+    },
+    "title": "No Cages in the Everglades Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4542/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:38:35Z",
+    "updateDateIncludingText": "2026-09-19T23:38:35Z"
+  },
+  "request": {
+    "billNumber": "4542",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

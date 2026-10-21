@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 54,
+      "countIncludingWithdrawnCosponsors": 54,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-14",
+    "latestAction": {
+      "actionDate": "2025-04-14",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/332",
+    "number": "332",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000370",
+        "district": 12,
+        "firstName": "Alma",
+        "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+        "isByRequest": "N",
+        "lastName": "Adams",
+        "middleName": "S.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/A000370?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/text?format=json"
+    },
+    "title": "Supporting the designation of the week of April 11 through April 17, 2025, as the eighth annual \"Black Maternal Health Week\", founded by Black Mamas Matter Alliance, Inc. (BMMA), to bring national attention to the maternal and reproductive health crisis in the United States and the importance of reducing maternal mortality and morbidity among Black women and birthing people.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/332/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-04-21T16:36:20Z",
+    "updateDateIncludingText": "2026-04-21T16:36:20Z"
+  },
+  "request": {
+    "billNumber": "332",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "R000305",
+      "district": 2,
+      "firstName": "Deborah",
+      "fullName": "Rep. Ross, Deborah K. [D-NC-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Ross",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-16",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/R000305?format=json"
+    },
+    {
+      "bioguideId": "A000370",
+      "district": 12,
+      "firstName": "Alma",
+      "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Adams",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-16",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/A000370?format=json"
+    },
+    {
+      "bioguideId": "S001215",
+      "district": 11,
+      "firstName": "Haley",
+      "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stevens",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-16",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/S001215?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "8361",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8361?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

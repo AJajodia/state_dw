@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5399/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5399/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-09-15",
+    "latestAction": {
+      "actionDate": "2026-09-15",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5399",
+    "number": "5399",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000128",
+        "firstName": "Chris",
+        "fullName": "Sen. Van Hollen, Chris [D-MD]",
+        "isByRequest": "N",
+        "lastName": "Van Hollen",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/V000128?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5399/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5399/text?format=json"
+    },
+    "title": "No New Fencing At the White House Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5399/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-14T18:32:55Z",
+    "updateDateIncludingText": "2026-10-14T18:32:55Z"
+  },
+  "request": {
+    "billNumber": "5399",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

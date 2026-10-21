@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/770/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 17,
+      "countIncludingWithdrawnCosponsors": 17,
+      "url": "https://api.congress.gov/v3/bill/119/sres/770/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-15",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2792; text: CR S2791-2792)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/770",
+    "number": "770",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001217",
+        "firstName": "Rick",
+        "fullName": "Sen. Scott, Rick [R-FL]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001217?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/sres/770/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/770/text?format=json"
+    },
+    "title": "A resolution designating June 6, 2026, as National Naloxone Awareness Day.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/770/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-06-24T17:17:32Z",
+    "updateDateIncludingText": "2026-06-24T17:17:32Z"
+  },
+  "request": {
+    "billNumber": "770",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

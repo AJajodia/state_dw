@@ -1,0 +1,90 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on the Judiciary on February 17, 2026",
+        "pubDate": "2026-03-13T19:59:00Z",
+        "title": "H.R. 1028, Protection of Women in Olympic and Amateur Sports Act of 2026",
+        "url": "https://www.cbo.gov/publication/62223"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-497",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/497?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STEUBE:\nH.R. 1028.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H506]\n</pre>",
+    "cosponsors": {
+      "count": 73,
+      "countIncludingWithdrawnCosponsors": 73,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2026-02-17",
+      "text": "Placed on the Union Calendar, Calendar No. 423."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1028",
+    "number": "1028",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001214",
+        "district": 17,
+        "firstName": "W.",
+        "fullName": "Rep. Steube, W. Gregory [R-FL-17]",
+        "isByRequest": "N",
+        "lastName": "Steube",
+        "middleName": "Gregory",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001214?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/text?format=json"
+    },
+    "title": "Protection of Women in Olympic and Amateur Sports Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1028/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:39Z",
+    "updateDateIncludingText": "2026-06-11T23:26:39Z"
+  },
+  "request": {
+    "billNumber": "1028",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

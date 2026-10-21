@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10084/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10084/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 132 (Thursday, August 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CRANK:\nH.R. 10084.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 1\n[Page H5235]\n</pre>",
+    "introducedDate": "2026-08-13",
+    "latestAction": {
+      "actionDate": "2026-08-13",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10084",
+    "number": "10084",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001137",
+        "district": 5,
+        "firstName": "Jeff",
+        "fullName": "Rep. Crank, Jeff [R-CO-5]",
+        "isByRequest": "N",
+        "lastName": "Crank",
+        "party": "R",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/C001137?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10084/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10084/text?format=json"
+    },
+    "title": "First Time Homebuyer Debt Reduction Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10084/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-20T13:12:07Z",
+    "updateDateIncludingText": "2026-08-20T13:12:07Z"
+  },
+  "request": {
+    "billNumber": "10084",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

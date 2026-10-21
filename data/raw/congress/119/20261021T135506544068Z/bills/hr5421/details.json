@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 152 (Wednesday, September 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BELL:\nH.R. 5421.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4411]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-17",
+    "latestAction": {
+      "actionDate": "2025-09-17",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5421",
+    "number": "5421",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001324",
+        "district": 1,
+        "firstName": "Wesley",
+        "fullName": "Rep. Bell, Wesley [D-MO-1]",
+        "isByRequest": "N",
+        "lastName": "Bell",
+        "party": "D",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/B001324?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/text?format=json"
+    },
+    "title": "William Lacy Clay Sr. Memorial Stamp Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5421/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-09-29T13:24:43Z",
+    "updateDateIncludingText": "2025-09-29T13:24:43Z"
+  },
+  "request": {
+    "billNumber": "5421",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

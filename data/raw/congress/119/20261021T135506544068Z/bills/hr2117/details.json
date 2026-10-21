@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 49 (Friday, March 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FEENSTRA:\nH.R. 2117.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\nTo amend the Federal Crop Insurance Act to promote crop\ninsurance support for beginning farmers and ranchers and\nveteran farmers and ranchers, and for other purposes.\n[Page H1163]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-14",
+    "latestAction": {
+      "actionDate": "2025-04-04",
+      "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2117",
+    "number": "2117",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000446",
+        "district": 4,
+        "firstName": "Randy",
+        "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+        "isByRequest": "N",
+        "lastName": "Feenstra",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/F000446?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/text?format=json"
+    },
+    "title": "Crop Insurance for Future Farmers Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2117/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-08-09T08:05:38Z",
+    "updateDateIncludingText": "2025-08-09T08:05:38Z"
+  },
+  "request": {
+    "billNumber": "2117",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

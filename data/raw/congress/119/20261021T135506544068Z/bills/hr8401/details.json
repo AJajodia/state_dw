@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8401/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8401/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 70 (Tuesday, April 21, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEGICH:\nH.R. 8401.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress has the power to enact this legislation pursuant\nto the following provisions of the Constitution of the United\nStates:\nArticle 1, Section 8, Clause 3 (the Commerce Clause), which\ngrants Congress the authority to regulate commerce with\nforeign nations, among the several States, and with Indian\nTribes. This legislation amends the Marine Mammal Protection\nAct of 1972 to regulate the transport, purchase, sale, and\nexport of certain sea otter pelts and products, activities\nthat constitute interstate, tribal, and foreign commerce.\nArticle 1, Section 8, Clause 18 (the Necessary and Proper\nClause), which authorizes Congress to make all laws necessary\nand proper for carrying into execution the foregoing powers,\nincluding the regulation of wildlife-related commerce and\nsubsistence uses under federal law.\n[Page H3046]\n</pre>",
+    "introducedDate": "2026-04-21",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8401",
+    "number": "8401",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001323",
+        "firstName": "Nicholas",
+        "fullName": "Rep. Begich, Nicholas J. [R-AK-At Large]",
+        "isByRequest": "N",
+        "lastName": "Begich",
+        "middleName": "J.",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/B001323?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8401/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8401/text?format=json"
+    },
+    "title": "To amend the Marine Mammal Protection Act of 1972 to allow the transport, purchase, and sale of pelts of, and handicrafts, garments, and art produced from, Southcentral and Southeast Alaska northern sea otters that are taken for subsistence purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8401/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:18:50Z",
+    "updateDateIncludingText": "2026-09-19T23:18:50Z"
+  },
+  "request": {
+    "billNumber": "8401",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

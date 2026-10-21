@@ -1,0 +1,51 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10822/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10822/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 161 (Thursday, October 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARRIGAN:\nH.R. 10822.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 of section 8 of article I of the Constitution;\nClause 3 of section 8 of article I of the Constitution.\n[Page H6046]\n</pre>",
+    "introducedDate": "2026-10-15",
+    "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10822",
+    "number": "10822",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "H001101",
+        "district": 10,
+        "firstName": "Pat",
+        "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+        "isByRequest": "N",
+        "lastName": "Harrigan",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001101?format=json"
+      }
+    ],
+    "title": "To restrict the usage of automated license plate reader system by governmental entities, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10822/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:45Z",
+    "updateDateIncludingText": "2026-10-16T10:28:22Z"
+  },
+  "request": {
+    "billNumber": "10822",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

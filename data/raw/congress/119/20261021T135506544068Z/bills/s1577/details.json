@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1577/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1577/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-01",
+    "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1577",
+    "number": "1577",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001153",
+        "firstName": "Lisa",
+        "fullName": "Sen. Murkowski, Lisa [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Murkowski",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/M001153?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1577/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1577/text?format=json"
+    },
+    "title": "A bill to amend section 1151 of title 14, United States Code, to modify the restriction on construction of Coast Guard vessels in foreign shipyards.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1577/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:03:40Z",
+    "updateDateIncludingText": "2026-09-08T18:03:40Z"
+  },
+  "request": {
+    "billNumber": "1577",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

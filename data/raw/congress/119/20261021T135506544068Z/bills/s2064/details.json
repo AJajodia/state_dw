@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-12",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2064",
+    "number": "2064",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001303",
+        "firstName": "Lisa",
+        "fullName": "Sen. Blunt Rochester, Lisa [D-DE]",
+        "isByRequest": "N",
+        "lastName": "Blunt Rochester",
+        "party": "D",
+        "state": "DE",
+        "url": "https://api.congress.gov/v3/member/B001303?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/text?format=json"
+    },
+    "title": "Helping Tobacco Users Quit Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2064/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-08T15:02:37Z",
+    "updateDateIncludingText": "2026-10-08T15:02:37Z"
+  },
+  "request": {
+    "billNumber": "2064",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

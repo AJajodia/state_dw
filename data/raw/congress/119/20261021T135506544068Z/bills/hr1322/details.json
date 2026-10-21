@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEGER FERNANDEZ:\nH.R. 1322.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H711]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1322",
+    "number": "1322",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000273",
+        "district": 3,
+        "firstName": "Teresa",
+        "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "isByRequest": "N",
+        "lastName": "Leger Fernandez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/text?format=json"
+    },
+    "title": "Rio San Jos\u00e9 and Rio Jemez Water Settlements Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1322/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-09T23:14:20Z",
+    "updateDateIncludingText": "2025-12-09T23:14:20Z"
+  },
+  "request": {
+    "billNumber": "1322",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7895/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-729",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/729?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7895/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Placed on the Union Calendar, Calendar No. 634."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7895",
+    "number": "7895",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000372",
+        "district": 12,
+        "firstName": "Rick",
+        "fullName": "Rep. Allen, Rick W. [R-GA-12]",
+        "isByRequest": "N",
+        "lastName": "Allen",
+        "middleName": "W.",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/A000372?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7895/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7895/text?format=json"
+    },
+    "title": "PBM Kickback Prohibition Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7895/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-20T22:41:39Z",
+    "updateDateIncludingText": "2026-08-20T22:41:39Z"
+  },
+  "request": {
+    "billNumber": "7895",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

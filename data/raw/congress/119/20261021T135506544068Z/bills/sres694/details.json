@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 28,
+      "countIncludingWithdrawnCosponsors": 28,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-28",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2076-2077; text: CR S2084-2085)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/694",
+    "number": "694",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000122",
+        "firstName": "John",
+        "fullName": "Sen. Reed, Jack [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Reed",
+        "middleName": "F.",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/R000122?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/text?format=json"
+    },
+    "title": "A resolution designating April 2026 as \"Financial Literacy Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/694/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-30T18:52:35Z",
+    "updateDateIncludingText": "2026-09-30T18:52:35Z"
+  },
+  "request": {
+    "billNumber": "694",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 14 (Thursday, January 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STRONG:\nH.R. 709.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution of the United\nStates\n[Page H389]\n</pre>",
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-01-24",
+      "text": "Referred to the Subcommittee on Aviation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/709",
+    "number": "709",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001220",
+        "district": 5,
+        "firstName": "Dale",
+        "fullName": "Rep. Strong, Dale W. [R-AL-5]",
+        "isByRequest": "N",
+        "lastName": "Strong",
+        "middleName": "W.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/text?format=json"
+    },
+    "title": "National Training Center for Counter-Unmanned Aircraft Systems Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/709/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-03-14T13:36:45Z",
+    "updateDateIncludingText": "2025-03-14T13:36:45Z"
+  },
+  "request": {
+    "billNumber": "709",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

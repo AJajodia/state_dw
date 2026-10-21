@@ -1,0 +1,94 @@
+{
+  "bill": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Natural Resources on August 20, 2026",
+        "pubDate": "2026-08-31T19:15:00Z",
+        "title": "H.R. 2827, a bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes",
+        "url": "https://www.cbo.gov/publication/62740"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-762",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/762?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 65 (Thursday, April 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COLE:\nH.R. 2827.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18.\n[Page H1601]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2026-08-20",
+      "text": "Placed on the Union Calendar, Calendar No. 663."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2827",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/HR/2827\" target=\"_blank\">H.R.2827</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/S/550\" target=\"_blank\">S.550</a>, which became Public Law 119-114."
+      }
+    ],
+    "number": "2827",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001053",
+        "district": 4,
+        "firstName": "Tom",
+        "fullName": "Rep. Cole, Tom [R-OK-4]",
+        "isByRequest": "N",
+        "lastName": "Cole",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/C001053?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/text?format=json"
+    },
+    "title": "To provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2827/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-06T19:41:22Z",
+    "updateDateIncludingText": "2026-10-06T19:41:22Z"
+  },
+  "request": {
+    "billNumber": "2827",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

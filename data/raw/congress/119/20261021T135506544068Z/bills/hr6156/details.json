@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 195 (Wednesday, November 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ONDER:\nH.R. 6156.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4818]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-19",
+    "latestAction": {
+      "actionDate": "2025-11-19",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6156",
+    "number": "6156",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000177",
+        "district": 3,
+        "firstName": "Robert",
+        "fullName": "Rep. Onder, Robert F. [R-MO-3]",
+        "isByRequest": "N",
+        "lastName": "Onder",
+        "middleName": "F.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/O000177?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/text?format=json"
+    },
+    "title": "Endorsement Transparency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6156/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:21Z",
+    "updateDateIncludingText": "2026-09-19T23:39:21Z"
+  },
+  "request": {
+    "billNumber": "6156",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

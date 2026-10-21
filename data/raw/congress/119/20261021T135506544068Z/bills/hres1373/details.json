@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1373",
+    "number": "1373",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001121",
+        "district": 6,
+        "firstName": "Jason",
+        "fullName": "Rep. Crow, Jason [D-CO-6]",
+        "isByRequest": "N",
+        "lastName": "Crow",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/C001121?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/text?format=json"
+    },
+    "title": "Expressing support for the designation of June 21, 2026, as National ASK (Asking Saves Kids) Day to promote children's health and secure storage of guns in the home.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1373/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-02T15:19:20Z",
+    "updateDateIncludingText": "2026-07-02T15:19:20Z"
+  },
+  "request": {
+    "billNumber": "1373",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

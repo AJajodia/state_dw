@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BENTZ:\nH.R. 1655.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clasue 18\n[Page H918]\n</pre>",
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1655",
+    "number": "1655",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000668",
+        "district": 2,
+        "firstName": "Cliff",
+        "fullName": "Rep. Bentz, Cliff [R-OR-2]",
+        "isByRequest": "N",
+        "lastName": "Bentz",
+        "party": "R",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/B000668?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/text?format=json"
+    },
+    "title": "Wildfire Communications Resiliency Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1655/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-11T08:05:59Z",
+    "updateDateIncludingText": "2025-06-11T08:05:59Z"
+  },
+  "request": {
+    "billNumber": "1655",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

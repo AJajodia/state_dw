@@ -1,0 +1,76 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001080",
+      "district": 28,
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2026-01-14",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001080?format=json"
+    },
+    {
+      "bioguideId": "M001188",
+      "district": 6,
+      "firstName": "Grace",
+      "fullName": "Rep. Meng, Grace [D-NY-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "Meng",
+      "party": "D",
+      "sponsorshipDate": "2026-01-14",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M001188?format=json"
+    },
+    {
+      "bioguideId": "F000468",
+      "district": 7,
+      "firstName": "Lizzie",
+      "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fletcher",
+      "party": "D",
+      "sponsorshipDate": "2026-01-22",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000468?format=json"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": 36,
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": false,
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2026-02-03",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000582?format=json"
+    },
+    {
+      "bioguideId": "V000130",
+      "district": 52,
+      "firstName": "Juan",
+      "fullName": "Rep. Vargas, Juan [D-CA-52]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vargas",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/V000130?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 5,
+    "countIncludingWithdrawnCosponsors": 5
+  },
+  "request": {
+    "billNumber": "7053",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/7053?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

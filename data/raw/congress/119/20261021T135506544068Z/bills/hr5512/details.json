@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 154 (Friday, September 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINE:\nH.R. 5512.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 9 as well as Article IV,\nSection 1, the Full Faith and Credit Clause.\n[Page H4489]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-19",
+    "latestAction": {
+      "actionDate": "2025-09-19",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5512",
+    "number": "5512",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000484",
+        "district": 6,
+        "firstName": "Randy",
+        "fullName": "Rep. Fine, Randy [R-FL-6]",
+        "isByRequest": "N",
+        "lastName": "Fine",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/F000484?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/text?format=json"
+    },
+    "title": "No Shari\u2019a Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5512/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:16:08Z",
+    "updateDateIncludingText": "2026-09-19T23:16:08Z"
+  },
+  "request": {
+    "billNumber": "5512",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

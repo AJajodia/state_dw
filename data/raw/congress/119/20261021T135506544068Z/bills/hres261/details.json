@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 31,
+      "countIncludingWithdrawnCosponsors": 31,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-03-27",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/261",
+    "number": "261",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001110",
+        "district": 46,
+        "firstName": "J.",
+        "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+        "isByRequest": "N",
+        "lastName": "Correa",
+        "middleName": "Luis",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001110?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/text?format=json"
+    },
+    "title": "Recognizing the heritage, culture, and contributions of Latinas in the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/261/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-12-06T06:39:38Z",
+    "updateDateIncludingText": "2025-12-06T06:39:38Z"
+  },
+  "request": {
+    "billNumber": "261",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

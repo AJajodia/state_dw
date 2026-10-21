@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-29",
+    "latestAction": {
+      "actionDate": "2026-05-29",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/107",
+    "number": "107",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001241",
+        "district": 47,
+        "firstName": "Dave",
+        "fullName": "Rep. Min, Dave [D-CA-47]",
+        "isByRequest": "N",
+        "lastName": "Min",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/M001241?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/text?format=json"
+    },
+    "title": "Recognizing the importance of saving lives, reducing gun violence, and strengthening public safety as the United States celebrates its 250th anniversary.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/107/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-06-25T15:33:43Z",
+    "updateDateIncludingText": "2026-06-25T15:33:43Z"
+  },
+  "request": {
+    "billNumber": "107",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10587/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10587/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 152 (Thursday, September 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PAPPAS:\nH.R. 10587.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H6005]\n</pre>",
+    "introducedDate": "2026-09-24",
+    "latestAction": {
+      "actionDate": "2026-09-24",
+      "text": "Referred to the House Committee on Appropriations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10587",
+    "number": "10587",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000614",
+        "district": 1,
+        "firstName": "Chris",
+        "fullName": "Rep. Pappas, Chris [D-NH-1]",
+        "isByRequest": "N",
+        "lastName": "Pappas",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/P000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10587/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10587/text?format=json"
+    },
+    "title": "American Homes First Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10587/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-05T15:47:56Z",
+    "updateDateIncludingText": "2026-10-05T15:47:56Z"
+  },
+  "request": {
+    "billNumber": "10587",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 50 (Thursday, March 19, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. DINGELL:\nH.R. 8004.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe Constitutional authority of Congress to enact\nlegislation provided by Article 1, Section 8 of the United\nStates Constitution.\n[Page H2622]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-19",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8004",
+    "number": "8004",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000624",
+        "district": 6,
+        "firstName": "Debbie",
+        "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+        "isByRequest": "N",
+        "lastName": "Dingell",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/D000624?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/text?format=json"
+    },
+    "title": "Leave No Americans Behind Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8004/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-03T14:52:36Z",
+    "updateDateIncludingText": "2026-04-03T14:52:36Z"
+  },
+  "request": {
+    "billNumber": "8004",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

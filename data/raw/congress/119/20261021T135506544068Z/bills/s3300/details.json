@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-12-02",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3300",
+    "number": "3300",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001243",
+        "firstName": "Marsha",
+        "fullName": "Sen. Blackburn, Marsha [R-TN]",
+        "isByRequest": "N",
+        "lastName": "Blackburn",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001243?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/text?format=json"
+    },
+    "title": "ANCHOR Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3300/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-01-05T14:41:02Z",
+    "updateDateIncludingText": "2026-01-05T14:41:02Z"
+  },
+  "request": {
+    "billNumber": "3300",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-07-22",
+    "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5064",
+    "number": "5064",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001150",
+        "firstName": "Adam",
+        "fullName": "Sen. Schiff, Adam B. [D-CA]",
+        "isByRequest": "N",
+        "lastName": "Schiff",
+        "middleName": "B.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S001150?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/text?format=json"
+    },
+    "title": "Higher Education Accreditation Accountability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5064/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-05T14:16:52Z",
+    "updateDateIncludingText": "2026-08-05T14:16:52Z"
+  },
+  "request": {
+    "billNumber": "5064",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

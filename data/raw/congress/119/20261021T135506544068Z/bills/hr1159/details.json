@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BROWNLEY:\nH.R. 1159.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-02-10",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1159",
+    "number": "1159",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001285",
+        "district": 26,
+        "firstName": "Julia",
+        "fullName": "Rep. Brownley, Julia [D-CA-26]",
+        "isByRequest": "N",
+        "lastName": "Brownley",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/B001285?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/text?format=json"
+    },
+    "title": "Honoring Our Fallen TSA Officers Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1159/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-10-25T08:05:39Z",
+    "updateDateIncludingText": "2025-10-25T08:05:39Z"
+  },
+  "request": {
+    "billNumber": "1159",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

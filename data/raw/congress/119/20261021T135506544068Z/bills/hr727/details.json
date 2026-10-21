@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 15 (Friday, January 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SCOTT FRANKLIN of Florida:\nH.R. 727.\nCongress has the power to enact this legislation pursuant\nto the following:\nCongress is granted the authority to introduce and enact\nthis legislation pursuant to Article 1, Section 8 of the U.S.\nConstitution.\n[Page H395]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-24",
+    "latestAction": {
+      "actionDate": "2025-01-24",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/727",
+    "number": "727",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000472",
+        "district": 18,
+        "firstName": "Scott",
+        "fullName": "Rep. Franklin, Scott [R-FL-18]",
+        "isByRequest": "N",
+        "lastName": "Franklin",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/F000472?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/text?format=json"
+    },
+    "title": "Prohibiting Abortion Industry\u2019s Lucrative Loopholes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/727/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-04-09T08:06:26Z",
+    "updateDateIncludingText": "2025-04-09T08:06:26Z"
+  },
+  "request": {
+    "billNumber": "727",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

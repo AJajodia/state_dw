@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/603/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/603/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 13 (Wednesday, January 22, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CASTEN:\nH.R. 603.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, clause 3 of the Constitution\n[Page H300]\n</pre>",
+    "introducedDate": "2025-01-22",
+    "latestAction": {
+      "actionDate": "2025-01-22",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/603",
+    "number": "603",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001117",
+        "district": 6,
+        "firstName": "Sean",
+        "fullName": "Rep. Casten, Sean [D-IL-6]",
+        "isByRequest": "N",
+        "lastName": "Casten",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/C001117?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/603/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/603/text?format=json"
+    },
+    "title": "Reinforcing the Grid Against Extreme Weather Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/603/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-02-21T16:22:49Z",
+    "updateDateIncludingText": "2025-06-18T16:27:12Z"
+  },
+  "request": {
+    "billNumber": "603",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

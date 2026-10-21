@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2025-06-17",
+      "text": "Read twice and referred to the Committee on the Budget."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2090",
+    "number": "2090",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001198",
+        "firstName": "Roger",
+        "fullName": "Sen. Marshall, Roger [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Marshall",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/text?format=json"
+    },
+    "title": "Budget Reform Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2090/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-05-05T12:30:00Z",
+    "updateDateIncludingText": "2026-05-05T12:30:00Z"
+  },
+  "request": {
+    "billNumber": "2090",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

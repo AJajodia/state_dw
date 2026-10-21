@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 58 (Tuesday, April 1, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOGGETT:\nH.R. 2543.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 of Section 8 of Article I of the United States\nConstitution.\n[Page H1405]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-01",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2543",
+    "number": "2543",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000399",
+        "district": 37,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+        "isByRequest": "N",
+        "lastName": "Doggett",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000399?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/text?format=json"
+    },
+    "title": "Tax-Free Pell Grant Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2543/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-06T18:46:55Z",
+    "updateDateIncludingText": "2026-02-06T18:46:55Z"
+  },
+  "request": {
+    "billNumber": "2543",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/910/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/910/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-09-24",
+    "latestAction": {
+      "actionDate": "2026-09-24",
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S5011)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/910",
+    "number": "910",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001288",
+        "firstName": "Cory",
+        "fullName": "Sen. Booker, Cory A. [D-NJ]",
+        "isByRequest": "N",
+        "lastName": "Booker",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/B001288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/910/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/910/text?format=json"
+    },
+    "title": "A resolution expressing support for the designation of October 2026 as \"Lewy Body Dementia Awareness Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/910/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-29T13:37:18Z",
+    "updateDateIncludingText": "2026-09-29T13:37:18Z"
+  },
+  "request": {
+    "billNumber": "910",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

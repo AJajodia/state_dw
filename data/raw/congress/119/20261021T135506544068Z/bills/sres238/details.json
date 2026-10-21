@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-20",
+    "latestAction": {
+      "actionDate": "2025-05-20",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3003; text: CR S3012-3013)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/238",
+    "number": "238",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001184",
+        "firstName": "Tim",
+        "fullName": "Sen. Scott, Tim [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/S001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/text?format=json"
+    },
+    "title": "A resolution congratulating the students, parents, teachers, and leaders of charter schools across the United States for making ongoing contributions to education and supporting the ideals and goals of the 26th Annual National Charter Schools Week, to be held May 11 through May 17, 2025.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/238/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-06-23T21:51:17Z",
+    "updateDateIncludingText": "2026-06-23T21:51:17Z"
+  },
+  "request": {
+    "billNumber": "238",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 208 (Wednesday, December 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARTER of Georgia:\nH.R. 6559.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H5561]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-10",
+    "latestAction": {
+      "actionDate": "2025-12-10",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6559",
+    "number": "6559",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001103",
+        "district": 1,
+        "firstName": "Earl",
+        "fullName": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "L. \"Buddy\"",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/C001103?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/text?format=json"
+    },
+    "title": "Thiokol Memorial Gold Medal Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6559/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-06T19:36:53Z",
+    "updateDateIncludingText": "2026-01-06T19:36:53Z"
+  },
+  "request": {
+    "billNumber": "6559",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

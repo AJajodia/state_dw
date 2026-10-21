@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 161 (Thursday, October 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BARRAGAN:\nH.R. 10810.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the United States Constitution\n[Page H6046]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-15",
+    "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10810",
+    "number": "10810",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001300",
+        "district": 44,
+        "firstName": "Nanette",
+        "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+        "isByRequest": "N",
+        "lastName": "Barrag\u00e1n",
+        "middleName": "Diaz",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/B001300?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/text?format=json"
+    },
+    "title": "National Patient Safety Board Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10810/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T11:43:34Z",
+    "updateDateIncludingText": "2026-10-16T11:43:34Z"
+  },
+  "request": {
+    "billNumber": "10810",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

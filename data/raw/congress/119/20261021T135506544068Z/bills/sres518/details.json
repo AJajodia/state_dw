@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-12-03",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8487)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/518",
+    "number": "518",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/S001203?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/text?format=json"
+    },
+    "title": "A resolution designating October 2025 as \"National Principals Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/518/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:58:34Z"
+  },
+  "request": {
+    "billNumber": "518",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

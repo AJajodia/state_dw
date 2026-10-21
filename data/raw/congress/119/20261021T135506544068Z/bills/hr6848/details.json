@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6848/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6848/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 214 (Thursday, December 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DELUZIO:\nH.R. 6848.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H6116]\n</pre>",
+    "introducedDate": "2025-12-18",
+    "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6848",
+    "number": "6848",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000530",
+        "district": 17,
+        "firstName": "Christopher",
+        "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+        "isByRequest": "N",
+        "lastName": "Deluzio",
+        "middleName": "R.",
+        "party": "D",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/D000530?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6848/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6848/text?format=json"
+    },
+    "title": "Whole Health for Veterans Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6848/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:14:03Z",
+    "updateDateIncludingText": "2026-09-19T23:14:03Z"
+  },
+  "request": {
+    "billNumber": "6848",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

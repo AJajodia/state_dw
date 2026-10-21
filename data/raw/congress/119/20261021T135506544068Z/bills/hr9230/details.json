@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9230/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9230/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 97 (Tuesday, June 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROY:\nH.R. 9230.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H4054]\n</pre>",
+    "introducedDate": "2026-06-09",
+    "latestAction": {
+      "actionDate": "2026-06-09",
+      "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9230",
+    "number": "9230",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": 21,
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "isByRequest": "N",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/R000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9230/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9230/text?format=json"
+    },
+    "title": "Statutory Term Limits on Congressional Pay and Power Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9230/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-01T18:35:46Z",
+    "updateDateIncludingText": "2026-07-01T18:35:46Z"
+  },
+  "request": {
+    "billNumber": "9230",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

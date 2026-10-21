@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "J000298",
+      "district": 7,
+      "firstName": "Pramila",
+      "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Jayapal",
+      "party": "D",
+      "sponsorshipDate": "2025-12-09",
+      "state": "WA",
+      "url": "https://api.congress.gov/v3/member/J000298?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "6183",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/6183?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

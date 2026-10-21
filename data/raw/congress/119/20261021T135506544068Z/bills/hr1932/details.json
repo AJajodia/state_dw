@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. KIGGANS of Virginia:\nH.R. 1932.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt. 1, Sec. 8\n[Page H1040]\n</pre>",
+    "cosponsors": {
+      "count": 34,
+      "countIncludingWithdrawnCosponsors": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-03-06",
+      "text": "Referred to the House Committee on Appropriations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1932",
+    "number": "1932",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000399",
+        "district": 2,
+        "firstName": "Jennifer",
+        "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+        "isByRequest": "N",
+        "lastName": "Kiggans",
+        "middleName": "A.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000399?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/text?format=json"
+    },
+    "title": "Pay Our Troops Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1932/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T21:32:29Z",
+    "updateDateIncludingText": "2025-12-05T21:32:29Z"
+  },
+  "request": {
+    "billNumber": "1932",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

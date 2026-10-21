@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "E000246",
+      "district": 11,
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2025-06-17",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/E000246?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "4027",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4027?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

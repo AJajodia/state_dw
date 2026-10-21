@@ -1,0 +1,81 @@
+{
+  "bill": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
+        "pubDate": "2026-08-12T16:39:27Z",
+        "title": "S. 332, Holocaust Education and Antisemitism Lessons Act",
+        "url": "https://www.cbo.gov/publication/62693"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-30",
+    "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 470."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/332",
+    "number": "332",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "firstName": "Jacklyn",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/R000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/text?format=json"
+    },
+    "title": "Holocaust Education and Antisemitism Lessons Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/332/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-13T15:24:21Z",
+    "updateDateIncludingText": "2026-10-13T15:24:21Z"
+  },
+  "request": {
+    "billNumber": "332",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

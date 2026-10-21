@@ -1,0 +1,82 @@
+{
+  "bill": {
+    "actions": {
+      "count": 18,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-742",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/742?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 73 (Monday, April 27, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALKINSHAW:\nH.R. 8535.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H3125]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-27",
+    "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8535",
+    "number": "8535",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000831",
+        "district": 11,
+        "firstName": "James",
+        "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Walkinshaw",
+        "middleName": "R.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000831?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/text?format=json"
+    },
+    "title": "Measuring Illicit Fentanyl Trafficking Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8535/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-09T12:58:53Z",
+    "updateDateIncludingText": "2026-10-09T12:58:53Z"
+  },
+  "request": {
+    "billNumber": "8535",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

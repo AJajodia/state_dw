@@ -1,0 +1,176 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "G000596",
+      "district": 14,
+      "firstName": "Marjorie",
+      "fullName": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+      "isOriginalCosponsor": true,
+      "lastName": "Greene",
+      "middleName": "Taylor",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/G000596?format=json"
+    },
+    {
+      "bioguideId": "B000825",
+      "district": 4,
+      "firstName": "Lauren",
+      "fullName": "Rep. Boebert, Lauren [R-CO-4]",
+      "isOriginalCosponsor": true,
+      "lastName": "Boebert",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "CO",
+      "url": "https://api.congress.gov/v3/member/B000825?format=json"
+    },
+    {
+      "bioguideId": "G000565",
+      "district": 9,
+      "firstName": "Paul",
+      "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gosar",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/G000565?format=json"
+    },
+    {
+      "bioguideId": "R000614",
+      "district": 21,
+      "firstName": "Chip",
+      "fullName": "Rep. Roy, Chip [R-TX-21]",
+      "isOriginalCosponsor": true,
+      "lastName": "Roy",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/R000614?format=json"
+    },
+    {
+      "bioguideId": "P000605",
+      "district": 10,
+      "firstName": "Scott",
+      "fullName": "Rep. Perry, Scott [R-PA-10]",
+      "isOriginalCosponsor": true,
+      "lastName": "Perry",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/P000605?format=json"
+    },
+    {
+      "bioguideId": "D000626",
+      "district": 8,
+      "firstName": "Warren",
+      "fullName": "Rep. Davidson, Warren [R-OH-8]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davidson",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/D000626?format=json"
+    },
+    {
+      "bioguideId": "B001316",
+      "district": 7,
+      "firstName": "Eric",
+      "fullName": "Rep. Burlison, Eric [R-MO-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Burlison",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "MO",
+      "url": "https://api.congress.gov/v3/member/B001316?format=json"
+    },
+    {
+      "bioguideId": "C001132",
+      "district": 2,
+      "firstName": "Elijah",
+      "fullName": "Rep. Crane, Elijah [R-AZ-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Crane",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "AZ",
+      "url": "https://api.congress.gov/v3/member/C001132?format=json"
+    },
+    {
+      "bioguideId": "C001116",
+      "district": 9,
+      "firstName": "Andrew",
+      "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Clyde",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/C001116?format=json"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-29",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
+    },
+    {
+      "bioguideId": "B001317",
+      "district": 2,
+      "firstName": "Josh",
+      "fullName": "Rep. Brecheen, Josh [R-OK-2]",
+      "isOriginalCosponsor": false,
+      "lastName": "Brecheen",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/B001317?format=json"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": 3,
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2025-09-02",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/S001224?format=json"
+    },
+    {
+      "bioguideId": "L000596",
+      "district": 13,
+      "firstName": "Anna Paulina",
+      "fullName": "Rep. Luna, Anna Paulina [R-FL-13]",
+      "isOriginalCosponsor": false,
+      "lastName": "Luna",
+      "party": "R",
+      "sponsorshipDate": "2025-09-03",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/L000596?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 13,
+    "countIncludingWithdrawnCosponsors": 13
+  },
+  "request": {
+    "billNumber": "5066",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/5066?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

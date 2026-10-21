@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THOMPSON of California:\nH.R. 2085.\nCongress has the power to enact this legislation pursuant\nto the following:\nNecessary and Proper Clause; Taxing Clause\n[Page H1152]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2085",
+    "number": "2085",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000460",
+        "district": 4,
+        "firstName": "Mike",
+        "fullName": "Rep. Thompson, Mike [D-CA-4]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/T000460?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/text?format=json"
+    },
+    "title": "Mental Health Research Accelerator Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2085/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:24:23Z",
+    "updateDateIncludingText": "2026-09-19T23:24:23Z"
+  },
+  "request": {
+    "billNumber": "2085",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

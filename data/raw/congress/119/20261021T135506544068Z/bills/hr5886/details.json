@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 182 (Friday, October 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PATRONIS:\nH.R. 5886.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 of the United States\nConstitution.\n[Page H4567]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-31",
+    "latestAction": {
+      "actionDate": "2025-11-01",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5886",
+    "number": "5886",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000622",
+        "district": 1,
+        "firstName": "Jimmy",
+        "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+        "isByRequest": "N",
+        "lastName": "Patronis",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/P000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/text?format=json"
+    },
+    "title": "Warrior Road Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5886/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-07T09:05:51Z",
+    "updateDateIncludingText": "2026-01-07T09:05:51Z"
+  },
+  "request": {
+    "billNumber": "5886",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

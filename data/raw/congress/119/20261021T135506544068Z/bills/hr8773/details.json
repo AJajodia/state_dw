@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8773/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8773/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 80 (Tuesday, May 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WHITESIDES:\nH.R. 8773.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Constitution, Article 1, Sec. 8\n[Page H3394]\n</pre>",
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8773",
+    "number": "8773",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000830",
+        "district": 27,
+        "firstName": "George",
+        "fullName": "Rep. Whitesides, George [D-CA-27]",
+        "isByRequest": "N",
+        "lastName": "Whitesides",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/W000830?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8773/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8773/text?format=json"
+    },
+    "title": "Containing Effects of Mineral Extraction Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8773/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:33:32Z",
+    "updateDateIncludingText": "2026-09-19T23:33:32Z"
+  },
+  "request": {
+    "billNumber": "8773",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

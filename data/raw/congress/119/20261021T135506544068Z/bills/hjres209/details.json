@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 126 (Monday, August 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JOHNSON of Georgia:\nH.J. Res. 209.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Constitution, Article 1, Section 8\n[Page H5214]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-03",
+    "latestAction": {
+      "actionDate": "2026-08-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/209",
+    "number": "209",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000288",
+        "district": 4,
+        "firstName": "Henry",
+        "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+        "isByRequest": "N",
+        "lastName": "Johnson",
+        "middleName": "C. \"Hank\"",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/J000288?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/text?format=json"
+    },
+    "title": "Supporting the designation of November 9 of each year as \"Gold Star Father's Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/209/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-09-30T18:21:22Z",
+    "updateDateIncludingText": "2026-09-30T18:21:22Z"
+  },
+  "request": {
+    "billNumber": "209",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

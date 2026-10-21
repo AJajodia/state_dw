@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JOYCE of Pennsylvania:\nH.R. 6197.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 of the U.S. Constitution.\n[Page H4877]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6197",
+    "number": "6197",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000302",
+        "district": 13,
+        "firstName": "John",
+        "fullName": "Rep. Joyce, John [R-PA-13]",
+        "isByRequest": "N",
+        "lastName": "Joyce",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/J000302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/text?format=json"
+    },
+    "title": "Health Tech Investment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6197/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:32:40Z",
+    "updateDateIncludingText": "2026-09-19T23:32:40Z"
+  },
+  "request": {
+    "billNumber": "6197",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

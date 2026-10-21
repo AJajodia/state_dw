@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 138 (Friday, August 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ISSA:\nH.R. 4982.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H3699]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-15",
+    "latestAction": {
+      "actionDate": "2025-08-15",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4982",
+    "number": "4982",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "I000056",
+        "district": 48,
+        "firstName": "Darrell",
+        "fullName": "Rep. Issa, Darrell [R-CA-48]",
+        "isByRequest": "N",
+        "lastName": "Issa",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/I000056?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 1444 Main Street in Ramona, California, as the \"Archie Moore Post Office Building\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4982/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-03T08:09:11Z",
+    "updateDateIncludingText": "2026-06-03T08:09:11Z"
+  },
+  "request": {
+    "billNumber": "4982",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

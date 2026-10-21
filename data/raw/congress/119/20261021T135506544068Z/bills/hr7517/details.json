@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 29 (Wednesday, February 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. THOMPSON of Pennsylvania:\nH.R. 7517.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H2187]\n</pre>",
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-11",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Sponsor introductory remarks on measure. (CR H2204)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7517",
+    "number": "7517",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000467",
+        "district": 15,
+        "firstName": "Glenn",
+        "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/T000467?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 10 East Main Street in Mahaffey, Pennsylvania, as the \"Robert Allen Bishop, Sr. Post Office Building\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7517/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-02T08:05:38Z",
+    "updateDateIncludingText": "2026-10-02T08:05:38Z"
+  },
+  "request": {
+    "billNumber": "7517",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

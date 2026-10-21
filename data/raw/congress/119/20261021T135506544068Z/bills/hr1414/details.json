@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 32 (Tuesday, February 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOTTHEIMER:\nH.R. 1414.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H723]\n</pre>",
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-02-18",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1414",
+    "number": "1414",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000583",
+        "district": 5,
+        "firstName": "Josh",
+        "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+        "isByRequest": "N",
+        "lastName": "Gottheimer",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/G000583?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/text?format=json"
+    },
+    "title": "Cameron\u2019s Law",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1414/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:34:03Z",
+    "updateDateIncludingText": "2026-09-19T23:34:03Z"
+  },
+  "request": {
+    "billNumber": "1414",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

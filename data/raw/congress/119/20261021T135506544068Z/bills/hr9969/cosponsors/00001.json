@@ -1,0 +1,41 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "D000216",
+      "district": 3,
+      "firstName": "Rosa",
+      "fullName": "Rep. DeLauro, Rosa L. [D-CT-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "DeLauro",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-07-27",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/D000216?format=json"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": 4,
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2026-07-30",
+      "state": "PA",
+      "url": "https://api.congress.gov/v3/member/D000631?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "9969",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/9969?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

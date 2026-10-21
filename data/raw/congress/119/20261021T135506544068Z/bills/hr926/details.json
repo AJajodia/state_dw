@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COHEN:\nH.R. 926.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 3\n[Page H460]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2026-01-14",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/926",
+    "number": "926",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001068",
+        "district": 9,
+        "firstName": "Steve",
+        "fullName": "Rep. Cohen, Steve [D-TN-9]",
+        "isByRequest": "N",
+        "lastName": "Cohen",
+        "party": "D",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/C001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/text?format=json"
+    },
+    "title": "Fort Pillow National Battlefield Park Study Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/926/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-15T09:06:58Z",
+    "updateDateIncludingText": "2026-01-15T09:06:58Z"
+  },
+  "request": {
+    "billNumber": "926",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SELF:\nH.R. 4730.\nCongress has the power to make all laws which shall be\nnecessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by the\nConstitution in the Government of the United States, or in\nany department or officer thereof, pursuant to Article I,\nSection 8, Clause 18 of the Constitution of the United\nStates.\n[Page H3649]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4730",
+    "number": "4730",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001224",
+        "district": 3,
+        "firstName": "Keith",
+        "fullName": "Rep. Self, Keith [R-TX-3]",
+        "isByRequest": "N",
+        "lastName": "Self",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/S001224?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/text?format=json"
+    },
+    "title": "Restoring Truth and Sanity to American History Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4730/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:39Z",
+    "updateDateIncludingText": "2026-09-01T08:05:39Z"
+  },
+  "request": {
+    "billNumber": "4730",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

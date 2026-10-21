@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 166 (Wednesday, October 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALKINSHAW:\nH.R. 5724.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 18\n[Page H4529]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-08",
+    "latestAction": {
+      "actionDate": "2025-10-08",
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5724",
+    "number": "5724",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000831",
+        "district": 11,
+        "firstName": "James",
+        "fullName": "Rep. Walkinshaw, James R. [D-VA-11]",
+        "isByRequest": "N",
+        "lastName": "Walkinshaw",
+        "middleName": "R.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000831?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/text?format=json"
+    },
+    "title": "FAST Justice Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5724/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:22:00Z",
+    "updateDateIncludingText": "2026-09-19T23:22:00Z"
+  },
+  "request": {
+    "billNumber": "5724",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

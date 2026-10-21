@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/108/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/108/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-02-12",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/108",
+    "number": "108",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000603",
+        "firstName": "Rand",
+        "fullName": "Sen. Paul, Rand [R-KY]",
+        "isByRequest": "N",
+        "lastName": "Paul",
+        "party": "R",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/P000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/108/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/108/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sales to the Government of Ukraine of certain defense articles and services.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/108/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-02-17T18:16:32Z",
+    "updateDateIncludingText": "2026-02-17T18:16:32Z"
+  },
+  "request": {
+    "billNumber": "108",
+    "billType": "sjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

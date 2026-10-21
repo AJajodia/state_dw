@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-17",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1566",
+    "number": "1566",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000467",
+        "district": 15,
+        "firstName": "Glenn",
+        "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/T000467?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/text?format=json"
+    },
+    "title": "Expressing the sense of the House of Representatives that the third Friday of September should be recognized as \"National POW/MIA Recognition Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1566/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-10-02T21:34:58Z",
+    "updateDateIncludingText": "2026-10-02T21:34:58Z"
+  },
+  "request": {
+    "billNumber": "1566",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

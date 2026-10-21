@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-24",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2454",
+    "number": "2454",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000790",
+        "firstName": "Raphael",
+        "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+        "isByRequest": "N",
+        "lastName": "Warnock",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/W000790?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/text?format=json"
+    },
+    "title": "Fair Debt Collection Practices for Servicemembers Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2454/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-09-22T11:39:29Z",
+    "updateDateIncludingText": "2025-09-22T11:39:29Z"
+  },
+  "request": {
+    "billNumber": "2454",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

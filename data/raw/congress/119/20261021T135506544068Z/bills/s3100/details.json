@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-04",
+    "latestAction": {
+      "actionDate": "2025-11-04",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3100",
+    "number": "3100",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001114",
+        "firstName": "John",
+        "fullName": "Sen. Curtis, John R. [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Curtis",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/C001114?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/text?format=json"
+    },
+    "title": "POST Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3100/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-21T19:59:11Z",
+    "updateDateIncludingText": "2026-04-21T19:59:11Z"
+  },
+  "request": {
+    "billNumber": "3100",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

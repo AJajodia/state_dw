@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "The motion to discharge fell when the point of order was well taken."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/124",
+    "number": "124",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000384",
+        "firstName": "Timothy",
+        "fullName": "Sen. Kaine, Tim [D-VA]",
+        "isByRequest": "N",
+        "lastName": "Kaine",
+        "middleName": "M.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000384?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/text?format=json"
+    },
+    "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Republic of Cuba that have not been authorized by Congress.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/124/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-07-17T19:47:53Z",
+    "updateDateIncludingText": "2026-07-17T19:47:53Z"
+  },
+  "request": {
+    "billNumber": "124",
+    "billType": "sjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

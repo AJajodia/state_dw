@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLEAVER:\nH.R. 8325.\nCongress has the power to enact this legislation pursuant\nto the following:\nCommerce Clause of Article I\n[Page H2960]\n</pre>",
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8325",
+    "number": "8325",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001061",
+        "district": 5,
+        "firstName": "Emanuel",
+        "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+        "isByRequest": "N",
+        "lastName": "Cleaver",
+        "party": "D",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/C001061?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/text?format=json"
+    },
+    "title": "Rehabilitation Through Reading Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8325/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:15:21Z",
+    "updateDateIncludingText": "2026-09-19T23:15:21Z"
+  },
+  "request": {
+    "billNumber": "8325",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

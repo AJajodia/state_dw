@@ -1,0 +1,79 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on the Judiciary on June 10, 2025",
+        "pubDate": "2026-05-27T14:05:00Z",
+        "title": "H.R. 59, Mens Rea Reform Act",
+        "url": "https://www.cbo.gov/publication/62478"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BIGGS of Arizona:\nH.R. 59.\nCongress has the power to enact this legislation pursuant\nto the following:\nArtcile 1, Section 8\nThe single subject of this legislation is:\nThe single subject of this bill is to specify the state of\nmind required for conviction for criminal offenses that lack\nan expressly identified state of mind.\n[Page H37]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-06-10",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 15 - 13."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/59",
+    "number": "59",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001302",
+        "district": 5,
+        "firstName": "Andy",
+        "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/B001302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/text?format=json"
+    },
+    "title": "Mens Rea Reform Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/59/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-27T14:20:28Z",
+    "updateDateIncludingText": "2026-05-27T14:20:28Z"
+  },
+  "request": {
+    "billNumber": "59",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

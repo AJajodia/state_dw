@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/862/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 22,
+      "countIncludingWithdrawnCosponsors": 22,
+      "url": "https://api.congress.gov/v3/bill/119/sres/862/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-17",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790; text: CR S4799-4800)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/862",
+    "number": "862",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001243",
+        "firstName": "Marsha",
+        "fullName": "Sen. Blackburn, Marsha [R-TN]",
+        "isByRequest": "N",
+        "lastName": "Blackburn",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001243?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/862/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/862/text?format=json"
+    },
+    "title": "A resolution honoring the life and legacy of Dolly Parton, a daughter of Tennessee whose extraordinary contributions to music, philanthropy, literacy, education, health, conservation, and culture enriched the lives of countless Americans.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/862/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-25T10:56:29Z",
+    "updateDateIncludingText": "2026-09-25T10:56:29Z"
+  },
+  "request": {
+    "billNumber": "862",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

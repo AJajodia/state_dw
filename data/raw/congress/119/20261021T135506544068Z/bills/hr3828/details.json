@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VELAZQUEZ:\nH.R. 3828.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle IV, Section 3, Clause 2\nTHe Congress shall have Power to dispose of and make all\nneedful Rules and Regulations respecting the Territory or\nother Property belonging to the United States; . . . .\n[Page H2535]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3828",
+    "number": "3828",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/text?format=json"
+    },
+    "title": "Combating Deceptive Immigration Enforcement Practices Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-03T09:05:59Z",
+    "updateDateIncludingText": "2026-02-03T09:05:59Z"
+  },
+  "request": {
+    "billNumber": "3828",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

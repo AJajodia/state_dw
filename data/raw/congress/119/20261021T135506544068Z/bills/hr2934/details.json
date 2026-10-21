@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. JOYCE of Ohio:\nH.R. 2934.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H1613]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-04-17",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2934",
+    "number": "2934",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000295",
+        "district": 14,
+        "firstName": "David",
+        "fullName": "Rep. Joyce, David P. [R-OH-14]",
+        "isByRequest": "N",
+        "lastName": "Joyce",
+        "middleName": "P.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/J000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/text?format=json"
+    },
+    "title": "STATES 2.0 Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2934/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-07T08:06:12Z",
+    "updateDateIncludingText": "2026-08-07T08:06:12Z"
+  },
+  "request": {
+    "billNumber": "2934",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

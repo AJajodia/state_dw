@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5012/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5012/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 139 (Tuesday, August 19, 2025)]\n[House]\n[Pages H3703-H3704]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SOTO:\nH.R. 5012.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, of the U.S. Constitution.\n[[Page H3704]]\n</pre>",
+    "introducedDate": "2025-08-19",
+    "latestAction": {
+      "actionDate": "2025-08-19",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5012",
+    "number": "5012",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001200",
+        "district": 9,
+        "firstName": "Darren",
+        "fullName": "Rep. Soto, Darren [D-FL-9]",
+        "isByRequest": "N",
+        "lastName": "Soto",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/S001200?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5012/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5012/text?format=json"
+    },
+    "title": "To authorize the President to award the Purple Heart to Louis Boria, Jr., for injuries incurred during World War II and the Korean War while a member of the Marine Corps.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5012/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-09-19T18:47:36Z",
+    "updateDateIncludingText": "2025-09-19T18:47:36Z"
+  },
+  "request": {
+    "billNumber": "5012",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

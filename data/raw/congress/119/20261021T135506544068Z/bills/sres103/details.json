@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-02-27",
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S1433)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/103",
+    "number": "103",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000574",
+        "firstName": "Ruben",
+        "fullName": "Sen. Gallego, Ruben [D-AZ]",
+        "isByRequest": "N",
+        "lastName": "Gallego",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000574?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/text?format=json"
+    },
+    "title": "A resolution condemning the rejection by the United States of a United Nations resolution condemning the illegal invasion of Ukraine by the Russian Federation.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/103/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-05-06T15:36:53Z",
+    "updateDateIncludingText": "2025-05-06T15:36:53Z"
+  },
+  "request": {
+    "billNumber": "103",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

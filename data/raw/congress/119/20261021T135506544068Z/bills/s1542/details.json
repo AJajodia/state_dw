@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+        "pubDate": "2026-07-28T17:13:00Z",
+        "title": "S. 1542, Uyghur Policy Act of 2026",
+        "url": "https://www.cbo.gov/publication/62606"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2026-07-27",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 496."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1542",
+    "number": "1542",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001114",
+        "firstName": "John",
+        "fullName": "Sen. Curtis, John R. [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Curtis",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/C001114?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 25,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/text?format=json"
+    },
+    "title": "Uyghur Policy Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1542/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-05T03:26:25Z",
+    "updateDateIncludingText": "2026-08-05T03:26:25Z"
+  },
+  "request": {
+    "billNumber": "1542",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

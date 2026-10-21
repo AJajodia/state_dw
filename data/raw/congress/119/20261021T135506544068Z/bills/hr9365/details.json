@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 103 (Thursday, June 18, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. RIVAS:\nH.R. 9365.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 of the U.S. Constitution\n[Page H4127]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-18",
+    "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9365",
+    "number": "9365",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000620",
+        "district": 29,
+        "firstName": "Luz",
+        "fullName": "Rep. Rivas, Luz M. [D-CA-29]",
+        "isByRequest": "N",
+        "lastName": "Rivas",
+        "middleName": "M.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/R000620?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/text?format=json"
+    },
+    "title": "HEART Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9365/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-06T21:20:59Z",
+    "updateDateIncludingText": "2026-07-06T21:20:59Z"
+  },
+  "request": {
+    "billNumber": "9365",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

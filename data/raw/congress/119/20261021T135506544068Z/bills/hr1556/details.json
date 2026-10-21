@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 37 (Tuesday, February 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BRESNAHAN:\nH.R. 1556.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the U.S. Constitution in\nthat the legislation exercises legislative powers granted to\nCongress by that clause ``to make all Laws which shall be\nnecessary and proper for carrying into Execution the\nforegoing Powers and all other Powers vested by the\nConstitution in the Government of the United States or any\nDepartment or Office thereof.''\n[Page H837]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-25",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1556",
+    "number": "1556",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001327",
+        "district": 8,
+        "firstName": "Robert",
+        "fullName": "Rep. Bresnahan, Robert [R-PA-8]",
+        "isByRequest": "N",
+        "lastName": "Bresnahan",
+        "middleName": "P.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/B001327?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/text?format=json"
+    },
+    "title": "Eric\u2019s Law",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1556/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-10T06:57:47Z",
+    "updateDateIncludingText": "2026-01-10T06:57:47Z"
+  },
+  "request": {
+    "billNumber": "1556",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

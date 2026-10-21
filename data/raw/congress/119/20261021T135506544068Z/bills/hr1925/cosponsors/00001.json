@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "F000454",
+      "district": 11,
+      "firstName": "Bill",
+      "fullName": "Rep. Foster, Bill [D-IL-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Foster",
+      "party": "D",
+      "sponsorshipDate": "2025-03-06",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/F000454?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "1925",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/1925?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

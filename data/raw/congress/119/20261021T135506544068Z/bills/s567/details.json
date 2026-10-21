@@ -1,0 +1,78 @@
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/amendments?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 67,
+      "countIncludingWithdrawnCosponsors": 67,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "actionTime": "10:49:02",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/567",
+    "number": "567",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000802",
+        "firstName": "Sheldon",
+        "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/W000802?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/text?format=json"
+    },
+    "title": "First Rhode Island Regiment Congressional Gold Medal Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/567/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-16T14:55:28Z",
+    "updateDateIncludingText": "2026-07-18T22:00:50Z"
+  },
+  "request": {
+    "billNumber": "567",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

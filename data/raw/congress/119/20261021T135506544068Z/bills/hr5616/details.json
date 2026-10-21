@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 160 (Tuesday, September 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ADERHOLT:\nH.R. 5616.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 5\n[Page H4509]\n</pre>",
+    "cosponsors": {
+      "count": 61,
+      "countIncludingWithdrawnCosponsors": 61,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-30",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5616",
+    "number": "5616",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000055",
+        "district": 4,
+        "firstName": "Robert",
+        "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+        "isByRequest": "N",
+        "lastName": "Aderholt",
+        "middleName": "B.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/A000055?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/text?format=json"
+    },
+    "title": "$2.50 for America\u2019s 250th Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5616/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-13T11:56:36Z",
+    "updateDateIncludingText": "2026-07-13T18:55:52Z"
+  },
+  "request": {
+    "billNumber": "5616",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 120 (Monday, July 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SEWELL:\nH.R. 4381.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 18 of section 8 of article I of the Constitution.\n[Page H3245]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-14",
+    "latestAction": {
+      "actionDate": "2025-07-14",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4381",
+    "number": "4381",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001185",
+        "district": 7,
+        "firstName": "Terri",
+        "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+        "isByRequest": "N",
+        "lastName": "Sewell",
+        "middleName": "A.",
+        "party": "D",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001185?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/text?format=json"
+    },
+    "title": "To direct the Secretary of Defense to establish a pilot program regarding treating pregnancy as a qualifying event for enrollment in TRICARE Select.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4381/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-27T00:33:15Z",
+    "updateDateIncludingText": "2026-06-27T00:33:15Z"
+  },
+  "request": {
+    "billNumber": "4381",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

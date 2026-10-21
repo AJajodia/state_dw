@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8431/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8431/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 71 (Wednesday, April 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RULLI:\nH.R. 8431.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 , Section 8\n[Page H3068]\n</pre>",
+    "introducedDate": "2026-04-22",
+    "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8431",
+    "number": "8431",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000619",
+        "district": 6,
+        "firstName": "Michael",
+        "fullName": "Rep. Rulli, Michael A. [R-OH-6]",
+        "isByRequest": "N",
+        "lastName": "Rulli",
+        "middleName": "A.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/R000619?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8431/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8431/text?format=json"
+    },
+    "title": "Third-Party Certification and Inspection Modernization Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8431/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:20:38Z",
+    "updateDateIncludingText": "2026-09-19T23:20:38Z"
+  },
+  "request": {
+    "billNumber": "8431",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

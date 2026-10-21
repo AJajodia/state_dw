@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9964/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9964/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 122 (Monday, July 27, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LARSON of Connecticut:\nH.R. 9964.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H5203]\n</pre>",
+    "introducedDate": "2026-07-27",
+    "latestAction": {
+      "actionDate": "2026-07-27",
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9964",
+    "number": "9964",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000557",
+        "district": 1,
+        "firstName": "John",
+        "fullName": "Rep. Larson, John B. [D-CT-1]",
+        "isByRequest": "N",
+        "lastName": "Larson",
+        "middleName": "B.",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/L000557?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9964/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9964/text?format=json"
+    },
+    "title": "To amend the War Powers Resolution to provide for the limitation on Federal funding in contravention of the requirements of the War Powers Resolution.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9964/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-11T17:35:46Z",
+    "updateDateIncludingText": "2026-08-11T17:35:46Z"
+  },
+  "request": {
+    "billNumber": "9964",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

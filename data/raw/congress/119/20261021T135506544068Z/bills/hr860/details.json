@@ -1,0 +1,80 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HUDSON:\nH.R. 860.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 5\n[Page H433]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-31",
+    "latestAction": {
+      "actionDate": "2025-01-31",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/860",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/HR/860\" target=\"_blank\">H.R.860</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/S/284\" target=\"_blank\">S.284</a>, which became Public Law 119-66."
+      }
+    ],
+    "number": "860",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001067",
+        "district": 9,
+        "firstName": "Richard",
+        "fullName": "Rep. Hudson, Richard [R-NC-9]",
+        "isByRequest": "N",
+        "lastName": "Hudson",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001067?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/text?format=json"
+    },
+    "title": "Congressional Award Program Reauthorization Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/860/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-27T16:23:47Z",
+    "updateDateIncludingText": "2026-07-27T16:23:47Z"
+  },
+  "request": {
+    "billNumber": "860",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

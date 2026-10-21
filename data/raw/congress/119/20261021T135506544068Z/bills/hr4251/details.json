@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 113 (Monday, June 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BROWNLEY:\nH.R. 4251.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3036]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-30",
+    "latestAction": {
+      "actionDate": "2025-06-30",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4251",
+    "number": "4251",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001285",
+        "district": 26,
+        "firstName": "Julia",
+        "fullName": "Rep. Brownley, Julia [D-CA-26]",
+        "isByRequest": "N",
+        "lastName": "Brownley",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/B001285?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/text?format=json"
+    },
+    "title": "Protecting Americans from Reckless Gun Dealers Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4251/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-28T12:40:52Z",
+    "updateDateIncludingText": "2025-07-28T12:40:52Z"
+  },
+  "request": {
+    "billNumber": "4251",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

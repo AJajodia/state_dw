@@ -1,0 +1,27 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001095",
+      "firstName": "Tom",
+      "fullName": "Sen. Cotton, Tom [R-AR]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cotton",
+      "party": "R",
+      "sponsorshipDate": "2025-02-10",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/C001095?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "493",
+    "billType": "s",
+    "billUrl": "https://api.congress.gov/v3/bill/119/s/493?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

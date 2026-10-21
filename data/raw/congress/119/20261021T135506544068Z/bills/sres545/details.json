@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/545/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/sres/545/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8696-8697; text: CR S8677)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/545",
+    "number": "545",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000312",
+        "firstName": "James",
+        "fullName": "Sen. Justice, James C. [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Justice",
+        "middleName": "C.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/J000312?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/545/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/545/text?format=json"
+    },
+    "title": "A resolution designating December 6, 2025, as \"National Miners Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/545/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-12-17T15:35:22Z",
+    "updateDateIncludingText": "2025-12-17T15:35:22Z"
+  },
+  "request": {
+    "billNumber": "545",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

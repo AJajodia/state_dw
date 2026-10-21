@@ -1,0 +1,85 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Financial Services on June 4, 2025",
+        "pubDate": "2025-10-29T01:32:00Z",
+        "title": "H.R. 3323, Helping Startups Continue to Grow Act",
+        "url": "https://www.cbo.gov/publication/61845"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-133",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/133?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 80 (Tuesday, May 13, 2025)]\n[House]\n[Pages H2000-H2001]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. STEIL:\nH.R. 3323.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution: To make all laws which shall be necessary and\nproper for carrying\n[[Page H2001]]\ninto execution the foregoing powers, and all other powers\nvested by this Constitution in the government of the United\nStates, or in any department or officer thereof.\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-13",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Placed on the Union Calendar, Calendar No. 102."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3323",
+    "number": "3323",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/text?format=json"
+    },
+    "title": "Helping Startups Continue To Grow Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3323/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-07T19:29:42Z",
+    "updateDateIncludingText": "2026-10-07T19:29:42Z"
+  },
+  "request": {
+    "billNumber": "3323",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

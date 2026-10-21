@@ -1,0 +1,89 @@
+{
+  "bill": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As passed by the House of Representatives on July 22, 2025",
+        "pubDate": "2025-08-11T18:38:00Z",
+        "title": "H.R. 1917, Great Lakes Mass Marking Program Act of 2025",
+        "url": "https://www.cbo.gov/publication/61658"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-210",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/210?format=json"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. DINGELL:\nH.R. 1917.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe Constitutional authority of Congress to enact this\nlegislation is provided by Article I, Section 8 of the United\nStates Constitution.\n[Page H1039]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1917",
+    "number": "1917",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000624",
+        "district": 6,
+        "firstName": "Debbie",
+        "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+        "isByRequest": "N",
+        "lastName": "Dingell",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/D000624?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/text?format=json"
+    },
+    "title": "Great Lakes Mass Marking Program Act of 2025",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1917/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-08T18:12:22Z",
+    "updateDateIncludingText": "2026-09-08T18:12:22Z"
+  },
+  "request": {
+    "billNumber": "1917",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

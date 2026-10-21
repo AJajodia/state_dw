@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001285",
+      "district": 26,
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": true,
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2026-04-21",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/B001285?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "8406",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8406?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

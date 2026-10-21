@@ -1,0 +1,84 @@
+{
+  "bill": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nFebruary 12, 2026\n",
+        "pubDate": "2026-03-16T14:57:00Z",
+        "title": "S. 2585, MAP for Broadband Funding Act",
+        "url": "https://www.cbo.gov/publication/62224"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-121",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/121?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "actionTime": "12:12:11",
+      "text": "Held at the desk."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2585",
+    "number": "2585",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000463",
+        "firstName": "Deb",
+        "fullName": "Sen. Fischer, Deb [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Fischer",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000463?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/text?format=json"
+    },
+    "title": "MAP for Broadband Funding Act",
+    "titles": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/2585/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:03:40Z",
+    "updateDateIncludingText": "2026-09-08T18:03:40Z"
+  },
+  "request": {
+    "billNumber": "2585",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

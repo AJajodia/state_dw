@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5272/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5272/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-08-05",
+    "latestAction": {
+      "actionDate": "2026-08-05",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5272",
+    "number": "5272",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5272/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5272/text?format=json"
+    },
+    "title": "Recover COVID Unemployment Fraud in Banks Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5272/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-18T20:47:45Z",
+    "updateDateIncludingText": "2026-08-18T20:47:45Z"
+  },
+  "request": {
+    "billNumber": "5272",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1339",
+    "number": "1339",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001188",
+        "district": 3,
+        "firstName": "Marlin",
+        "fullName": "Rep. Stutzman, Marlin A. [R-IN-3]",
+        "isByRequest": "N",
+        "lastName": "Stutzman",
+        "middleName": "A.",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S001188?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/text?format=json"
+    },
+    "title": "Expressing the sense of the House of Representatives in support of Prime Minister Benjamin Netanyahu's initiative to transition the United States-Israel relationship toward mutual defense cooperation and joint economic investment, recognizing the contributions of Israel to joint military operations against Iran, and condemning the global rise of antisemitism.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1339/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-08-10T21:15:30Z",
+    "updateDateIncludingText": "2026-08-10T21:15:30Z"
+  },
+  "request": {
+    "billNumber": "1339",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

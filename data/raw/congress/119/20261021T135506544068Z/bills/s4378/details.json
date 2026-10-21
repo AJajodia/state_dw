@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-22",
+    "latestAction": {
+      "actionDate": "2026-04-27",
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 401."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4378",
+    "number": "4378",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000295",
+        "firstName": "Joni",
+        "fullName": "Sen. Ernst, Joni [R-IA]",
+        "isByRequest": "N",
+        "lastName": "Ernst",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/E000295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/text?format=json"
+    },
+    "title": "Protecting American Taxpayers Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4378/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-23T14:59:09Z",
+    "updateDateIncludingText": "2026-07-23T14:59:09Z"
+  },
+  "request": {
+    "billNumber": "4378",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

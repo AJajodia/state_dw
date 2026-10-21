@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 184 (Tuesday, November 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEYER:\nH.R. 5903.\nCongress has the power to enact this legislation pursuant\nto the following:\narticle 1 section 8\n[Page H4573]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-04",
+    "latestAction": {
+      "actionDate": "2025-11-04",
+      "text": "Referred to the House Committee on House Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5903",
+    "number": "5903",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001292",
+        "district": 8,
+        "firstName": "Donald",
+        "fullName": "Rep. Beyer, Donald S. [D-VA-8]",
+        "isByRequest": "N",
+        "lastName": "Beyer",
+        "middleName": "S.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/B001292?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/text?format=json"
+    },
+    "title": "PROVE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5903/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-05T16:02:13Z",
+    "updateDateIncludingText": "2026-10-05T16:02:13Z"
+  },
+  "request": {
+    "billNumber": "5903",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

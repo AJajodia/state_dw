@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 133 (Friday, August 1, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GARAMENDI:\nH.R. 4847.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, section 8, clause 3\n[Page H3674]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-01",
+    "latestAction": {
+      "actionDate": "2025-08-02",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4847",
+    "number": "4847",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000559",
+        "district": 8,
+        "firstName": "John",
+        "fullName": "Rep. Garamendi, John [D-CA-8]",
+        "isByRequest": "N",
+        "lastName": "Garamendi",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/G000559?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/text?format=json"
+    },
+    "title": "Transportation Emergency Relief Extension Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4847/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T21:48:05Z",
+    "updateDateIncludingText": "2025-12-05T21:48:05Z"
+  },
+  "request": {
+    "billNumber": "4847",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

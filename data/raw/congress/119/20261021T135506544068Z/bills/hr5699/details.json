@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 164 (Monday, October 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RUTHERFORD:\nH.R. 5699.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution.\n[Page H4523]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-06",
+    "latestAction": {
+      "actionDate": "2025-11-19",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5699",
+    "number": "5699",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000609",
+        "district": 5,
+        "firstName": "John",
+        "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+        "isByRequest": "N",
+        "lastName": "Rutherford",
+        "middleName": "H.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/R000609?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/text?format=json"
+    },
+    "title": "Fisheries Data Modernization and Accuracy Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5699/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-08T13:28:50Z",
+    "updateDateIncludingText": "2026-04-30T16:27:20Z"
+  },
+  "request": {
+    "billNumber": "5699",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

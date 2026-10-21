@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 36 (Tuesday, February 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEHLS:\nH.R. 7662.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H2297]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-24",
+    "latestAction": {
+      "actionDate": "2026-02-25",
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7662",
+    "number": "7662",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000026",
+        "district": 22,
+        "firstName": "Troy",
+        "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+        "isByRequest": "N",
+        "lastName": "Nehls",
+        "middleName": "E.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/N000026?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/text?format=json"
+    },
+    "title": "Railroad Safety Enhancement Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7662/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-03T08:09:10Z",
+    "updateDateIncludingText": "2026-06-03T08:09:10Z"
+  },
+  "request": {
+    "billNumber": "7662",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

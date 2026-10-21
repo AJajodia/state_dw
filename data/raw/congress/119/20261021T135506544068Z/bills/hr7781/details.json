@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 40 (Tuesday, March 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VASQUEZ:\nH.R. 7781.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8, Clauses 1 and 18 of the United States\nConstitution, to provide for the general welfare and make all\nlaws necessary and proper to carry out the powers of the\nCongress.\n[Page H2370]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-03",
+    "latestAction": {
+      "actionDate": "2026-03-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7781",
+    "number": "7781",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000136",
+        "district": 2,
+        "firstName": "Gabe",
+        "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+        "isByRequest": "N",
+        "lastName": "Vasquez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/V000136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/text?format=json"
+    },
+    "title": "Parity for Tribal Educators Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7781/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:12:05Z",
+    "updateDateIncludingText": "2026-09-19T23:12:05Z"
+  },
+  "request": {
+    "billNumber": "7781",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

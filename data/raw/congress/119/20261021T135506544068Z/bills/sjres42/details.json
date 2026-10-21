@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-03-27",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/42",
+    "number": "42",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000033",
+        "firstName": "Bernie",
+        "fullName": "Sen. Sanders, Bernard [I-VT]",
+        "isByRequest": "N",
+        "lastName": "Sanders",
+        "party": "I",
+        "state": "VT",
+        "url": "https://api.congress.gov/v3/member/S000033?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval of the proposed export of certain defense articles to Israel.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/42/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2025-07-01T14:07:17Z",
+    "updateDateIncludingText": "2025-07-01T14:07:17Z"
+  },
+  "request": {
+    "billNumber": "42",
+    "billType": "sjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

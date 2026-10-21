@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KEATING:\nH.R. 347.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 section 8\n[Page H112]\n</pre>",
+    "cosponsors": {
+      "count": 27,
+      "countIncludingWithdrawnCosponsors": 27,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-01-13",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/347",
+    "number": "347",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000375",
+        "district": 9,
+        "firstName": "William",
+        "fullName": "Rep. Keating, William R. [D-MA-9]",
+        "isByRequest": "N",
+        "lastName": "Keating",
+        "middleName": "R.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/K000375?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/text?format=json"
+    },
+    "title": "Sea Turtle Rescue Assistance and Rehabilitation Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/347/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:37:36Z",
+    "updateDateIncludingText": "2026-09-19T23:37:36Z"
+  },
+  "request": {
+    "billNumber": "347",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

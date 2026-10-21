@@ -1,0 +1,77 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001069",
+      "district": 2,
+      "firstName": "Joe",
+      "fullName": "Rep. Courtney, Joe [D-CT-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Courtney",
+      "party": "D",
+      "sponsorshipDate": "2025-01-09",
+      "state": "CT",
+      "url": "https://api.congress.gov/v3/member/C001069?format=json"
+    },
+    {
+      "bioguideId": "S001196",
+      "district": 21,
+      "firstName": "Elise",
+      "fullName": "Rep. Stefanik, Elise M. [R-NY-21]",
+      "isOriginalCosponsor": false,
+      "lastName": "Stefanik",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-04-09",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/S001196?format=json"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": 24,
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-08-15",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/T000478?format=json"
+    },
+    {
+      "bioguideId": "M000317",
+      "district": 11,
+      "firstName": "Nicole",
+      "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+      "isOriginalCosponsor": false,
+      "lastName": "Malliotakis",
+      "party": "R",
+      "sponsorshipDate": "2025-09-26",
+      "state": "NY",
+      "url": "https://api.congress.gov/v3/member/M000317?format=json"
+    },
+    {
+      "bioguideId": "P000614",
+      "district": 1,
+      "firstName": "Chris",
+      "fullName": "Rep. Pappas, Chris [D-NH-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Pappas",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "NH",
+      "url": "https://api.congress.gov/v3/member/P000614?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 5,
+    "countIncludingWithdrawnCosponsors": 5
+  },
+  "request": {
+    "billNumber": "293",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/293?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

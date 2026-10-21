@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 65 (Tuesday, April 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KNOTT:\nH.R. 8267.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H2886]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-14",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8267",
+    "number": "8267",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000405",
+        "district": 13,
+        "firstName": "Brad",
+        "fullName": "Rep. Knott, Brad [R-NC-13]",
+        "isByRequest": "N",
+        "lastName": "Knott",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/K000405?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/text?format=json"
+    },
+    "title": "SAFER Transport Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8267/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-29T08:05:35Z",
+    "updateDateIncludingText": "2026-09-29T08:05:35Z"
+  },
+  "request": {
+    "billNumber": "8267",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

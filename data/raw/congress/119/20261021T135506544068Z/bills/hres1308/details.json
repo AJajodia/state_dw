@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1308",
+    "number": "1308",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000474",
+        "district": 35,
+        "firstName": "Norma",
+        "fullName": "Rep. Torres, Norma J. [D-CA-35]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "middleName": "J.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/T000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/text?format=json"
+    },
+    "title": "Designating May 2026 as \"National Wildfire Preparedness Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1308/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-01T23:42:47Z",
+    "updateDateIncludingText": "2026-06-01T23:42:47Z"
+  },
+  "request": {
+    "billNumber": "1308",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

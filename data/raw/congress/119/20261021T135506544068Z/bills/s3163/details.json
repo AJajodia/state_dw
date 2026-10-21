@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Read twice and referred to the Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3163",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/S/3163\" target=\"_blank\">S.3163</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/S/1071\" target=\"_blank\">S.1071</a>, which became Public Law 119-60."
+      }
+    ],
+    "number": "3163",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001208",
+        "firstName": "Elissa",
+        "fullName": "Sen. Slotkin, Elissa [D-MI]",
+        "isByRequest": "N",
+        "lastName": "Slotkin",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001208?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/text?format=json"
+    },
+    "title": "A bill to require the Secretary of Defense to seek to engage appropriate officials of Taiwan in a joint program with Taiwan to enable the fielding of uncrewed systems and counter-uncrewed systems capabilities.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3163/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-24T22:57:44Z",
+    "updateDateIncludingText": "2026-09-24T22:57:44Z"
+  },
+  "request": {
+    "billNumber": "3163",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

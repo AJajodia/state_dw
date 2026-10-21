@@ -1,0 +1,80 @@
+{
+  "bill": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+        "pubDate": "2026-08-04T15:18:00Z",
+        "title": "H.R. 7365, a bill to designate the facility of the United States Postal Service located at 1225 Kempsville Road in Virginia Beach, Virginia, as the &quot;Colonel Edward Shames Post Office Building&quot;",
+        "url": "https://www.cbo.gov/publication/62620"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 25 (Wednesday, February 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. KIGGANS of Virginia:\nH.R. 7365.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 7 of section 8 of article I of the Constitution\n[Page H2032]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-04",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7365",
+    "number": "7365",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000399",
+        "district": 2,
+        "firstName": "Jennifer",
+        "fullName": "Rep. Kiggans, Jennifer A. [R-VA-2]",
+        "isByRequest": "N",
+        "lastName": "Kiggans",
+        "middleName": "A.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/K000399?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 1225 Kempsville Road in Virginia Beach, Virginia, as the \"Colonel Edward Shames Post Office Building\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7365/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-24T21:59:34Z",
+    "updateDateIncludingText": "2026-09-24T21:59:34Z"
+  },
+  "request": {
+    "billNumber": "7365",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

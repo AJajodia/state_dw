@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8926/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8926/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 86 (Wednesday, May 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. FOUSHEE:\nH.R. 8926.\nCongress has the power to enact this legislation pursuant\nto the following:\nPer Article 1 of the Constitution\n[Page H3670]\n</pre>",
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8926",
+    "number": "8926",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000477",
+        "district": 4,
+        "firstName": "Valerie",
+        "fullName": "Rep. Foushee, Valerie P. [D-NC-4]",
+        "isByRequest": "N",
+        "lastName": "Foushee",
+        "middleName": "P.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/F000477?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8926/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8926/text?format=json"
+    },
+    "title": "State and Local Public Sector Innovation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8926/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-29T13:44:19Z",
+    "updateDateIncludingText": "2026-06-29T13:44:19Z"
+  },
+  "request": {
+    "billNumber": "8926",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

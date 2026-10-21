@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 154 (Friday, September 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. TRAHAN:\nH.R. 5537.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H4490]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-19",
+    "latestAction": {
+      "actionDate": "2025-09-20",
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5537",
+    "number": "5537",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000482",
+        "district": 3,
+        "firstName": "Lori",
+        "fullName": "Rep. Trahan, Lori [D-MA-3]",
+        "isByRequest": "N",
+        "lastName": "Trahan",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/T000482?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/text?format=json"
+    },
+    "title": "Pipeline Accountability Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5537/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:22Z",
+    "updateDateIncludingText": "2026-02-04T05:06:22Z"
+  },
+  "request": {
+    "billNumber": "5537",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

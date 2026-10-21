@@ -1,0 +1,41 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "A000372",
+      "district": 12,
+      "firstName": "Rick",
+      "fullName": "Rep. Allen, Rick W. [R-GA-12]",
+      "isOriginalCosponsor": true,
+      "lastName": "Allen",
+      "middleName": "W.",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/A000372?format=json"
+    },
+    {
+      "bioguideId": "W000798",
+      "district": 5,
+      "firstName": "Tim",
+      "fullName": "Rep. Walberg, Tim [R-MI-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Walberg",
+      "party": "R",
+      "sponsorshipDate": "2025-03-27",
+      "state": "MI",
+      "url": "https://api.congress.gov/v3/member/W000798?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "2449",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/2449?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

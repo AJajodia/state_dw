@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 104 (Tuesday, June 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DAVIS of North Carolina:\nH.R. 4027.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18.\n[Page H2832]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Sponsor introductory remarks on measure. (CR H2899-2900)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4027",
+    "number": "4027",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000230",
+        "district": 1,
+        "firstName": "Donald",
+        "fullName": "Rep. Davis, Donald G. [D-NC-1]",
+        "isByRequest": "N",
+        "lastName": "Davis",
+        "middleName": "G.",
+        "party": "D",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/D000230?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/text?format=json"
+    },
+    "title": "Frontline Fighter Force First Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4027/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-21T14:53:21Z",
+    "updateDateIncludingText": "2025-07-21T14:53:21Z"
+  },
+  "request": {
+    "billNumber": "4027",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

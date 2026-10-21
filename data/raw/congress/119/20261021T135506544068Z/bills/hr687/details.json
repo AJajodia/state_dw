@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 14 (Thursday, January 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LOUDERMILK:\nH.R. 687.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 18\nTo make all laws which shall be necessary and proper for\ncarrying into Execution the foregoing Powers, and all other\nPowers vested by this Constitution in the Government of the\nUnited States, or in any Departrnent or Officer thereof.\n[Page H389]\n</pre>",
+    "cosponsors": {
+      "count": 24,
+      "countIncludingWithdrawnCosponsors": 24,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-23",
+    "latestAction": {
+      "actionDate": "2025-01-23",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/687",
+    "number": "687",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000583",
+        "district": 11,
+        "firstName": "Barry",
+        "fullName": "Rep. Loudermilk, Barry [R-GA-11]",
+        "isByRequest": "N",
+        "lastName": "Loudermilk",
+        "party": "R",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/L000583?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/text?format=json"
+    },
+    "title": "MERIT Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/687/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-03-19T16:13:21Z",
+    "updateDateIncludingText": "2025-03-19T16:13:21Z"
+  },
+  "request": {
+    "billNumber": "687",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

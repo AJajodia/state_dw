@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-11",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/11?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-02-05",
+    "latestAction": {
+      "actionDate": "2025-03-05",
+      "text": "Placed on the House Calendar, Calendar No. 7."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/113",
+    "number": "113",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000193",
+        "district": 2,
+        "firstName": "Bennie",
+        "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "middleName": "G.",
+        "party": "D",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/T000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/text?format=json"
+    },
+    "title": "Directing the Secretary of Homeland Security to transmit to the House of Representatives certain documents relating to Department of Homeland Security policies and activities related to the security of Department information and data and the recruitment and retention of its workforce.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/113/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-25T17:24:56Z",
+    "updateDateIncludingText": "2026-09-25T17:24:56Z"
+  },
+  "request": {
+    "billNumber": "113",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

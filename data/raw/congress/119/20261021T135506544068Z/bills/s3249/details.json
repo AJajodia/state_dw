@@ -1,0 +1,77 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the Senate Committee on Foreign Relations on February 10, 2026",
+        "pubDate": "2026-03-03T14:55:00Z",
+        "title": "S. 3249, Strategic Subsea Cables Act of 2026",
+        "url": "https://www.cbo.gov/publication/62196"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2026-02-10",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 327."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3249",
+    "number": "3249",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/S001181?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/text?format=json"
+    },
+    "title": "Strategic Subsea Cables Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3249/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-04T11:03:25Z",
+    "updateDateIncludingText": "2026-06-04T11:03:25Z"
+  },
+  "request": {
+    "billNumber": "3249",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

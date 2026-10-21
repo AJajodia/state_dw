@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 88 (Friday, May 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. TORRES of California:\nH.R. 3611.\nCongress has the power to enact this legislation pursuant\nto the following:\nAccording to Article 1: Section 8: Clause 18: of the United\nStates Constitution, seen below, this bill falls within the\nConstitutional Authority of the United States Congress.\nArticle 1: Section 8: Clause 18: To make all Laws which\nshall be necessary and proper for carrying into Execution the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.\n[Page H2369]\n</pre>",
+    "introducedDate": "2025-05-23",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the Subcommittee on Economic Opportunity."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3611",
+    "number": "3611",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000474",
+        "district": 35,
+        "firstName": "Norma",
+        "fullName": "Rep. Torres, Norma J. [D-CA-35]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "middleName": "J.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/T000474?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/text?format=json"
+    },
+    "title": "Veterans Skilled Trades Transition Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3611/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-27T13:53:59Z",
+    "updateDateIncludingText": "2026-03-27T13:53:59Z"
+  },
+  "request": {
+    "billNumber": "3611",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

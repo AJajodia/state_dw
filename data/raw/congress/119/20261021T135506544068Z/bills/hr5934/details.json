@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 187 (Friday, November 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. BIGGS of South Carolina:\nH.R. 5934.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8.\n[Page H4585]\n</pre>",
+    "cosponsors": {
+      "count": 23,
+      "countIncludingWithdrawnCosponsors": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5934",
+    "number": "5934",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001325",
+        "district": 3,
+        "firstName": "Sheri",
+        "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/B001325?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/text?format=json"
+    },
+    "title": "Major Thomas D. Howie Congressional Gold Medal",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5934/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-02T08:05:43Z",
+    "updateDateIncludingText": "2026-10-02T08:05:43Z"
+  },
+  "request": {
+    "billNumber": "5934",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

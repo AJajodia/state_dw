@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 55 (Tuesday, March 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MAST:\nH.R. 8054.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2676]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-24",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Referred to the Subcommittee on Aviation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8054",
+    "number": "8054",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001199",
+        "district": 21,
+        "firstName": "Brian",
+        "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+        "isByRequest": "N",
+        "lastName": "Mast",
+        "middleName": "J.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/text?format=json"
+    },
+    "title": "To designate the Palm Beach International Airport in Florida as the \"Donald J. Trump International Airport\", and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8054/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-03T08:05:39Z",
+    "updateDateIncludingText": "2026-06-03T08:05:39Z"
+  },
+  "request": {
+    "billNumber": "8054",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

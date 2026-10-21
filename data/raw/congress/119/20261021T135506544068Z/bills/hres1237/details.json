@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-30",
+    "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Referred to the House Committee on House Administration."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1237",
+    "number": "1237",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000246",
+        "district": 4,
+        "firstName": "Pat",
+        "fullName": "Rep. Fallon, Pat [R-TX-4]",
+        "isByRequest": "N",
+        "lastName": "Fallon",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/F000246?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/text?format=json"
+    },
+    "title": "STOP Resolution",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1237/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:41:06Z",
+    "updateDateIncludingText": "2026-09-19T23:41:06Z"
+  },
+  "request": {
+    "billNumber": "1237",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

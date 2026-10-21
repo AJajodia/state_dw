@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RUIZ:\nH.R. 4722.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill would amend title XIX of the Social Security Act\nto require a Federal Medical Asssistance Percentage of 100\npercent for Urban Indian Organizations\n[Page H3649]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4722",
+    "number": "4722",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000599",
+        "district": 25,
+        "firstName": "Raul",
+        "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+        "isByRequest": "N",
+        "lastName": "Ruiz",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/R000599?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/text?format=json"
+    },
+    "title": "Urban Indian Health Parity Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4722/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:45Z",
+    "updateDateIncludingText": "2026-09-01T08:05:45Z"
+  },
+  "request": {
+    "billNumber": "4722",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

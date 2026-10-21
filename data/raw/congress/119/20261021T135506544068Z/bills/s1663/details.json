@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 42,
+      "countIncludingWithdrawnCosponsors": 42,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-07",
+    "latestAction": {
+      "actionDate": "2025-05-07",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1663",
+    "number": "1663",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001111",
+        "firstName": "Patty",
+        "fullName": "Sen. Murray, Patty [D-WA]",
+        "isByRequest": "N",
+        "lastName": "Murray",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/M001111?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/text?format=json"
+    },
+    "title": "Therapeutic Fraud Prevention Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1663/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-24T11:03:21Z",
+    "updateDateIncludingText": "2026-09-24T11:03:21Z"
+  },
+  "request": {
+    "billNumber": "1663",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/112/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/112/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 138 (Friday, August 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURLISON:\nH.J. Res. 112.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle V of the United States Constitution\n[Page H3699]\n</pre>",
+    "introducedDate": "2025-08-15",
+    "latestAction": {
+      "actionDate": "2025-08-15",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/112",
+    "number": "112",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001316",
+        "district": 7,
+        "firstName": "Eric",
+        "fullName": "Rep. Burlison, Eric [R-MO-7]",
+        "isByRequest": "N",
+        "lastName": "Burlison",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/B001316?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/112/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/112/text?format=json"
+    },
+    "title": "Proposing an amendment to the Constitution of the United States related to the public debt.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/112/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2025-09-05T16:12:26Z",
+    "updateDateIncludingText": "2025-09-05T16:12:26Z"
+  },
+  "request": {
+    "billNumber": "112",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

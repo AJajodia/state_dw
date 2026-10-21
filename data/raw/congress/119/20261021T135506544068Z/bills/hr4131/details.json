@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 109 (Wednesday, June 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GILL of Texas:\nH.R. 4131.\nCongress has the power to enact this legislation pursuant\nto the following:\n``[clause 18 of] section 8 of article I of the\nConstitution'', such as ``clause 18 of section 8 of article I\nof the Constitution''.\n[Page H2970]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-25",
+    "latestAction": {
+      "actionDate": "2025-06-25",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4131",
+    "number": "4131",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000603",
+        "district": 26,
+        "firstName": "Brandon",
+        "fullName": "Rep. Gill, Brandon [R-TX-26]",
+        "isByRequest": "N",
+        "lastName": "Gill",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/text?format=json"
+    },
+    "title": "Respectful Treatment of Unborn Remains Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4131/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T20:39:05Z",
+    "updateDateIncludingText": "2026-10-20T20:39:05Z"
+  },
+  "request": {
+    "billNumber": "4131",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

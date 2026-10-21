@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 30 (Thursday, February 13, 2025)]\n[House]\n[Pages H710-H711]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FEENSTRA:\nH.R. 1301.\nCongress has the power to enact this legislation pursuant\nto the following:\n[[Page H711]]\nArticle I, Section 8, clause I (Taxing and Spending Clause)\n</pre>",
+    "cosponsors": {
+      "count": 182,
+      "countIncludingWithdrawnCosponsors": 183,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-13",
+    "latestAction": {
+      "actionDate": "2025-02-13",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1301",
+    "number": "1301",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000446",
+        "district": 4,
+        "firstName": "Randy",
+        "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+        "isByRequest": "N",
+        "lastName": "Feenstra",
+        "party": "R",
+        "state": "IA",
+        "url": "https://api.congress.gov/v3/member/F000446?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/text?format=json"
+    },
+    "title": "Death Tax Repeal Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1301/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:21:47Z",
+    "updateDateIncludingText": "2026-09-19T23:21:47Z"
+  },
+  "request": {
+    "billNumber": "1301",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

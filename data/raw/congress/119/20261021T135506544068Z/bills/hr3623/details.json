@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COHEN:\nH.R. 3623.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 25,
+      "countIncludingWithdrawnCosponsors": 25,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2025-05-30",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3623",
+    "number": "3623",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001068",
+        "district": 9,
+        "firstName": "Steve",
+        "fullName": "Rep. Cohen, Steve [D-TN-9]",
+        "isByRequest": "N",
+        "lastName": "Cohen",
+        "party": "D",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/C001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/text?format=json"
+    },
+    "title": "Horse Transportation Safety Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3623/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-25T08:05:52Z",
+    "updateDateIncludingText": "2026-09-25T08:05:52Z"
+  },
+  "request": {
+    "billNumber": "3623",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

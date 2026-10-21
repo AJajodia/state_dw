@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MALLIOTAKIS:\nH.R. 298.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H93]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-01-09",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/298",
+    "number": "298",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000317",
+        "district": 11,
+        "firstName": "Nicole",
+        "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+        "isByRequest": "N",
+        "lastName": "Malliotakis",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M000317?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/text?format=json"
+    },
+    "title": "To eliminate certain limitations and exclusions regarding defense articles and requirements regarding security assistance and sales with respect to the Republic of Cyprus.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/298/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-28T08:05:47Z",
+    "updateDateIncludingText": "2026-08-28T08:05:47Z"
+  },
+  "request": {
+    "billNumber": "298",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

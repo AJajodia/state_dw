@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-29",
+    "latestAction": {
+      "actionDate": "2026-09-29",
+      "text": "Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5581",
+    "number": "5581",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "firstName": "Jacky",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/R000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/text?format=json"
+    },
+    "title": "Veteran Technology Employment Success Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5581/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-15T12:54:19Z",
+    "updateDateIncludingText": "2026-10-15T12:54:19Z"
+  },
+  "request": {
+    "billNumber": "5581",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

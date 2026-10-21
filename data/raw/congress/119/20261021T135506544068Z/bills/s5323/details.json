@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-06",
+    "latestAction": {
+      "actionDate": "2026-08-06",
+      "text": "Read twice and referred to the Committee on Foreign Relations. (text: CR S4521)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5323",
+    "number": "5323",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000148",
+        "firstName": "Charles",
+        "fullName": "Sen. Schumer, Charles E. [D-NY]",
+        "isByRequest": "N",
+        "lastName": "Schumer",
+        "middleName": "E.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S000148?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/text?format=json"
+    },
+    "title": "A bill to designate a building of the Chancery of the United States in Pristina, Kosovo, as the \"Elliot L. Engel Building\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5323/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-18T15:07:36Z",
+    "updateDateIncludingText": "2026-08-18T15:07:36Z"
+  },
+  "request": {
+    "billNumber": "5323",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

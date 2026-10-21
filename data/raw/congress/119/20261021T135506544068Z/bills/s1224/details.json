@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-01",
+    "latestAction": {
+      "actionDate": "2025-04-01",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1224",
+    "number": "1224",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001095",
+        "firstName": "Tom",
+        "fullName": "Sen. Cotton, Tom [R-AR]",
+        "isByRequest": "N",
+        "lastName": "Cotton",
+        "party": "R",
+        "state": "AR",
+        "url": "https://api.congress.gov/v3/member/C001095?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/text?format=json"
+    },
+    "title": "RIFLE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1224/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-20T11:03:18Z",
+    "updateDateIncludingText": "2026-03-20T11:03:18Z"
+  },
+  "request": {
+    "billNumber": "1224",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

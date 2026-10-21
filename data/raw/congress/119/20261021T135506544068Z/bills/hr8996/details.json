@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 87 (Thursday, May 21, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SANCHEZ:\nH.R. 8996.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8: The Congress shall have Power To lay\nand collect Taxes, Duties, Imposts and Excises, to pay the\nDebts and provide for the common Defence and general Welfare\nof the United States; but all Duties, Imposts and Excises\nshall be uniform throughout the United States\n[Page H3726]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-21",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8996",
+    "number": "8996",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001156",
+        "district": 38,
+        "firstName": "Linda",
+        "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+        "isByRequest": "N",
+        "lastName": "S\u00e1nchez",
+        "middleName": "T.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S001156?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/text?format=json"
+    },
+    "title": "Rental Housing Investment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8996/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:53Z",
+    "updateDateIncludingText": "2026-09-01T08:05:53Z"
+  },
+  "request": {
+    "billNumber": "8996",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

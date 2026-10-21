@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 60 (Thursday, April 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. LANDSMAN:\nH.R. 2636.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the U.S. Constitution\n[Page H1418]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-03",
+    "latestAction": {
+      "actionDate": "2025-04-03",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2636",
+    "number": "2636",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000601",
+        "district": 1,
+        "firstName": "Greg",
+        "fullName": "Rep. Landsman, Greg [D-OH-1]",
+        "isByRequest": "N",
+        "lastName": "Landsman",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/L000601?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/text?format=json"
+    },
+    "title": "Making Insulin Affordable for All Children Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2636/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:16:05Z",
+    "updateDateIncludingText": "2026-09-19T23:16:05Z"
+  },
+  "request": {
+    "billNumber": "2636",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

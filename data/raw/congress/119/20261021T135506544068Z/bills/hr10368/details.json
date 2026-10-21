@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 144 (Monday, September 14, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Nevada:\nH.R. 10368.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 provides Congress with the\npower to ``make all Laws which shall be necessary and proper\nfor carrying into Execution the foregoing Powers, and all\nother Powers vested by this Constitution in the Government of\nthe United States, or in any Department or Officer thereof.''\n[Page H5622]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-14",
+    "latestAction": {
+      "actionDate": "2026-09-14",
+      "text": "Referred to the House Committee on Homeland Security."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10368",
+    "number": "10368",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000590",
+        "district": 3,
+        "firstName": "Susie",
+        "fullName": "Rep. Lee, Susie [D-NV-3]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/L000590?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/text?format=json"
+    },
+    "title": "Jimmy Deal Trafficking Survivors Assistance Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10368/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-29T08:05:30Z",
+    "updateDateIncludingText": "2026-09-29T08:05:30Z"
+  },
+  "request": {
+    "billNumber": "10368",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

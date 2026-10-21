@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/154/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/154/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-03",
+    "latestAction": {
+      "actionDate": "2025-04-03",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S2182)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/154",
+    "number": "154",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000133",
+        "firstName": "Edward",
+        "fullName": "Sen. Markey, Edward J. [D-MA]",
+        "isByRequest": "N",
+        "lastName": "Markey",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/M000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/154/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/154/text?format=json"
+    },
+    "title": "A resolution expressing the sense of the Senate that Donald Trump is ineligible in any future elections to be elected Vice-President or President, or to serve as President beyond the conclusion of his current term.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/154/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "154",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

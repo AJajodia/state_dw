@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SHERMAN:\nH.R. 965.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe constitutional authority on which this bill rests is\nClause 3 of Section 8 of Article I of the United States\nConstitution; and Clause 18 of Section 8 of Article I of the\nUnited States Constitution\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 46,
+      "countIncludingWithdrawnCosponsors": 46,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/965",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/HR/965\" target=\"_blank\">H.R.965</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/HR/6644\" target=\"_blank\">H.R.6644</a>, which became Public Law 119-101."
+      }
+    ],
+    "number": "965",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000344",
+        "district": 32,
+        "firstName": "Brad",
+        "fullName": "Rep. Sherman, Brad [D-CA-32]",
+        "isByRequest": "N",
+        "lastName": "Sherman",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S000344?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/text?format=json"
+    },
+    "title": "Housing Unhoused Disabled Veterans Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/965/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-25T14:43:39Z",
+    "updateDateIncludingText": "2026-09-25T14:43:39Z"
+  },
+  "request": {
+    "billNumber": "965",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

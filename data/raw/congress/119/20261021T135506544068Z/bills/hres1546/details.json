@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 16,
+      "countIncludingWithdrawnCosponsors": 16,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-16",
+    "latestAction": {
+      "actionDate": "2026-09-16",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1546",
+    "number": "1546",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000490",
+        "district": 2,
+        "firstName": "Sanford",
+        "fullName": "Rep. Bishop, Sanford D. [D-GA-2]",
+        "isByRequest": "N",
+        "lastName": "Bishop",
+        "middleName": "D.",
+        "party": "D",
+        "state": "GA",
+        "url": "https://api.congress.gov/v3/member/B000490?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/text?format=json"
+    },
+    "title": "Expressing support for the recognition of Nigerian Heritage Month and celebrating the heritage, culture, and contributions of Nigerians and Nigerian Americans in the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1546/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-23T12:39:41Z",
+    "updateDateIncludingText": "2026-09-23T12:39:41Z"
+  },
+  "request": {
+    "billNumber": "1546",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

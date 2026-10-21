@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-21",
+    "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S3062-3064)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/240",
+    "number": "240",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001042",
+        "firstName": "Mazie",
+        "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Hirono",
+        "middleName": "K.",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/H001042?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/text?format=json"
+    },
+    "title": "A resolution affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, pre-K through 12th grade and higher education systems, government programs, the military, and our society.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/240/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "240",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

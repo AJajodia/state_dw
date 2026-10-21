@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-03",
+    "latestAction": {
+      "actionDate": "2026-08-03",
+      "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S4409-4410; Sponsor introductory remarks on measure: CR S4409-4410)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5212",
+    "number": "5212",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000148",
+        "firstName": "Charles",
+        "fullName": "Sen. Schumer, Charles E. [D-NY]",
+        "isByRequest": "N",
+        "lastName": "Schumer",
+        "middleName": "E.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/S000148?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/text?format=json"
+    },
+    "title": "No Payoffs for Pardons Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5212/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-13T14:40:55Z",
+    "updateDateIncludingText": "2026-08-13T14:40:55Z"
+  },
+  "request": {
+    "billNumber": "5212",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

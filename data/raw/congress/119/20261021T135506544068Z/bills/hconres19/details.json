@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/19",
+    "number": "19",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001278",
+        "district": 1,
+        "firstName": "Suzanne",
+        "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+        "isByRequest": "N",
+        "lastName": "Bonamici",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/B001278?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/text?format=json"
+    },
+    "title": "Recognizing the essential work of the League of Oregon Cities.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/19/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2025-12-05T22:56:47Z",
+    "updateDateIncludingText": "2025-12-05T22:56:47Z"
+  },
+  "request": {
+    "billNumber": "19",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

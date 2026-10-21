@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 182 (Friday, October 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VAN DREW:\nH.R. 5897\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H4567]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-31",
+    "latestAction": {
+      "actionDate": "2025-11-01",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5897",
+    "number": "5897",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000133",
+        "district": 2,
+        "firstName": "Jefferson",
+        "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+        "isByRequest": "N",
+        "lastName": "Van Drew",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/V000133?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/text?format=json"
+    },
+    "title": "Public Access to Defibrillation in Transportation Facilities Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5897/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-07T09:05:50Z",
+    "updateDateIncludingText": "2026-01-07T09:05:50Z"
+  },
+  "request": {
+    "billNumber": "5897",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

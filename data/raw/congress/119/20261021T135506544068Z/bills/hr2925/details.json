@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BEAN of Florida:\nH.R. 2925.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 and Clause 3\n[Page H1613]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-04-17",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2925",
+    "number": "2925",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001314",
+        "district": 4,
+        "firstName": "Aaron",
+        "fullName": "Rep. Bean, Aaron [R-FL-4]",
+        "isByRequest": "N",
+        "lastName": "Bean",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/B001314?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/text?format=json"
+    },
+    "title": "Maritime Fuel Tax Parity Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2925/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:28:46Z",
+    "updateDateIncludingText": "2026-09-19T23:28:46Z"
+  },
+  "request": {
+    "billNumber": "2925",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

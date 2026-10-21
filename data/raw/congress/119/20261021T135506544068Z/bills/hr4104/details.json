@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 108 (Tuesday, June 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. JAYAPAL:\nH.R. 4104.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I of the United States Constitution\nand its subsequent amendments, and further clarified and\ninterpreted by the Supreme Court of the United States.\n[Page H2923]\n</pre>",
+    "cosponsors": {
+      "count": 87,
+      "countIncludingWithdrawnCosponsors": 87,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-24",
+    "latestAction": {
+      "actionDate": "2025-06-24",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4104",
+    "number": "4104",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000298",
+        "district": 7,
+        "firstName": "Pramila",
+        "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+        "isByRequest": "N",
+        "lastName": "Jayapal",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/J000298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/text?format=json"
+    },
+    "title": "Health Equity and Access under the Law for Immigrant Families Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4104/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T08:05:30Z",
+    "updateDateIncludingText": "2026-10-20T08:05:30Z"
+  },
+  "request": {
+    "billNumber": "4104",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

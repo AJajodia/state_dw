@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3250/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3250/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 76 (Wednesday, May 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MORELLE:\nH.R. 3250.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article 1, Section 8, Clause 1 of the United\nStates Constitution.\n[Page H1911]\n</pre>",
+    "introducedDate": "2025-05-07",
+    "latestAction": {
+      "actionDate": "2025-05-07",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3250",
+    "number": "3250",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001206",
+        "district": 25,
+        "firstName": "Joseph",
+        "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+        "isByRequest": "N",
+        "lastName": "Morelle",
+        "middleName": "D.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001206?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3250/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3250/text?format=json"
+    },
+    "title": "Developing and Advancing Innovative Learning Models",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3250/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-21T19:44:15Z",
+    "updateDateIncludingText": "2025-07-21T19:44:15Z"
+  },
+  "request": {
+    "billNumber": "3250",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

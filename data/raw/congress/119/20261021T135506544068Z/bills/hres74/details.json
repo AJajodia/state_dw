@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-01-28",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/74",
+    "number": "74",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000585",
+        "district": 16,
+        "firstName": "Darin",
+        "fullName": "Rep. LaHood, Darin [R-IL-16]",
+        "isByRequest": "N",
+        "lastName": "LaHood",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/L000585?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/text?format=json"
+    },
+    "title": "Supporting the contributions of Catholic schools in the United States and celebrating the 51st annual \"National Catholic Schools Week\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/74/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-28T16:03:43Z",
+    "updateDateIncludingText": "2026-09-28T16:03:43Z"
+  },
+  "request": {
+    "billNumber": "74",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

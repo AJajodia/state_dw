@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10500/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10500/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 147 (Thursday, September 17, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Florida:\nH.R. 10500.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to clause 7(c) of Rule XII of the Rules of the\nHouse of Representatives, the following statement is\nsubmitted regarding the constitutional authority for this\nbill: Congress has the power to enact this legislation\npursuant to Article I, Section 8 of the United States\nConstitution.\n[Page H5990]\n</pre>",
+    "introducedDate": "2026-09-17",
+    "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10500",
+    "number": "10500",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000597",
+        "district": 15,
+        "firstName": "Laurel",
+        "fullName": "Rep. Lee, Laurel M. [R-FL-15]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "middleName": "M.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/L000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10500/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10500/text?format=json"
+    },
+    "title": "Unleashing American Pipelines Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10500/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-02T19:03:20Z",
+    "updateDateIncludingText": "2026-10-02T19:03:20Z"
+  },
+  "request": {
+    "billNumber": "10500",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

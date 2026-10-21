@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. CROCKETT:\nH.R. 499.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H222]\n</pre>",
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-12-19",
+      "text": "Referred to the Subcommittee on Health."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/499",
+    "number": "499",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001130",
+        "district": 30,
+        "firstName": "Jasmine",
+        "fullName": "Rep. Crockett, Jasmine [D-TX-30]",
+        "isByRequest": "N",
+        "lastName": "Crockett",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001130?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/text?format=json"
+    },
+    "title": "To rename the medical center of the Department of Veterans Affairs in Dallas, Texas, as the \"Eddie Bernice Johnson VA Medical Center\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/499/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-20T09:06:45Z",
+    "updateDateIncludingText": "2025-12-20T09:06:45Z"
+  },
+  "request": {
+    "billNumber": "499",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

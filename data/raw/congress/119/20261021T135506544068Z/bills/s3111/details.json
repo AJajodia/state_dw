@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3111/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3111/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-11-05",
+    "latestAction": {
+      "actionDate": "2025-11-05",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3111",
+    "number": "3111",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001190",
+        "firstName": "Markwayne",
+        "fullName": "Sen. Mullin, Markwayne [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Mullin",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/M001190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3111/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3111/text?format=json"
+    },
+    "title": "Small Businesses before Bureaucrats Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3111/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-11-19T15:35:13Z",
+    "updateDateIncludingText": "2025-11-19T15:35:13Z"
+  },
+  "request": {
+    "billNumber": "3111",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2997/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2997/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 69 (Thursday, April 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ESPAILLAT:\nH.R. 2997.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 section 8 of article 1 of the Constitution\n[Page H1625]\n</pre>",
+    "introducedDate": "2025-04-24",
+    "latestAction": {
+      "actionDate": "2025-04-24",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2997",
+    "number": "2997",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000297",
+        "district": 13,
+        "firstName": "Adriano",
+        "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+        "isByRequest": "N",
+        "lastName": "Espaillat",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/E000297?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2997/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2997/text?format=json"
+    },
+    "title": "Green Climate Fund Authorization Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2997/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-27T14:12:54Z",
+    "updateDateIncludingText": "2025-05-27T14:12:54Z"
+  },
+  "request": {
+    "billNumber": "2997",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

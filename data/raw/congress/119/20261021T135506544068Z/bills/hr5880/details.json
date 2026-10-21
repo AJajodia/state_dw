@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 182 (Friday, October 31, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. HAGEMAN:\nH.R. 5880.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8\n[Page H4567]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-31",
+    "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5880",
+    "number": "5880",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001096",
+        "firstName": "Harriet",
+        "fullName": "Rep. Hageman, Harriet M. [R-WY-At Large]",
+        "isByRequest": "N",
+        "lastName": "Hageman",
+        "middleName": "M.",
+        "party": "R",
+        "state": "WY",
+        "url": "https://api.congress.gov/v3/member/H001096?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/text?format=json"
+    },
+    "title": "Fight Illicit Pill Presses Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5880/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-28T20:43:54Z",
+    "updateDateIncludingText": "2026-07-28T20:43:54Z"
+  },
+  "request": {
+    "billNumber": "5880",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

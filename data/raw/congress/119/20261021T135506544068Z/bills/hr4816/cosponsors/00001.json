@@ -1,0 +1,42 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S001223",
+      "district": 13,
+      "firstName": "Emilia",
+      "fullName": "Rep. Sykes, Emilia Strong [D-OH-13]",
+      "isOriginalCosponsor": true,
+      "lastName": "Sykes",
+      "middleName": "Strong",
+      "party": "D",
+      "sponsorshipDate": "2025-07-29",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/S001223?format=json"
+    },
+    {
+      "bioguideId": "V000138",
+      "district": 7,
+      "firstName": "Eugene",
+      "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Vindman",
+      "middleName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2025-08-29",
+      "state": "VA",
+      "url": "https://api.congress.gov/v3/member/V000138?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "4816",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4816?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "F000246",
+      "district": 4,
+      "firstName": "Pat",
+      "fullName": "Rep. Fallon, Pat [R-TX-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fallon",
+      "party": "R",
+      "sponsorshipDate": "2026-07-20",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000246?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "8797",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8797?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

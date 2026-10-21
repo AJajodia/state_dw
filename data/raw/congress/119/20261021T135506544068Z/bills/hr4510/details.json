@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEGER FERNANDEZ:\nH.R. 4510.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 (the Spending Clause) along\nwith Article I, Section 8, Clause 18 (the Necessary and\nProper Clause).\n[Page H3476]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-07-17",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4510",
+    "number": "4510",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000273",
+        "district": 3,
+        "firstName": "Teresa",
+        "fullName": "Rep. Leger Fernandez, Teresa [D-NM-3]",
+        "isByRequest": "N",
+        "lastName": "Leger Fernandez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/L000273?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/text?format=json"
+    },
+    "title": "Healing Partnerships for Survivors Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4510/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-18T00:01:15Z",
+    "updateDateIncludingText": "2026-07-18T00:01:15Z"
+  },
+  "request": {
+    "billNumber": "4510",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

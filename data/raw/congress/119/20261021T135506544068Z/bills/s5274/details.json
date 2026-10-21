@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5274/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5274/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-08-06",
+    "latestAction": {
+      "actionDate": "2026-08-06",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5274",
+    "number": "5274",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001232",
+        "firstName": "Tim",
+        "fullName": "Sen. Sheehy, Tim [R-MT]",
+        "isByRequest": "N",
+        "lastName": "Sheehy",
+        "party": "R",
+        "state": "MT",
+        "url": "https://api.congress.gov/v3/member/S001232?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5274/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5274/text?format=json"
+    },
+    "title": "Ride in Freedom Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5274/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-19T17:50:12Z",
+    "updateDateIncludingText": "2026-08-19T17:50:12Z"
+  },
+  "request": {
+    "billNumber": "5274",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

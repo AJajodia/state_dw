@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 40 (Monday, March 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. TLAIB:\nH.J. Res. 70.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 1 of the Constitution.\n[Page H947]\n</pre>",
+    "cosponsors": {
+      "count": 13,
+      "countIncludingWithdrawnCosponsors": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-03",
+    "latestAction": {
+      "actionDate": "2025-03-03",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/70",
+    "number": "70",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000481",
+        "district": 12,
+        "firstName": "Rashida",
+        "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+        "isByRequest": "N",
+        "lastName": "Tlaib",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000481?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/text?format=json"
+    },
+    "title": "Providing for congressional disapproval of the proposed license amendment for the export to Israel of certain defense articles and services.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/70/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2025-12-05T22:49:58Z",
+    "updateDateIncludingText": "2025-12-05T22:49:58Z"
+  },
+  "request": {
+    "billNumber": "70",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

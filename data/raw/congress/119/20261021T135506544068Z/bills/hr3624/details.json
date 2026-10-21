@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CORREA:\nH.R. 3624.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2377]\n</pre>",
+    "cosponsors": {
+      "count": 43,
+      "countIncludingWithdrawnCosponsors": 43,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-29",
+    "latestAction": {
+      "actionDate": "2025-05-29",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3624",
+    "number": "3624",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001110",
+        "district": 46,
+        "firstName": "J.",
+        "fullName": "Rep. Correa, J. Luis [D-CA-46]",
+        "isByRequest": "N",
+        "lastName": "Correa",
+        "middleName": "Luis",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001110?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/text?format=json"
+    },
+    "title": "Improving Mental Health Access for Students Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3624/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-14T08:05:30Z",
+    "updateDateIncludingText": "2026-10-14T08:05:30Z"
+  },
+  "request": {
+    "billNumber": "3624",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

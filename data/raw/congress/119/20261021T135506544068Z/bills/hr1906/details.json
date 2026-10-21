@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. BUDZINSKI:\nH.R. 1906.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H1039]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-03-28",
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1906",
+    "number": "1906",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001315",
+        "district": 13,
+        "firstName": "Nikki",
+        "fullName": "Rep. Budzinski, Nikki [D-IL-13]",
+        "isByRequest": "N",
+        "lastName": "Budzinski",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/B001315?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/text?format=json"
+    },
+    "title": "Rural Wellness Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1906/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-05T08:06:17Z",
+    "updateDateIncludingText": "2026-08-05T08:06:17Z"
+  },
+  "request": {
+    "billNumber": "1906",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

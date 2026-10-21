@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-21",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S2435; text: CR S2445)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/747",
+    "number": "747",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000618",
+        "firstName": "Pete",
+        "fullName": "Sen. Ricketts, Pete [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Ricketts",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/R000618?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/text?format=json"
+    },
+    "title": "A resolution expressing support for the designation of May 2026 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in lowering fuel prices for consumers, lessening reliance on foreign adversaries, supporting rural communities, and reducing carbon impacts.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/747/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-06-01T15:30:53Z",
+    "updateDateIncludingText": "2026-06-01T15:30:53Z"
+  },
+  "request": {
+    "billNumber": "747",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

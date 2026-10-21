@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-17",
+    "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2841",
+    "number": "2841",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000383",
+        "firstName": "Angus",
+        "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+        "isByRequest": "N",
+        "lastName": "King",
+        "middleName": "S.",
+        "party": "I",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/K000383?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/text?format=json"
+    },
+    "title": "CIVICS Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2841/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-30T18:19:13Z",
+    "updateDateIncludingText": "2026-03-30T18:19:13Z"
+  },
+  "request": {
+    "billNumber": "2841",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-01",
+    "latestAction": {
+      "actionDate": "2025-08-01",
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/629",
+    "number": "629",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001145",
+        "district": 9,
+        "firstName": "Janice",
+        "fullName": "Rep. Schakowsky, Janice D. [D-IL-9]",
+        "isByRequest": "N",
+        "lastName": "Schakowsky",
+        "middleName": "D.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/S001145?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/text?format=json"
+    },
+    "title": "Honoring the life of Dr. Paul Farmer by recognizing the duty of the Federal Government to adopt a 21st-century global health solidarity strategy and take actions to address past and ongoing harms that undermine the health and well-being of people around the world.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/629/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-29T08:05:42Z",
+    "updateDateIncludingText": "2026-09-29T08:05:42Z"
+  },
+  "request": {
+    "billNumber": "629",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

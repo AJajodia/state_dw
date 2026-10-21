@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-27",
+    "latestAction": {
+      "actionDate": "2026-07-27",
+      "text": "Read twice and referred to the Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5139",
+    "number": "5139",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000605",
+        "firstName": "Mike",
+        "fullName": "Sen. Rounds, Mike [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Rounds",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/R000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/text?format=json"
+    },
+    "title": "National Quantum Readiness Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5139/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-10T15:04:38Z",
+    "updateDateIncludingText": "2026-08-10T15:04:38Z"
+  },
+  "request": {
+    "billNumber": "5139",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

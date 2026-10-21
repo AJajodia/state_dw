@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 67 (Thursday, April 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LOFGREN:\nH.R. 2946.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8, clauses 1 and 3\n[Page H1613]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-04-17",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2946",
+    "number": "2946",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000397",
+        "district": 18,
+        "firstName": "Zoe",
+        "fullName": "Rep. Lofgren, Zoe [D-CA-18]",
+        "isByRequest": "N",
+        "lastName": "Lofgren",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/L000397?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/text?format=json"
+    },
+    "title": "Clean Energy Victory Bond Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2946/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-10T06:55:59Z",
+    "updateDateIncludingText": "2025-12-10T06:55:59Z"
+  },
+  "request": {
+    "billNumber": "2946",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

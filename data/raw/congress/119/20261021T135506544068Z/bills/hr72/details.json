@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BIGGS of Arizona:\nH.R. 72.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\nThe single subject of this legislation is:\nThe single subject of this bill is to amend title 38,\nUnited States Code, to direct the Secretary of Veterans\nAffairs to furnish hyperbaric oxygen therapy to veterans with\ntraumatic brain injury or post-traumatic stress disorder.\n[Page H38]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-02-06",
+      "text": "Referred to the Subcommittee on Health."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/72",
+    "number": "72",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001302",
+        "district": 5,
+        "firstName": "Andy",
+        "fullName": "Rep. Biggs, Andy [R-AZ-5]",
+        "isByRequest": "N",
+        "lastName": "Biggs",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/B001302?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/text?format=json"
+    },
+    "title": "TBI and PTSD Treatment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/72/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-02-12T20:34:38Z",
+    "updateDateIncludingText": "2025-02-12T20:34:38Z"
+  },
+  "request": {
+    "billNumber": "72",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

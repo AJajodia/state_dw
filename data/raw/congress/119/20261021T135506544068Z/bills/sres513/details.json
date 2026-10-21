@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/513/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 31,
+      "countIncludingWithdrawnCosponsors": 31,
+      "url": "https://api.congress.gov/v3/bill/119/sres/513/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8399; text: CR S8281)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/513",
+    "number": "513",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001096",
+        "firstName": "Kevin",
+        "fullName": "Sen. Cramer, Kevin [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Cramer",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/C001096?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/513/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/513/text?format=json"
+    },
+    "title": "A resolution designating November 22, 2025, as National Adoption Day and November 2025 as National Adoption Month to promote national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/513/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-11-24T16:38:35Z",
+    "updateDateIncludingText": "2025-11-24T16:38:35Z"
+  },
+  "request": {
+    "billNumber": "513",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

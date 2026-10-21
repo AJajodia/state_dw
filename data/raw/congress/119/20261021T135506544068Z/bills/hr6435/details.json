@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 203 (Thursday, December 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DeSAULNIER:\nH.R. 6435.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H5051]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-04",
+    "latestAction": {
+      "actionDate": "2026-02-02",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6435",
+    "number": "6435",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000623",
+        "district": 10,
+        "firstName": "Mark",
+        "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+        "isByRequest": "N",
+        "lastName": "DeSaulnier",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/D000623?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/text?format=json"
+    },
+    "title": "Transportation Megaprojects Accountability and Oversight Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6435/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-03T09:05:40Z",
+    "updateDateIncludingText": "2026-02-03T09:05:40Z"
+  },
+  "request": {
+    "billNumber": "6435",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

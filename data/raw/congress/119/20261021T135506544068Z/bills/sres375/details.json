@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-08",
+    "latestAction": {
+      "actionDate": "2025-09-08",
+      "text": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S6403)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/375",
+    "number": "375",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/text?format=json"
+    },
+    "title": "A resolution recognizing September 8 through 14, 2025, as \"Interscholastic Athletic Administrators' Week\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/375/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-08T18:03:40Z",
+    "updateDateIncludingText": "2026-09-08T18:03:40Z"
+  },
+  "request": {
+    "billNumber": "375",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

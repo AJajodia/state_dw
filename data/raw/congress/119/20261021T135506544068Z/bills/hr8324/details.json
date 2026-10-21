@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/actions?format=json"
+    },
+    "committees": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 67 (Thursday, April 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURLISON:\nH.R. 8324.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII of the United States Constitution\n[Page H2960]\n</pre>",
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, the Judiciary, Armed Services, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8324",
+    "number": "8324",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001316",
+        "district": 7,
+        "firstName": "Eric",
+        "fullName": "Rep. Burlison, Eric [R-MO-7]",
+        "isByRequest": "N",
+        "lastName": "Burlison",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/B001316?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/text?format=json"
+    },
+    "title": "Great American Healthcare Plan",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8324/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-14T08:05:34Z",
+    "updateDateIncludingText": "2026-10-14T08:05:34Z"
+  },
+  "request": {
+    "billNumber": "8324",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

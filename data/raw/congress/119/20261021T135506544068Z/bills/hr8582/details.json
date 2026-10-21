@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 75 (Wednesday, April 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MENG:\nH.R. 8582.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the Constitution\n[Page H3296]\n</pre>",
+    "cosponsors": {
+      "count": 187,
+      "countIncludingWithdrawnCosponsors": 187,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-29",
+    "latestAction": {
+      "actionDate": "2026-04-29",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8582",
+    "number": "8582",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001188",
+        "district": 6,
+        "firstName": "Grace",
+        "fullName": "Rep. Meng, Grace [D-NY-6]",
+        "isByRequest": "N",
+        "lastName": "Meng",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001188?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/text?format=json"
+    },
+    "title": "Protecting Human Rights and Public Health in Foreign Assistance Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8582/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T08:05:18Z",
+    "updateDateIncludingText": "2026-10-20T08:05:18Z"
+  },
+  "request": {
+    "billNumber": "8582",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

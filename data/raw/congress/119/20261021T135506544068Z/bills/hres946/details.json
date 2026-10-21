@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/946",
+    "number": "946",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Arts, Culture, Religion"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001103",
+        "firstName": "Pablo",
+        "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+        "isByRequest": "N",
+        "lastName": "Hern\u00e1ndez",
+        "middleName": "Jose",
+        "party": "D",
+        "state": "PR",
+        "url": "https://api.congress.gov/v3/member/H001103?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/text?format=json"
+    },
+    "title": "Honoring the accomplishments and legacy of Rita Moreno.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/946/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-12-15T16:39:59Z",
+    "updateDateIncludingText": "2025-12-15T16:39:59Z"
+  },
+  "request": {
+    "billNumber": "946",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

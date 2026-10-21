@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WIED:\nH.R. 4546.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H3477]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-07-17",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4546",
+    "number": "4546",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000829",
+        "district": 8,
+        "firstName": "Tony",
+        "fullName": "Rep. Wied, Tony [R-WI-8]",
+        "isByRequest": "N",
+        "lastName": "Wied",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/W000829?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/text?format=json"
+    },
+    "title": "FIRE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4546/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-17T13:50:10Z",
+    "updateDateIncludingText": "2026-03-17T13:50:10Z"
+  },
+  "request": {
+    "billNumber": "4546",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

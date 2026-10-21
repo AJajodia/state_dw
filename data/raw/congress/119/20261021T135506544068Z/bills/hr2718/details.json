@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 63 (Tuesday, April 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KAMLAGER-DOVE:\nH.R. 2718.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is introduced pursuant to the powers granted to\nCongress under the General Welfare Clause (Art. 1 Sec. 8 Cl.\n1), the Commerce Clause (Art. 1 Sec. 8 Cl. 3), and the\nNecessary and Proper Clause (Art. 1 Sec. 8 Cl. 18). Further,\nthis statement of constitutional authority is made for the\nsole purpose of compliance with clause 7 of Rule XII of the\nRules of the House of Representatives and shall have no\nbearing on judicial review of the accompanying bill.\n[Page H1508]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2025-04-08",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2718",
+    "number": "2718",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000400",
+        "district": 37,
+        "firstName": "Sydney",
+        "fullName": "Rep. Kamlager-Dove, Sydney [D-CA-37]",
+        "isByRequest": "N",
+        "lastName": "Kamlager-Dove",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000400?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/text?format=json"
+    },
+    "title": "Family Notification of Death, Injury, or Illness in Custody Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2718/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-01T20:19:52Z",
+    "updateDateIncludingText": "2026-10-01T20:19:52Z"
+  },
+  "request": {
+    "billNumber": "2718",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

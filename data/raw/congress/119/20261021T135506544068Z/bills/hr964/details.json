@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SEWELL:\nH.R. 964.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill would desginate Rosa Parks Day as a Federal\nHoliday.\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 71,
+      "countIncludingWithdrawnCosponsors": 71,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-02-04",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/964",
+    "number": "964",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001185",
+        "district": 7,
+        "firstName": "Terri",
+        "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+        "isByRequest": "N",
+        "lastName": "Sewell",
+        "middleName": "A.",
+        "party": "D",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/S001185?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/text?format=json"
+    },
+    "title": "Rosa Parks Day Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/964/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-28T08:06:20Z",
+    "updateDateIncludingText": "2026-03-28T08:06:20Z"
+  },
+  "request": {
+    "billNumber": "964",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

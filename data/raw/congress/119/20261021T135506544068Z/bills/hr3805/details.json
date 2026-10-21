@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARTER of Louisiana:\nH.R. 3805.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is introduced pursuant to the powers granted to\nCongress under the General Welfare Clause (Art. 1 Sec. 8\nCI.1), the Commerce Clause (Art. 1 Sec. 8 Cl. 3), and the\nNecessary and Proper Clause (Art. 1 Sec. 8 Cl. 18).\n[Page H2534]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3805",
+    "number": "3805",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001125",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "A.",
+        "party": "D",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001125?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/text?format=json"
+    },
+    "title": "Protecting Community Television Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3805/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:37:29Z",
+    "updateDateIncludingText": "2026-09-19T23:37:29Z"
+  },
+  "request": {
+    "billNumber": "3805",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

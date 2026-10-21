@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2748/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2748/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 63 (Tuesday, April 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. STEVENS:\nH.R. 2748.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I, Section 8, Clause 18 of the United\nStates Constitution.\n[Page H1509]\n</pre>",
+    "introducedDate": "2025-04-08",
+    "latestAction": {
+      "actionDate": "2025-04-08",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2748",
+    "number": "2748",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001215",
+        "district": 11,
+        "firstName": "Haley",
+        "fullName": "Rep. Stevens, Haley M. [D-MI-11]",
+        "isByRequest": "N",
+        "lastName": "Stevens",
+        "middleName": "M.",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001215?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2748/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2748/text?format=json"
+    },
+    "title": "First Time Homeowner Savings Plan Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2748/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-09T18:05:59Z",
+    "updateDateIncludingText": "2025-05-09T18:05:59Z"
+  },
+  "request": {
+    "billNumber": "2748",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

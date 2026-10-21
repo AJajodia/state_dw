@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 187 (Friday, November 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER of Illinois:\nH.R. 5968.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I\n[Page H4586]\n</pre>",
+    "cosponsors": {
+      "count": 11,
+      "countIncludingWithdrawnCosponsors": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5968",
+    "number": "5968",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001211",
+        "district": 15,
+        "firstName": "Mary",
+        "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+        "isByRequest": "N",
+        "lastName": "Miller",
+        "middleName": "E.",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/M001211?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/text?format=json"
+    },
+    "title": "Promoting Classical Learning Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5968/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-13T09:05:42Z",
+    "updateDateIncludingText": "2026-01-13T09:05:42Z"
+  },
+  "request": {
+    "billNumber": "5968",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

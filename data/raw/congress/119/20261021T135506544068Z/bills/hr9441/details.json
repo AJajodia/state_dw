@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 106 (Wednesday, June 24, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MORRISON:\nH.R. 9441.\nCongress has the power to enact this legislation pursuant\nto the following:\nsection 1 article 1 of the constitution: All legisaitive\nPowers herein granted shall be vested in a Congress of the\nUnited States, which shall consist of a Senate and House of\nRepresentatives.\n[Page H4246]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9441",
+    "number": "9441",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001234",
+        "district": 3,
+        "firstName": "Kelly",
+        "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+        "isByRequest": "N",
+        "lastName": "Morrison",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001234?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/text?format=json"
+    },
+    "title": "SAFE Training for OB-GYNs Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9441/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:54Z",
+    "updateDateIncludingText": "2026-09-01T08:05:54Z"
+  },
+  "request": {
+    "billNumber": "9441",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KUSTOFF:\nH.R. 6800.\nCongress has the power to enact this legislation pursuant\nto the following:\nUnder Article I, Section 8, the Necessary and Proper\nClause. Congress shall have power to make all laws which\nshall be necessary and proper for carrying into Execution the\nforegoing powers and all Powers vested by this Constitution\nin the Government of the United States, or in any Department\nof Officer thereof.\n[Page H6024]\n</pre>",
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6800",
+    "number": "6800",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000392",
+        "district": 8,
+        "firstName": "David",
+        "fullName": "Rep. Kustoff, David [R-TN-8]",
+        "isByRequest": "N",
+        "lastName": "Kustoff",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/K000392?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/text?format=json"
+    },
+    "title": "To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of terrorist supporting organizations.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6800/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-01-22T17:47:10Z",
+    "updateDateIncludingText": "2026-01-22T17:47:10Z"
+  },
+  "request": {
+    "billNumber": "6800",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

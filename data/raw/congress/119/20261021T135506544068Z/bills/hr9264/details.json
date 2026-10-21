@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 99 (Thursday, June 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BURLISON:\nH.R. 9264.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VII of the United States Constitution.\n[Page H4112]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-11",
+    "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9264",
+    "number": "9264",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001316",
+        "district": 7,
+        "firstName": "Eric",
+        "fullName": "Rep. Burlison, Eric [R-MO-7]",
+        "isByRequest": "N",
+        "lastName": "Burlison",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/B001316?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/text?format=json"
+    },
+    "title": "No Exceptions for Non-Citizens Voting Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9264/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-01T08:05:32Z",
+    "updateDateIncludingText": "2026-09-01T08:05:32Z"
+  },
+  "request": {
+    "billNumber": "9264",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

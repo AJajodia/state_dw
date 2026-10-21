@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 135 (Tuesday, August 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PATRONIS:\nH.R. 4873.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\n[Page H3681]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-05",
+    "latestAction": {
+      "actionDate": "2025-08-05",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4873",
+    "number": "4873",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000622",
+        "district": 1,
+        "firstName": "Jimmy",
+        "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+        "isByRequest": "N",
+        "lastName": "Patronis",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/P000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/text?format=json"
+    },
+    "title": "To codify Executive Order 14319 (relating to preventing woke AI in the Federal Government).",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4873/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:25:37Z",
+    "updateDateIncludingText": "2026-09-19T23:25:37Z"
+  },
+  "request": {
+    "billNumber": "4873",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

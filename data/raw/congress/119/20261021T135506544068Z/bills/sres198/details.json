@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 18,
+      "countIncludingWithdrawnCosponsors": 18,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-01",
+    "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Referred to the Committee on Finance. (text: CR S2740)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/198",
+    "number": "198",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/W000779?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/text?format=json"
+    },
+    "title": "A resolution expressing the sense of the Senate that the Secretary of Health and Human Services should withdraw a reduction in public notice and comment opportunities.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/198/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-12-06T07:13:49Z",
+    "updateDateIncludingText": "2025-12-06T07:13:49Z"
+  },
+  "request": {
+    "billNumber": "198",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

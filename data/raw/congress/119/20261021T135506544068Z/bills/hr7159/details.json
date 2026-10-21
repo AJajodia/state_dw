@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 13 (Tuesday, January 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOSAR:\nH.R. 7159.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3\n[Page H948]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-20",
+    "latestAction": {
+      "actionDate": "2026-02-04",
+      "text": "Subcommittee Hearings Held"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7159",
+    "number": "7159",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Animals"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000565",
+        "district": 9,
+        "firstName": "Paul",
+        "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+        "isByRequest": "N",
+        "lastName": "Gosar",
+        "middleName": "A.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000565?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/text?format=json"
+    },
+    "title": "Protecting Local Zoos Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7159/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-10T23:50:07Z",
+    "updateDateIncludingText": "2026-04-10T23:50:07Z"
+  },
+  "request": {
+    "billNumber": "7159",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

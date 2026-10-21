@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 111 (Friday, June 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KAPTUR:\nH.R. 4230.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII\n[Page H3033]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-27",
+    "latestAction": {
+      "actionDate": "2025-06-27",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4230",
+    "number": "4230",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000009",
+        "district": 9,
+        "firstName": "Marcy",
+        "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+        "isByRequest": "N",
+        "lastName": "Kaptur",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/K000009?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/text?format=json"
+    },
+    "title": "the Appropriations Compliance and Training Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4230/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-09-09T16:04:44Z",
+    "updateDateIncludingText": "2025-09-09T16:04:44Z"
+  },
+  "request": {
+    "billNumber": "4230",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

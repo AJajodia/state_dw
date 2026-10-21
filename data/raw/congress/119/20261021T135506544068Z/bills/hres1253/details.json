@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 69,
+      "countIncludingWithdrawnCosponsors": 69,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-04",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1253",
+    "number": "1253",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000466",
+        "district": 1,
+        "firstName": "Brian",
+        "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+        "isByRequest": "N",
+        "lastName": "Fitzpatrick",
+        "middleName": "K.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/F000466?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/text?format=json"
+    },
+    "title": "Expressing the sense of the House of Representatives that public servants should be commended for their dedication and continued service to the United States, including their commitment to defending the Constitution and delivering essential services to United States citizens, and in doing so, supporting the United States economy, during Public Service Recognition Week and throughout the year.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1253/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:37:01Z",
+    "updateDateIncludingText": "2026-09-19T23:37:01Z"
+  },
+  "request": {
+    "billNumber": "1253",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

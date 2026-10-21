@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 156 (Thursday, October 1, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LEE of Nevada:\nH.R. 10681.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 provides Congress with the\npower to ``lay and collect Taxes, Duties, Imposts and\nExcises'' in order to ``provide for the . . . general Welfare\nof the United States.''\n[Page H6020]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-01",
+    "latestAction": {
+      "actionDate": "2026-10-01",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10681",
+    "number": "10681",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000590",
+        "district": 3,
+        "firstName": "Susie",
+        "fullName": "Rep. Lee, Susie [D-NV-3]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/L000590?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/text?format=json"
+    },
+    "title": "National Critical Minerals Council Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10681/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T22:49:19Z",
+    "updateDateIncludingText": "2026-10-20T22:49:19Z"
+  },
+  "request": {
+    "billNumber": "10681",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

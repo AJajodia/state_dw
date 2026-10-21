@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/actions?format=json"
+    },
+    "amendments": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/amendments?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-08",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 643. (CR S8654)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3386",
+    "number": "3386",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000880",
+        "firstName": "Mike",
+        "fullName": "Sen. Crapo, Mike [R-ID]",
+        "isByRequest": "N",
+        "lastName": "Crapo",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/C000880?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 19,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/text?format=json"
+    },
+    "title": "Health Care Freedom for Patients Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3386/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-12T15:10:01Z",
+    "updateDateIncludingText": "2026-07-30T16:27:18Z"
+  },
+  "request": {
+    "billNumber": "3386",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

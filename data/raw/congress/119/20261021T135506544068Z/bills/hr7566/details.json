@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 30 (Thursday, February 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WATSON COLEMAN:\nH.R. 7566.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18: [The Congress shall have\nPower . . . ] To make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing Powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or in any Department or\nOfficer thereof.\n[Page H2221]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-12",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7566",
+    "number": "7566",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000822",
+        "district": 12,
+        "firstName": "Bonnie",
+        "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+        "isByRequest": "N",
+        "lastName": "Watson Coleman",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/W000822?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/text?format=json"
+    },
+    "title": "Federal Jobs Guarantee Development Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7566/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-29T20:34:22Z",
+    "updateDateIncludingText": "2026-04-29T20:34:22Z"
+  },
+  "request": {
+    "billNumber": "7566",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

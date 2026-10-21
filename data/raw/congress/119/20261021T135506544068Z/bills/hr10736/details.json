@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10736/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10736/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 157 (Monday, October 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINSTAD:\nH.R. 10736.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18\n[Page H6027]\n</pre>",
+    "introducedDate": "2026-10-05",
+    "latestAction": {
+      "actionDate": "2026-10-05",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10736",
+    "number": "10736",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000475",
+        "district": 1,
+        "firstName": "Brad",
+        "fullName": "Rep. Finstad, Brad [R-MN-1]",
+        "isByRequest": "N",
+        "lastName": "Finstad",
+        "party": "R",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/F000475?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10736/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10736/text?format=json"
+    },
+    "title": "Safeguarding Technology from CCP Influence Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10736/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-15T19:27:05Z",
+    "updateDateIncludingText": "2026-10-15T19:27:05Z"
+  },
+  "request": {
+    "billNumber": "10736",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

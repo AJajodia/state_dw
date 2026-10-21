@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 96 (Thursday, June 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. MILLER of West Virginia:\nH.R. 3778.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2507]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-05",
+    "latestAction": {
+      "actionDate": "2025-06-05",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3778",
+    "number": "3778",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001205",
+        "district": 1,
+        "firstName": "Carol",
+        "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+        "isByRequest": "N",
+        "lastName": "Miller",
+        "middleName": "D.",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/M001205?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/text?format=json"
+    },
+    "title": "PEAKS Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3778/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-10-29T08:06:09Z",
+    "updateDateIncludingText": "2025-10-29T08:06:09Z"
+  },
+  "request": {
+    "billNumber": "3778",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

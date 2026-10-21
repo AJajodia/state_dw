@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 203 (Thursday, December 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MESSMER:\nH.R. 6466.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8\n[Page H5052]\n</pre>",
+    "cosponsors": {
+      "count": 76,
+      "countIncludingWithdrawnCosponsors": 76,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-04",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6466",
+    "number": "6466",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001233",
+        "district": 8,
+        "firstName": "Mark",
+        "fullName": "Rep. Messmer, Mark B. [R-IN-8]",
+        "isByRequest": "N",
+        "lastName": "Messmer",
+        "middleName": "B.",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/M001233?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/text?format=json"
+    },
+    "title": "Forced Abortion Prevention and Accountability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6466/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:56Z",
+    "updateDateIncludingText": "2026-10-16T08:05:56Z"
+  },
+  "request": {
+    "billNumber": "6466",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

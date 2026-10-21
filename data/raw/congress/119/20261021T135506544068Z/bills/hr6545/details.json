@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 207 (Tuesday, December 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TORRES of New York:\nH.R. 6545.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8.\n[Page H5113]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-09",
+    "latestAction": {
+      "actionDate": "2025-12-09",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6545",
+    "number": "6545",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000486",
+        "district": 15,
+        "firstName": "Ritchie",
+        "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000486?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/text?format=json"
+    },
+    "title": "Anesthesia for All Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6545/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-19T09:07:57Z",
+    "updateDateIncludingText": "2025-12-19T09:07:57Z"
+  },
+  "request": {
+    "billNumber": "6545",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

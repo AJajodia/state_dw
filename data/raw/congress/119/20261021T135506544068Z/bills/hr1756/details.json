@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/actions?format=json"
+    },
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. TLAIB:\nH.R. 1756.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 1 of the Constitution.\n[Page H921]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-03-28",
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1756",
+    "number": "1756",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000481",
+        "district": 12,
+        "firstName": "Rashida",
+        "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+        "isByRequest": "N",
+        "lastName": "Tlaib",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/T000481?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/text?format=json"
+    },
+    "title": "Stop Politicians Profiting from War Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1756/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-11T15:05:35Z",
+    "updateDateIncludingText": "2026-02-11T15:05:35Z"
+  },
+  "request": {
+    "billNumber": "1756",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

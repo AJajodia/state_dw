@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-06-23",
+    "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4862",
+    "number": "4862",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001267",
+        "firstName": "Michael",
+        "fullName": "Sen. Bennet, Michael F. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Bennet",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B001267?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/text?format=json"
+    },
+    "title": "A bill to direct the Secretary of Agriculture to consider certain acreage not planted due to a lack of irrigation water to be eligible for prevented planting payments, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4862/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-29T17:13:02Z",
+    "updateDateIncludingText": "2026-09-29T17:13:02Z"
+  },
+  "request": {
+    "billNumber": "4862",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 135 (Tuesday, August 5, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. AGUILAR:\nH.R. 4874.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3681]\n</pre>",
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-05",
+    "latestAction": {
+      "actionDate": "2025-08-05",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4874",
+    "number": "4874",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000371",
+        "district": 33,
+        "firstName": "Pete",
+        "fullName": "Rep. Aguilar, Pete [D-CA-33]",
+        "isByRequest": "N",
+        "lastName": "Aguilar",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/A000371?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/text?format=json"
+    },
+    "title": "Affordable Housing Resident Services Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4874/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-09-18T14:47:47Z",
+    "updateDateIncludingText": "2025-09-18T14:47:47Z"
+  },
+  "request": {
+    "billNumber": "4874",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

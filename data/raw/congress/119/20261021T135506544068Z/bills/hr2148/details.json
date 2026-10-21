@@ -1,0 +1,84 @@
+{
+  "bill": {
+    "actions": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on February 12, 2026",
+        "pubDate": "2026-03-25T20:24:00Z",
+        "title": "H.R. 2148, Veteran Caregiver Reeducation, Reemployment and Retirement Act",
+        "url": "https://www.cbo.gov/publication/62269"
+      }
+    ],
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 49 (Friday, March 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MORELLE:\nH.R. 2148.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article 1, Section 8, Clause 1 of the United\nStates Constitution.\n[Page H1163]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-14",
+    "latestAction": {
+      "actionDate": "2026-02-12",
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2148",
+    "number": "2148",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001206",
+        "district": 25,
+        "firstName": "Joseph",
+        "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+        "isByRequest": "N",
+        "lastName": "Morelle",
+        "middleName": "D.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001206?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/text?format=json"
+    },
+    "title": "Veteran Caregiver Reeducation, Reemployment, and Retirement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2148/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-25T20:35:24Z",
+    "updateDateIncludingText": "2026-03-25T20:35:24Z"
+  },
+  "request": {
+    "billNumber": "2148",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

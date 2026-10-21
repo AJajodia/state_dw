@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-16",
+    "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/85",
+    "number": "85",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001068",
+        "district": 2,
+        "firstName": "Jared",
+        "fullName": "Rep. Huffman, Jared [D-CA-2]",
+        "isByRequest": "N",
+        "lastName": "Huffman",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/H001068?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/text?format=json"
+    },
+    "title": "Celebrating the 50th anniversary of the Magnuson-Stevens Fishery Conservation and Management Act on April 13, 2026, and recognizing its significant impact on the sustainable and profitable management of the Nation's fishery resources.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/85/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-09-19T23:15:39Z",
+    "updateDateIncludingText": "2026-09-19T23:15:39Z"
+  },
+  "request": {
+    "billNumber": "85",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

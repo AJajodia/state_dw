@@ -1,0 +1,39 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "L000571",
+      "firstName": "Cynthia",
+      "fullName": "Sen. Lummis, Cynthia M. [R-WY]",
+      "isOriginalCosponsor": true,
+      "lastName": "Lummis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2025-09-11",
+      "state": "WY",
+      "url": "https://api.congress.gov/v3/member/L000571?format=json"
+    },
+    {
+      "bioguideId": "T000250",
+      "firstName": "John",
+      "fullName": "Sen. Thune, John [R-SD]",
+      "isOriginalCosponsor": false,
+      "lastName": "Thune",
+      "party": "R",
+      "sponsorshipDate": "2025-09-29",
+      "state": "SD",
+      "url": "https://api.congress.gov/v3/member/T000250?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "2787",
+    "billType": "s",
+    "billUrl": "https://api.congress.gov/v3/bill/119/s/2787?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

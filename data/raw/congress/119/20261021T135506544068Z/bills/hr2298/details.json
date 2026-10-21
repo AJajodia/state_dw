@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2298/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2298/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FULCHER:\nH.R. 2298.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 allows Congress to make all\nlaws ``Which shall be necessary and proper for carrying into\nexecution'' any of Congress' enumerated powers, including\nCongress' powers over appropriations.\n[Page H1219]\n</pre>",
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2025-03-24",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2298",
+    "number": "2298",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000469",
+        "district": 1,
+        "firstName": "Russ",
+        "fullName": "Rep. Fulcher, Russ [R-ID-1]",
+        "isByRequest": "N",
+        "lastName": "Fulcher",
+        "party": "R",
+        "state": "ID",
+        "url": "https://api.congress.gov/v3/member/F000469?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2298/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2298/text?format=json"
+    },
+    "title": "Reducing Barriers for Broadband on Federal Lands Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2298/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-04-03T11:56:50Z",
+    "updateDateIncludingText": "2025-04-03T11:56:50Z"
+  },
+  "request": {
+    "billNumber": "2298",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

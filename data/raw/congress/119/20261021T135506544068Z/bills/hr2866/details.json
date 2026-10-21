@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 65 (Thursday, April 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. MALLIOTAKIS:\nH.R. 2866.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1602]\n</pre>",
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2866",
+    "number": "2866",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000317",
+        "district": 11,
+        "firstName": "Nicole",
+        "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+        "isByRequest": "N",
+        "lastName": "Malliotakis",
+        "party": "R",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M000317?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/text?format=json"
+    },
+    "title": "No Visas for Anti-Semitic Students Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2866/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-07T16:39:24Z",
+    "updateDateIncludingText": "2026-07-07T16:39:24Z"
+  },
+  "request": {
+    "billNumber": "2866",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

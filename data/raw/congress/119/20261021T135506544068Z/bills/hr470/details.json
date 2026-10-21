@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RUTHERFORD:\nH.R. 470.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H221]\n</pre>",
+    "cosponsors": {
+      "count": 26,
+      "countIncludingWithdrawnCosponsors": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-01-16",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/470",
+    "number": "470",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000609",
+        "district": 5,
+        "firstName": "John",
+        "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+        "isByRequest": "N",
+        "lastName": "Rutherford",
+        "middleName": "H.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/R000609?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/text?format=json"
+    },
+    "title": "Red Snapper Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/470/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T22:03:02Z",
+    "updateDateIncludingText": "2025-12-05T22:03:02Z"
+  },
+  "request": {
+    "billNumber": "470",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

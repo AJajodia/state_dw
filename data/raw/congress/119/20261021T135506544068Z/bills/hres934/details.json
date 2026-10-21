@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-05",
+    "latestAction": {
+      "actionDate": "2025-12-05",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/934",
+    "number": "934",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000622",
+        "district": 1,
+        "firstName": "Jimmy",
+        "fullName": "Rep. Patronis, Jimmy [R-FL-1]",
+        "isByRequest": "N",
+        "lastName": "Patronis",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/P000622?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/text?format=json"
+    },
+    "title": "Supporting the recognition of November 2025 as \"Carbon Monoxide Action and Awareness Month\" and promoting nationwide education, prevention, and detection efforts to protect United States families from carbon monoxide poisoning.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/934/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:19:07Z",
+    "updateDateIncludingText": "2026-09-19T23:19:07Z"
+  },
+  "request": {
+    "billNumber": "934",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

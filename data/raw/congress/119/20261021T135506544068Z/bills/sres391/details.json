@@ -1,0 +1,81 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 54,
+      "countIncludingWithdrawnCosponsors": 54,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-16",
+    "latestAction": {
+      "actionDate": "2025-09-16",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6637; text: CR S6652)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/391",
+    "number": "391",
+    "onBehalfOfSponsor": [
+      {
+        "bioguideId": "M001242",
+        "firstName": "Bernie",
+        "fullName": "Sen. Moreno, Bernie [R-OH]",
+        "lastName": "Moreno",
+        "party": "R",
+        "state": "OH",
+        "type": "Introduced on behalf of",
+        "url": "https://api.congress.gov/v3/member/M001242?format=json"
+      }
+    ],
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000577",
+        "firstName": "Mike",
+        "fullName": "Sen. Lee, Mike [R-UT]",
+        "isByRequest": "N",
+        "lastName": "Lee",
+        "party": "R",
+        "state": "UT",
+        "url": "https://api.congress.gov/v3/member/L000577?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/text?format=json"
+    },
+    "title": "A resolution condemning the assassination of Charlie Kirk and honoring his life and legacy.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/391/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-12-05T22:56:24Z",
+    "updateDateIncludingText": "2025-12-05T22:56:24Z"
+  },
+  "request": {
+    "billNumber": "391",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

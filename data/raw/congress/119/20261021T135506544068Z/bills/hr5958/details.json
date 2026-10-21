@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5958/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5958/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 187 (Friday, November 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KHANNA:\nH.R. 5958.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the Constitution.\n[Page H4586]\n</pre>",
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Referred to the Committee on Small Business, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5958",
+    "number": "5958",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000389",
+        "district": 17,
+        "firstName": "Ro",
+        "fullName": "Rep. Khanna, Ro [D-CA-17]",
+        "isByRequest": "N",
+        "lastName": "Khanna",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/K000389?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5958/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5958/text?format=json"
+    },
+    "title": "National Worker Cooperative Development and Support Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5958/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-11-19T12:28:08Z",
+    "updateDateIncludingText": "2025-11-19T12:28:08Z"
+  },
+  "request": {
+    "billNumber": "5958",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

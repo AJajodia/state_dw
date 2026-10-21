@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/cosponsors?format=json"
+    },
+    "introducedDate": "2026-08-07",
+    "latestAction": {
+      "actionDate": "2026-08-07",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5379",
+    "number": "5379",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001104",
+        "firstName": "Jon",
+        "fullName": "Sen. Husted, Jon [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Husted",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/H001104?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/text?format=json"
+    },
+    "title": "BIS STRENGTH Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/5379/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-26T21:29:37Z",
+    "updateDateIncludingText": "2026-08-26T21:29:37Z"
+  },
+  "request": {
+    "billNumber": "5379",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

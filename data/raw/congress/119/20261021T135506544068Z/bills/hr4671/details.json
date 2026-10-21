@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARDER of California:\nH.R. 4671.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution\n[Page H3648]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Ordered to be Reported by Unanimous Consent."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4671",
+    "number": "4671",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001090",
+        "district": 9,
+        "firstName": "Josh",
+        "fullName": "Rep. Harder, Josh [D-CA-9]",
+        "isByRequest": "N",
+        "lastName": "Harder",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/H001090?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/text?format=json"
+    },
+    "title": "Ensuring Casualty Assistance for our Firefighters Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4671/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-25T22:52:59Z",
+    "updateDateIncludingText": "2026-08-25T22:52:59Z"
+  },
+  "request": {
+    "billNumber": "4671",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

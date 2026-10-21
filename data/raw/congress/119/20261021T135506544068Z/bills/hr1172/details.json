@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 27 (Monday, February 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOOLENAAR:\nH.R. 1172.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8: ``The Congress shall have Power To lay\nand collect Taxes, Duties, Imposts and Excises, to pay the\nDebts and provide for the common Defence and general Welfare\nof the United States; but all Duties, Imposts and Excises\nshall be uniform throughout the United States;''\n[Page H614]\n</pre>",
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-10",
+    "latestAction": {
+      "actionDate": "2025-02-10",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1172",
+    "number": "1172",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Social Welfare"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001194",
+        "district": 2,
+        "firstName": "John",
+        "fullName": "Rep. Moolenaar, John R. [R-MI-2]",
+        "isByRequest": "N",
+        "lastName": "Moolenaar",
+        "middleName": "R.",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/M001194?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/text?format=json"
+    },
+    "title": "No Social Security for Illegal Aliens Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1172/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-11-20T09:06:35Z",
+    "updateDateIncludingText": "2025-11-20T09:06:35Z"
+  },
+  "request": {
+    "billNumber": "1172",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

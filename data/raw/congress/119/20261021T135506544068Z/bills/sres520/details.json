@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/actions?format=json"
+    },
+    "amendments": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/amendments?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-12-01",
+    "latestAction": {
+      "actionDate": "2025-12-04",
+      "text": "Cloture, not having achieved 60 votes in the affirmative, was not invoked in Senate by Yea-Nay Vote. 43 - 37. Record Vote Number: 633. (CR S8501)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/520",
+    "number": "520",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000250",
+        "firstName": "John",
+        "fullName": "Sen. Thune, John [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Thune",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/T000250?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/text?format=json"
+    },
+    "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/520/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-03-12T15:09:57Z",
+    "updateDateIncludingText": "2026-03-12T15:09:57Z"
+  },
+  "request": {
+    "billNumber": "520",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

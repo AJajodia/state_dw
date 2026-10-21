@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 80 (Tuesday, May 12, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. DOGGETT:\nH.R. 8744.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 of Section 8 of Article 1 of the United States\nConstitution\n[Page H3393]\n</pre>",
+    "cosponsors": {
+      "count": 26,
+      "countIncludingWithdrawnCosponsors": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-12",
+    "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Foreign Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8744",
+    "number": "8744",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000399",
+        "district": 37,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+        "isByRequest": "N",
+        "lastName": "Doggett",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000399?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/text?format=json"
+    },
+    "title": "TREE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8744/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:34:26Z",
+    "updateDateIncludingText": "2026-09-19T23:34:26Z"
+  },
+  "request": {
+    "billNumber": "8744",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

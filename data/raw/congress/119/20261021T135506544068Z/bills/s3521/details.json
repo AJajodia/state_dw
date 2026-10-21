@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-17",
+    "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3521",
+    "number": "3521",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001113",
+        "firstName": "Catherine",
+        "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Cortez Masto",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/C001113?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/text?format=json"
+    },
+    "title": "PEERS Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3521/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-11T14:07:20Z",
+    "updateDateIncludingText": "2026-03-11T14:07:20Z"
+  },
+  "request": {
+    "billNumber": "3521",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "bill": {
+    "actions": {
+      "count": 26,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 59 (Wednesday, April 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OBERNOLTE:\nH.J. Res. 89.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H1413]\n</pre>",
+    "cosponsors": {
+      "count": 32,
+      "countIncludingWithdrawnCosponsors": 32,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Became Public Law No: 119-17."
+    },
+    "laws": [
+      {
+        "number": "119-17",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89",
+    "number": "89",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000019",
+        "district": 23,
+        "firstName": "Jay",
+        "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+        "isByRequest": "N",
+        "lastName": "Obernolte",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/O000019?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/text?format=json"
+    },
+    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/89/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-09-22T19:08:23Z",
+    "updateDateIncludingText": "2026-09-23T03:03:30Z"
+  },
+  "request": {
+    "billNumber": "89",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

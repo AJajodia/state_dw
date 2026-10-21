@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 29 (Wednesday, February 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KELLY of Illinois:\nH.R. 7499.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of section 8 of article 1 of the Constitution\n[Page H2187]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-11",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7499",
+    "number": "7499",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000385",
+        "district": 2,
+        "firstName": "Robin",
+        "fullName": "Rep. Kelly, Robin L. [D-IL-2]",
+        "isByRequest": "N",
+        "lastName": "Kelly",
+        "middleName": "L.",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/K000385?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/text?format=json"
+    },
+    "title": "Firearm Safety Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7499/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:10:34Z",
+    "updateDateIncludingText": "2026-09-19T23:10:34Z"
+  },
+  "request": {
+    "billNumber": "7499",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

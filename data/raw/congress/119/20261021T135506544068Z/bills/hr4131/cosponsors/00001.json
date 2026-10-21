@@ -1,0 +1,79 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "L000578",
+      "district": 1,
+      "firstName": "Doug",
+      "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "LaMalfa",
+      "party": "R",
+      "sponsorshipDate": "2025-06-25",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/L000578?format=json"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": 15,
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": true,
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-25",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/M001211?format=json"
+    },
+    {
+      "bioguideId": "S001188",
+      "district": 3,
+      "firstName": "Marlin",
+      "fullName": "Rep. Stutzman, Marlin A. [R-IN-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Stutzman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-06-25",
+      "state": "IN",
+      "url": "https://api.congress.gov/v3/member/S001188?format=json"
+    },
+    {
+      "bioguideId": "G000596",
+      "district": 14,
+      "firstName": "Marjorie",
+      "fullName": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+      "isOriginalCosponsor": false,
+      "lastName": "Greene",
+      "middleName": "Taylor",
+      "party": "R",
+      "sponsorshipDate": "2025-06-26",
+      "state": "GA",
+      "url": "https://api.congress.gov/v3/member/G000596?format=json"
+    },
+    {
+      "bioguideId": "B001325",
+      "district": 3,
+      "firstName": "Sheri",
+      "fullName": "Rep. Biggs, Sheri [R-SC-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Biggs",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "SC",
+      "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 5,
+    "countIncludingWithdrawnCosponsors": 5
+  },
+  "request": {
+    "billNumber": "4131",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4131?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

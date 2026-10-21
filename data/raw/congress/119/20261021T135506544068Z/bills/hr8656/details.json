@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 77 (Monday, May 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HIGGINS of Louisiana:\nH.R. 8656.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I , Section 8\n[Page H3338]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-04",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8656",
+    "number": "8656",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001077",
+        "district": 3,
+        "firstName": "Clay",
+        "fullName": "Rep. Higgins, Clay [R-LA-3]",
+        "isByRequest": "N",
+        "lastName": "Higgins",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/H001077?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/text?format=json"
+    },
+    "title": "Ballistic Armor Made in America Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8656/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:44Z",
+    "updateDateIncludingText": "2026-10-16T08:05:44Z"
+  },
+  "request": {
+    "billNumber": "8656",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

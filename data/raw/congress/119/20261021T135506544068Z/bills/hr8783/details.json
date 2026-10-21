@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-13",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8783",
+    "number": "8783",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001292",
+        "district": 8,
+        "firstName": "Donald",
+        "fullName": "Rep. Beyer, Donald S. [D-VA-8]",
+        "isByRequest": "N",
+        "lastName": "Beyer",
+        "middleName": "S.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/B001292?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/text?format=json"
+    },
+    "title": "To amend the Internal Revenue Code of 1986 to exclude from gross income charitable distributions from certain employer-sponsored retirement plans, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8783/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:36:05Z",
+    "updateDateIncludingText": "2026-09-19T23:36:05Z"
+  },
+  "request": {
+    "billNumber": "8783",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

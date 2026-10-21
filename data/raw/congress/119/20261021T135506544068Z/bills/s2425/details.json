@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-24",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Read twice and referred to the Select Committee on Intelligence."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2425",
+    "number": "2425",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000605",
+        "firstName": "Mike",
+        "fullName": "Sen. Rounds, Mike [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Rounds",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/R000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/text?format=json"
+    },
+    "title": "Intelligence Community Property Security Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2425/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-04-10T15:09:28Z",
+    "updateDateIncludingText": "2026-04-10T15:09:28Z"
+  },
+  "request": {
+    "billNumber": "2425",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

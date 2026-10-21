@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-04",
+    "latestAction": {
+      "actionDate": "2025-03-04",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/824",
+    "number": "824",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/K000393?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/text?format=json"
+    },
+    "title": "NFIP Extension Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/824/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-12-06T06:24:39Z",
+    "updateDateIncludingText": "2025-12-06T06:24:39Z"
+  },
+  "request": {
+    "billNumber": "824",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

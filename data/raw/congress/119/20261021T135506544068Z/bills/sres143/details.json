@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-26",
+    "latestAction": {
+      "actionDate": "2025-05-19",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2965-2966; text: 03/26/2025 CR S1877-1878)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/143",
+    "number": "143",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000463",
+        "firstName": "Deb",
+        "fullName": "Sen. Fischer, Deb [R-NE]",
+        "isByRequest": "N",
+        "lastName": "Fischer",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/F000463?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/text?format=json"
+    },
+    "title": "A resolution supporting the designation of May 29, 2025, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/143/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:58:32Z"
+  },
+  "request": {
+    "billNumber": "143",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

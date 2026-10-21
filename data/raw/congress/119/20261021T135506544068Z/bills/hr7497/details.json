@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 29 (Wednesday, February 11, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. HAYES:\nH.R. 7497.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18, ``To make all Laws which\nshall be necessary and proper for carrying into Execution the\nforegoing Powers, and all other Powers vested by this\nConstitution in the Government of the United States, or in\nany Department or Officer thereof.''\n[Page H2187]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-11",
+    "latestAction": {
+      "actionDate": "2026-02-11",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7497",
+    "number": "7497",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001081",
+        "district": 5,
+        "firstName": "Jahana",
+        "fullName": "Rep. Hayes, Jahana [D-CT-5]",
+        "isByRequest": "N",
+        "lastName": "Hayes",
+        "party": "D",
+        "state": "CT",
+        "url": "https://api.congress.gov/v3/member/H001081?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/text?format=json"
+    },
+    "title": "Supporting Trauma-Informed Education Practices Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7497/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-27T08:06:20Z",
+    "updateDateIncludingText": "2026-05-27T08:06:20Z"
+  },
+  "request": {
+    "billNumber": "7497",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 187 (Friday, November 7, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. VAN DUYNE:\nH.R. 5986.\nCongress has the power to enact this legislation pursuant\nto the following:\nArt 1 Sec. 8\n[Page H4587]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-07",
+    "latestAction": {
+      "actionDate": "2025-11-07",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5986",
+    "number": "5986",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000134",
+        "district": 24,
+        "firstName": "Beth",
+        "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+        "isByRequest": "N",
+        "lastName": "Van Duyne",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/V000134?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/text?format=json"
+    },
+    "title": "END Illicit Chinese Tobacco Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5986/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T21:59:27Z",
+    "updateDateIncludingText": "2025-12-05T21:59:27Z"
+  },
+  "request": {
+    "billNumber": "5986",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

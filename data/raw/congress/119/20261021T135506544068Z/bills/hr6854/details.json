@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 214 (Thursday, December 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINE:\nH.R. 6854.\nCongress has the power to enact this legislation pursuant\nto the following:\nSpending Clause, Article I, Section 8, Clause 1\nNecessary and Proper Clause, Article 1, Section 8, Clause\n18\n[Page H6116]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-18",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6854",
+    "number": "6854",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000484",
+        "district": 6,
+        "firstName": "Randy",
+        "fullName": "Rep. Fine, Randy [R-FL-6]",
+        "isByRequest": "N",
+        "lastName": "Fine",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/F000484?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/text?format=json"
+    },
+    "title": "No Welfare for Non-Citizens Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6854/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-05T09:06:50Z",
+    "updateDateIncludingText": "2026-02-05T09:06:50Z"
+  },
+  "request": {
+    "billNumber": "6854",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 81 (Wednesday, May 14, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TURNER of Ohio:\nH.R. 3418.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8; and Article IV, Section 3, Clause 2\n[Page H2053]\n</pre>",
+    "cosponsors": {
+      "count": 41,
+      "countIncludingWithdrawnCosponsors": 41,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-14",
+    "latestAction": {
+      "actionDate": "2025-05-14",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3418",
+    "number": "3418",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000463",
+        "district": 10,
+        "firstName": "Michael",
+        "fullName": "Rep. Turner, Michael R. [R-OH-10]",
+        "isByRequest": "N",
+        "lastName": "Turner",
+        "middleName": "R.",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/T000463?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/text?format=json"
+    },
+    "title": "Historic Preservation Fund Reauthorization Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3418/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T08:05:27Z",
+    "updateDateIncludingText": "2026-10-20T08:05:27Z"
+  },
+  "request": {
+    "billNumber": "3418",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

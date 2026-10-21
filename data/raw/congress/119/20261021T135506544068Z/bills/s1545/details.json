@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1545",
+    "number": "1545",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001184",
+        "firstName": "Tim",
+        "fullName": "Sen. Scott, Tim [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/S001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/text?format=json"
+    },
+    "title": "Repeatedly Flooded Communities Preparation Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/1545/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-07T19:18:03Z",
+    "updateDateIncludingText": "2026-10-07T19:18:03Z"
+  },
+  "request": {
+    "billNumber": "1545",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

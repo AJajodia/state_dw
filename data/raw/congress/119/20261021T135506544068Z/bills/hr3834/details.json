@@ -1,0 +1,76 @@
+{
+  "bill": {
+    "actions": {
+      "count": 11,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3834/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on July 23, 2025",
+        "pubDate": "2025-10-10T19:26:00Z",
+        "title": "H.R. 3834, Protecting Veteran\u2019s Claims Option Act",
+        "url": "https://www.cbo.gov/publication/61811"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-349",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/349?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3834/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 98 (Monday, June 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BOST:\nH.R. 3834.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution,\nwhich states ``[t]he Congress shall have power to lay and\ncollect taxes, duties, imposts and excises, to pay the debts\nand provide for the common defense and general welfare of the\nUnited States; but all duties, imposts and excises shall be\nuniform throughout the United States''\n[Page H2569]\n</pre>",
+    "introducedDate": "2025-06-09",
+    "latestAction": {
+      "actionDate": "2025-10-21",
+      "text": "Placed on the Union Calendar, Calendar No. 301."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3834",
+    "number": "3834",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001295",
+        "district": 12,
+        "firstName": "Mike",
+        "fullName": "Rep. Bost, Mike [R-IL-12]",
+        "isByRequest": "N",
+        "lastName": "Bost",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/B001295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3834/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3834/text?format=json"
+    },
+    "title": "Protecting Veteran\u2019s Claim Options Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3834/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:25Z",
+    "updateDateIncludingText": "2026-02-04T05:06:25Z"
+  },
+  "request": {
+    "billNumber": "3834",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

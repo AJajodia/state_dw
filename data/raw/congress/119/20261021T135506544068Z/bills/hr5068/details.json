@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/actions?format=json"
+    },
+    "committees": {
+      "count": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 142 (Friday, August 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NADLER:\nH.R. 5068.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3717]\n</pre>",
+    "cosponsors": {
+      "count": 74,
+      "countIncludingWithdrawnCosponsors": 74,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-29",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5068",
+    "number": "5068",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000002",
+        "district": 12,
+        "firstName": "Jerrold",
+        "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+        "isByRequest": "N",
+        "lastName": "Nadler",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/N000002?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/text?format=json"
+    },
+    "title": "MORE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5068/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:09Z",
+    "updateDateIncludingText": "2026-09-19T23:39:09Z"
+  },
+  "request": {
+    "billNumber": "5068",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

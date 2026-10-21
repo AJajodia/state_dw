@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 214 (Thursday, December 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CONAWAY:\nH.R. 6844.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 1 of section 8 of article I of the Constitution, The\nGeneral Welfare Clause.\n[Page H6116]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-18",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6844",
+    "number": "6844",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001136",
+        "district": 3,
+        "firstName": "Herbert",
+        "fullName": "Rep. Conaway, Herbert C. [D-NJ-3]",
+        "isByRequest": "N",
+        "lastName": "Conaway",
+        "middleName": "C.",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/C001136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/text?format=json"
+    },
+    "title": "Tobacco TRACE Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6844/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-05T09:06:07Z",
+    "updateDateIncludingText": "2026-02-05T09:06:07Z"
+  },
+  "request": {
+    "billNumber": "6844",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

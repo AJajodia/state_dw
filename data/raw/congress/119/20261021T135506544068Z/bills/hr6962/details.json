@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 4 (Wednesday, January 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARRIGAN:\nH.R. 6962.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3\n[Page H135]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6962",
+    "number": "6962",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001101",
+        "district": 10,
+        "firstName": "Pat",
+        "fullName": "Rep. Harrigan, Pat [R-NC-10]",
+        "isByRequest": "N",
+        "lastName": "Harrigan",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/H001101?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/text?format=json"
+    },
+    "title": "Families First Housing Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6962/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-06T09:06:41Z",
+    "updateDateIncludingText": "2026-03-06T09:06:41Z"
+  },
+  "request": {
+    "billNumber": "6962",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

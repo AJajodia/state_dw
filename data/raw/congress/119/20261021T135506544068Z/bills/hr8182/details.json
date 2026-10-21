@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 61 (Thursday, April 2, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MOORE of North Carolina:\nH.R. 8182.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the U.S. Constitution.\n[Page H2821]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/cosponsors?format=json"
+    },
+    "introducedDate": "2026-04-02",
+    "latestAction": {
+      "actionDate": "2026-04-02",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8182",
+    "number": "8182",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001236",
+        "district": 14,
+        "firstName": "Tim",
+        "fullName": "Rep. Moore, Tim [R-NC-14]",
+        "isByRequest": "N",
+        "lastName": "Moore",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/M001236?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/text?format=json"
+    },
+    "title": "Banning Perpetrators of Religious Persecution Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8182/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-04-17T19:44:09Z",
+    "updateDateIncludingText": "2026-04-17T19:44:09Z"
+  },
+  "request": {
+    "billNumber": "8182",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

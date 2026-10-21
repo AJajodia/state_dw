@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9850/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9850/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 120 (Wednesday, July 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FINE:\nH.R. 9850.\nCongress has the power to enact this legislation pursuant\nto the following:\nNecessary and Proper Clause (Article I, Section 8, clause\n18)\n[Page H5177]\n</pre>",
+    "introducedDate": "2026-07-22",
+    "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9850",
+    "number": "9850",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000484",
+        "district": 6,
+        "firstName": "Randy",
+        "fullName": "Rep. Fine, Randy [R-FL-6]",
+        "isByRequest": "N",
+        "lastName": "Fine",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/F000484?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9850/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9850/text?format=json"
+    },
+    "title": "No Deliveries Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9850/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-06T19:49:16Z",
+    "updateDateIncludingText": "2026-08-06T19:49:16Z"
+  },
+  "request": {
+    "billNumber": "9850",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

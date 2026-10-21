@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-19",
+    "latestAction": {
+      "actionDate": "2025-11-19",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/896",
+    "number": "896",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000467",
+        "district": 15,
+        "firstName": "Glenn",
+        "fullName": "Rep. Thompson, Glenn [R-PA-15]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/T000467?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/text?format=json"
+    },
+    "title": "Expressing support for designating November 2025 as \"National Career Development Month\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/896/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-11-24T18:14:05Z",
+    "updateDateIncludingText": "2025-11-24T18:14:05Z"
+  },
+  "request": {
+    "billNumber": "896",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 140 (Thursday, September 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MAST:\nH.R. 10279.\nCongress has the power to enact this legislation pursuant\nto the following:\nU.S. Const. art. I, Sec. 8, cl. 18\n[Page H5510]\n</pre>",
+    "introducedDate": "2026-09-03",
+    "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10279",
+    "number": "10279",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001199",
+        "district": 21,
+        "firstName": "Brian",
+        "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+        "isByRequest": "N",
+        "lastName": "Mast",
+        "middleName": "J.",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/text?format=json"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10279/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-04T18:47:17Z",
+    "updateDateIncludingText": "2026-09-05T12:58:29Z"
+  },
+  "request": {
+    "billNumber": "10279",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001232",
+      "district": 6,
+      "firstName": "April",
+      "fullName": "Rep. McClain Delaney, April [D-MD-6]",
+      "isOriginalCosponsor": true,
+      "lastName": "McClain Delaney",
+      "party": "D",
+      "sponsorshipDate": "2026-08-06",
+      "state": "MD",
+      "url": "https://api.congress.gov/v3/member/M001232?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1,
+    "countIncludingWithdrawnCosponsors": 1
+  },
+  "request": {
+    "billNumber": "10055",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/10055?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

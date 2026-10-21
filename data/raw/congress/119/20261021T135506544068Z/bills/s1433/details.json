@@ -1,0 +1,87 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on April 30, 2025",
+        "pubDate": "2025-06-17T14:41:00Z",
+        "title": "S. 1433, Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025",
+        "url": "https://www.cbo.gov/publication/61495"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-67",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/67?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-09-29",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 172."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1433",
+    "number": "1433",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001111",
+        "firstName": "Patty",
+        "fullName": "Sen. Murray, Patty [D-WA]",
+        "isByRequest": "N",
+        "lastName": "Murray",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/M001111?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 14,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/text?format=json"
+    },
+    "title": "Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/1433/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-08T18:03:40Z",
+    "updateDateIncludingText": "2026-09-08T18:03:40Z"
+  },
+  "request": {
+    "billNumber": "1433",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

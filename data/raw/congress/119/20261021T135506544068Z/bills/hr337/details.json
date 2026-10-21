@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. COSTA:\nH.R. 337.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the Constitution.\n[[Page H112]]\n[Page H111]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-13",
+    "latestAction": {
+      "actionDate": "2025-01-13",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/337",
+    "number": "337",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001059",
+        "district": 21,
+        "firstName": "Jim",
+        "fullName": "Rep. Costa, Jim [D-CA-21]",
+        "isByRequest": "N",
+        "lastName": "Costa",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/text?format=json"
+    },
+    "title": "To provide technical and financial assistance for groundwater recharge, aquifer storage, and water source substitution projects.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/337/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:07:45Z",
+    "updateDateIncludingText": "2026-09-19T23:07:45Z"
+  },
+  "request": {
+    "billNumber": "337",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

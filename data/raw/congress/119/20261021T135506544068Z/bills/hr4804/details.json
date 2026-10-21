@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 130 (Tuesday, July 29, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. KEATING:\nH.R. 4804.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H3664]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-29",
+    "latestAction": {
+      "actionDate": "2025-07-29",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4804",
+    "number": "4804",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000375",
+        "district": 9,
+        "firstName": "William",
+        "fullName": "Rep. Keating, William R. [D-MA-9]",
+        "isByRequest": "N",
+        "lastName": "Keating",
+        "middleName": "R.",
+        "party": "D",
+        "state": "MA",
+        "url": "https://api.congress.gov/v3/member/K000375?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/text?format=json"
+    },
+    "title": "To authorize an annual strategic dialogue to return democratic rule to Belarus, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4804/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-09-18T20:04:25Z",
+    "updateDateIncludingText": "2025-09-18T20:04:25Z"
+  },
+  "request": {
+    "billNumber": "4804",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

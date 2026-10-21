@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 37 (Tuesday, February 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WALBERG:\nH.R. 1587.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution.\n[Page H837]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-25",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1587",
+    "number": "1587",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000798",
+        "district": 5,
+        "firstName": "Tim",
+        "fullName": "Rep. Walberg, Tim [R-MI-5]",
+        "isByRequest": "N",
+        "lastName": "Walberg",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/W000798?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/text?format=json"
+    },
+    "title": "Protecting International Pipelines for Energy Security Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1587/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-12T08:06:40Z",
+    "updateDateIncludingText": "2025-06-12T08:06:40Z"
+  },
+  "request": {
+    "billNumber": "1587",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-15",
+    "latestAction": {
+      "actionDate": "2026-06-15",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4782",
+    "number": "4782",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001076",
+        "firstName": "Maggie",
+        "fullName": "Sen. Hassan, Margaret Wood [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Hassan",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/H001076?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/text?format=json"
+    },
+    "title": "ReportScams.gov Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/4782/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-30T11:03:22Z",
+    "updateDateIncludingText": "2026-07-30T11:03:22Z"
+  },
+  "request": {
+    "billNumber": "4782",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

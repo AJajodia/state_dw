@@ -1,0 +1,81 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-19",
+    "latestAction": {
+      "actionDate": "2025-09-19",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6798; text: CR S6795)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/416",
+    "number": "416",
+    "onBehalfOfSponsor": [
+      {
+        "bioguideId": "T000250",
+        "firstName": "John",
+        "fullName": "Sen. Thune, John [R-SD]",
+        "lastName": "Thune",
+        "party": "R",
+        "state": "SD",
+        "type": "Introduced on behalf of",
+        "url": "https://api.congress.gov/v3/member/T000250?format=json"
+      }
+    ],
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001184",
+        "firstName": "Tim",
+        "fullName": "Sen. Scott, Tim [R-SC]",
+        "isByRequest": "N",
+        "lastName": "Scott",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/S001184?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/text?format=json"
+    },
+    "title": "A resolution expressing support for the designation of September 2025 as \"Sickle Cell Disease Awareness Month\" in order to educate communities across the United States about sickle cell disease and the need for research, early detection methods, effective treatments, and preventative care programs with respect to complications from sickle cell disease and conditions related to sickle cell disease.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/416/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-10-15T18:40:52Z",
+    "updateDateIncludingText": "2026-10-15T18:40:52Z"
+  },
+  "request": {
+    "billNumber": "416",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

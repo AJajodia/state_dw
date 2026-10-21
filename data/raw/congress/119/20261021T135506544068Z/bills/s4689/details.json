@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-04",
+    "latestAction": {
+      "actionDate": "2026-08-06",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 549."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4689",
+    "number": "4689",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001075?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/text?format=json"
+    },
+    "title": "READ Act",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/4689/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-13T14:26:20Z",
+    "updateDateIncludingText": "2026-10-13T14:26:20Z"
+  },
+  "request": {
+    "billNumber": "4689",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

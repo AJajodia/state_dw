@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-05-06",
+    "latestAction": {
+      "actionDate": "2025-05-19",
+      "text": "Motion to Discharge Committee filed by Mr. Meeks. Petition No: 119-5. (<a href=\"https://clerk.house.gov/DischargePetition/2025051905\">Discharge petition</a> text with signatures.)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/393",
+    "number": "393",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001211",
+        "district": 4,
+        "firstName": "Greg",
+        "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+        "isByRequest": "N",
+        "lastName": "Stanton",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/S001211?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/text?format=json"
+    },
+    "title": "Providing for consideration of the joint resolution (H. J. Res. 73) relating to a national emergency by the President on February 1, 2025.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/393/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-12-05T21:29:19Z",
+    "updateDateIncludingText": "2025-12-05T21:29:19Z"
+  },
+  "request": {
+    "billNumber": "393",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

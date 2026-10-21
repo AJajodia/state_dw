@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 25 (Wednesday, February 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. McCLELLAN:\nH.R. 7341.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H2031]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-04",
+    "latestAction": {
+      "actionDate": "2026-02-04",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7341",
+    "number": "7341",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001227",
+        "district": 4,
+        "firstName": "Jennifer",
+        "fullName": "Rep. McClellan, Jennifer L. [D-VA-4]",
+        "isByRequest": "N",
+        "lastName": "McClellan",
+        "middleName": "L.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/M001227?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/text?format=json"
+    },
+    "title": "GRAD Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7341/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-20T19:28:40Z",
+    "updateDateIncludingText": "2026-02-20T19:28:40Z"
+  },
+  "request": {
+    "billNumber": "7341",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

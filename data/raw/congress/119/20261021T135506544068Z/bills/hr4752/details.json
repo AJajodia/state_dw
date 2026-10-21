@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. WASSERMAN SCHULTZ:\nH.R. 4752.\nCongress has the power to enact this legislation pursuant\nto the following:\nUS Constitution, Article 1, Section 8\n[Page H3650]\n</pre>",
+    "cosponsors": {
+      "count": 34,
+      "countIncludingWithdrawnCosponsors": 34,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4752",
+    "number": "4752",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000797",
+        "district": 25,
+        "firstName": "Debbie",
+        "fullName": "Rep. Wasserman Schultz, Debbie [D-FL-25]",
+        "isByRequest": "N",
+        "lastName": "Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/W000797?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/text?format=json"
+    },
+    "title": "Reducing Hereditary Cancer Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4752/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-10T08:05:44Z",
+    "updateDateIncludingText": "2026-10-10T08:05:44Z"
+  },
+  "request": {
+    "billNumber": "4752",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

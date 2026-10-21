@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3116/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3116/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 72 (Wednesday, April 30, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McGARVEY:\nH.R. 3116.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H1776]\n</pre>",
+    "introducedDate": "2025-04-30",
+    "latestAction": {
+      "actionDate": "2025-04-30",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3116",
+    "number": "3116",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001220",
+        "district": 3,
+        "firstName": "Morgan",
+        "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+        "isByRequest": "N",
+        "lastName": "McGarvey",
+        "party": "D",
+        "state": "KY",
+        "url": "https://api.congress.gov/v3/member/M001220?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3116/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3116/text?format=json"
+    },
+    "title": "American Sovereign Wealth Fund Exploration Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3116/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-21T12:06:19Z",
+    "updateDateIncludingText": "2025-05-21T12:06:19Z"
+  },
+  "request": {
+    "billNumber": "3116",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

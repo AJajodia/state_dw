@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-27",
+    "latestAction": {
+      "actionDate": "2025-10-27",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S7755-7756; text: CR S7755)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/468",
+    "number": "468",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001061",
+        "firstName": "John",
+        "fullName": "Sen. Hoeven, John [R-ND]",
+        "isByRequest": "N",
+        "lastName": "Hoeven",
+        "party": "R",
+        "state": "ND",
+        "url": "https://api.congress.gov/v3/member/H001061?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/text?format=json"
+    },
+    "title": "A resolution designating October 26, 2025, as the \"Day of the Deployed\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/468/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-10-03T22:04:48Z",
+    "updateDateIncludingText": "2026-10-03T22:04:48Z"
+  },
+  "request": {
+    "billNumber": "468",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

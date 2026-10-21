@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-15",
+    "latestAction": {
+      "actionDate": "2026-05-15",
+      "text": "Referred to the House Committee on Science, Space, and Technology."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1296",
+    "number": "1296",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001206",
+        "district": 25,
+        "firstName": "Joseph",
+        "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+        "isByRequest": "N",
+        "lastName": "Morelle",
+        "middleName": "D.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/M001206?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/text?format=json"
+    },
+    "title": "Expressing support for the designation of May 16, 2026, as the \"National Day of Light\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1296/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:41:21Z",
+    "updateDateIncludingText": "2026-09-19T23:41:21Z"
+  },
+  "request": {
+    "billNumber": "1296",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

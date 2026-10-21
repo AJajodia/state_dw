@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 208 (Wednesday, December 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SALINAS:\nH.R. 6593.\nCongress has the power to enact this legislation pursuant\nto the following:\nPursuant to Article I, Section 8, Clause 3\n[Page H5562]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/cosponsors?format=json"
+    },
+    "introducedDate": "2025-12-10",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6593",
+    "number": "6593",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001226",
+        "district": 6,
+        "firstName": "Andrea",
+        "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+        "isByRequest": "N",
+        "lastName": "Salinas",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/S001226?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/text?format=json"
+    },
+    "title": "Domestic Organic Investment Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6593/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:15Z",
+    "updateDateIncludingText": "2026-09-19T23:39:15Z"
+  },
+  "request": {
+    "billNumber": "6593",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

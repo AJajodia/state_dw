@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-15",
+    "latestAction": {
+      "actionDate": "2025-08-15",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/654",
+    "number": "654",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001067",
+        "district": 9,
+        "firstName": "Yvette",
+        "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+        "isByRequest": "N",
+        "lastName": "Clarke",
+        "middleName": "D.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/C001067?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/text?format=json"
+    },
+    "title": "Expressing the sense of the House of Representatives with respect to Marcus Garvey.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/654/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-09-19T16:58:21Z",
+    "updateDateIncludingText": "2025-09-19T16:58:21Z"
+  },
+  "request": {
+    "billNumber": "654",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

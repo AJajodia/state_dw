@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 77 (Thursday, May 8, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RASKIN:\nH.R. 3306.\nCongress has the power to enact this legislation pursuant\nto the following:\nclause 3 of section 8 of article 1\n[Page H1945]\n</pre>",
+    "cosponsors": {
+      "count": 33,
+      "countIncludingWithdrawnCosponsors": 33,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-08",
+    "latestAction": {
+      "actionDate": "2025-05-08",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3306",
+    "number": "3306",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000606",
+        "district": 8,
+        "firstName": "Jamie",
+        "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+        "isByRequest": "N",
+        "lastName": "Raskin",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/R000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/text?format=json"
+    },
+    "title": "Truth in Tariffs Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3306/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-09T15:25:48Z",
+    "updateDateIncludingText": "2026-06-09T15:25:48Z"
+  },
+  "request": {
+    "billNumber": "3306",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10751/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10751/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 158 (Tuesday, October 6, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BERGMAN:\nH.R. 10751.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution\n[Page H6031]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10751/cosponsors?format=json"
+    },
+    "introducedDate": "2026-10-06",
+    "latestAction": {
+      "actionDate": "2026-10-06",
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10751",
+    "number": "10751",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "B001301",
+        "district": 1,
+        "firstName": "Jack",
+        "fullName": "Rep. Bergman, Jack [R-MI-1]",
+        "isByRequest": "N",
+        "lastName": "Bergman",
+        "party": "R",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/B001301?format=json"
+      }
+    ],
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10751/text?format=json"
+    },
+    "title": "Tribal Oral Health Sovereignty Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10751/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-10T05:53:25Z",
+    "updateDateIncludingText": "2026-10-10T05:53:25Z"
+  },
+  "request": {
+    "billNumber": "10751",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

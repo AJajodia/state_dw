@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 119 (Thursday, July 10, 2025)]\n[House]\n[Pages H3200-H3201]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CASTRO of Texas:\nH.R. 4318.\n[[Page H3201]]\nCongress has the power to enact this legislation pursuant\nto the following:\nConstitutional Authority--Necessary and Proper Clause (Art.\nI, Sec. 8, Clause 18)\nTHE U.S. CONSTITUTION ARTICLE I, SECTION 8: POWERS OF\nCONGRESS CLAUSE 18\nThe Congress shall have power . . . To make all laws which\nshall be necessary and proper for carrying into execution the\nforegoing powers, and all other powers vested by this\nConstitution in the government of the United States, or in\nany department or officer thereof.\n</pre>",
+    "cosponsors": {
+      "count": 59,
+      "countIncludingWithdrawnCosponsors": 59,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4318",
+    "number": "4318",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001091",
+        "district": 20,
+        "firstName": "Joaquin",
+        "fullName": "Rep. Castro, Joaquin [D-TX-20]",
+        "isByRequest": "N",
+        "lastName": "Castro",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001091?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/text?format=json"
+    },
+    "title": "Head Start for Our Future Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4318/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-25T08:06:35Z",
+    "updateDateIncludingText": "2026-09-25T08:06:35Z"
+  },
+  "request": {
+    "billNumber": "4318",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

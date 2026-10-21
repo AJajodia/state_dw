@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 153 (Thursday, September 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLOUD:\nH.R. 5459.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8.\n[Page H4456]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-18",
+    "latestAction": {
+      "actionDate": "2025-09-18",
+      "text": "Referred to the House Committee on Rules."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5459",
+    "number": "5459",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001115",
+        "district": 27,
+        "firstName": "Michael",
+        "fullName": "Rep. Cloud, Michael [R-TX-27]",
+        "isByRequest": "N",
+        "lastName": "Cloud",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001115?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/text?format=json"
+    },
+    "title": "To amend the Legislative Reorganization Act of 1946 to adjust the timing of the Congressional summer adjournment, and other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5459/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-19T09:07:35Z",
+    "updateDateIncludingText": "2025-12-19T09:07:35Z"
+  },
+  "request": {
+    "billNumber": "5459",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

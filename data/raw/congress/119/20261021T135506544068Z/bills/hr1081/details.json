@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MILLS:\nH.R. 1081.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution\nBy Mr. MOOLENAAR;\nH.R. 1082.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 3: To regulate commerce with\nforeign nations, and among the several states, and with the\nIndian tribes;\n[Page H557]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-06",
+    "latestAction": {
+      "actionDate": "2025-02-06",
+      "text": "Referred to the House Committee on Small Business."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1081",
+    "number": "1081",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001216",
+        "district": 7,
+        "firstName": "Cory",
+        "fullName": "Rep. Mills, Cory [R-FL-7]",
+        "isByRequest": "N",
+        "lastName": "Mills",
+        "party": "R",
+        "state": "FL",
+        "url": "https://api.congress.gov/v3/member/M001216?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/text?format=json"
+    },
+    "title": "Preventing SBA Assistance from Going to China Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1081/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-06T13:39:21Z",
+    "updateDateIncludingText": "2025-05-06T13:39:21Z"
+  },
+  "request": {
+    "billNumber": "1081",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

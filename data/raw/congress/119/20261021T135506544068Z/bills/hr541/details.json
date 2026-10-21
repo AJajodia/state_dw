@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TORRES of New York:\nH.R. 541.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H223]\n</pre>",
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-01-16",
+      "text": "Referred to the House Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/541",
+    "number": "541",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000486",
+        "district": 15,
+        "firstName": "Ritchie",
+        "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000486?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/text?format=json"
+    },
+    "title": "To require the Department of Defense to share best practices with, and offer training to, State and local first responders regarding how to most effectively aid victims who experience trauma-related injuries.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/541/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-06T14:17:56Z",
+    "updateDateIncludingText": "2025-06-06T14:17:56Z"
+  },
+  "request": {
+    "billNumber": "541",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

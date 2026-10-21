@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-21",
+    "latestAction": {
+      "actionDate": "2026-07-21",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5057",
+    "number": "5057",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000805",
+        "firstName": "Mark",
+        "fullName": "Sen. Warner, Mark R. [D-VA]",
+        "isByRequest": "N",
+        "lastName": "Warner",
+        "middleName": "R.",
+        "party": "D",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/W000805?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/text?format=json"
+    },
+    "title": "Safeguarding Against Fabricated Exploitation Through Artificial Intelligence Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5057/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-08-11T13:59:48Z",
+    "updateDateIncludingText": "2026-08-11T13:59:48Z"
+  },
+  "request": {
+    "billNumber": "5057",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-03",
+    "latestAction": {
+      "actionDate": "2025-11-03",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3093",
+    "number": "3093",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001227",
+        "firstName": "Eric",
+        "fullName": "Sen. Schmitt, Eric [R-MO]",
+        "isByRequest": "N",
+        "lastName": "Schmitt",
+        "middleName": "S.",
+        "party": "R",
+        "state": "MO",
+        "url": "https://api.congress.gov/v3/member/S001227?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/text?format=json"
+    },
+    "title": "DETECT Nitazenes Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/3093/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-17T11:03:28Z",
+    "updateDateIncludingText": "2026-09-17T11:03:28Z"
+  },
+  "request": {
+    "billNumber": "3093",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

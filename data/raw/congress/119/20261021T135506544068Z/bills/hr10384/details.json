@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10384/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10384/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 145 (Tuesday, September 15, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. KAPTUR:\nH.R. 10384.\nCongress has the power to enact this legislation pursuant\nto the following:\n[Page H5831]\n</pre>",
+    "introducedDate": "2026-09-15",
+    "latestAction": {
+      "actionDate": "2026-09-15",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10384",
+    "number": "10384",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Water Resources Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000009",
+        "district": 9,
+        "firstName": "Marcy",
+        "fullName": "Rep. Kaptur, Marcy [D-OH-9]",
+        "isByRequest": "N",
+        "lastName": "Kaptur",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/K000009?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10384/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10384/text?format=json"
+    },
+    "title": "To authorize the Secretary of the Army to conduct a study to determine the feasibility of carrying out a project for flood risk management, including riverbank stabilization, ecosystem restoration, and recreation, along the Maumee River in the vicinity of Glass City Riverwalk, Toledo, Ohio, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10384/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-29T16:21:04Z",
+    "updateDateIncludingText": "2026-09-29T16:21:04Z"
+  },
+  "request": {
+    "billNumber": "10384",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

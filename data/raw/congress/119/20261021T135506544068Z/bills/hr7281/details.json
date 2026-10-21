@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 22 (Friday, January 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARSON:\nH.R. 7281.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of section 8 of Article I of the Constitution.\n[Page H1922]\n</pre>",
+    "cosponsors": {
+      "count": 21,
+      "countIncludingWithdrawnCosponsors": 21,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-30",
+    "latestAction": {
+      "actionDate": "2026-01-30",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7281",
+    "number": "7281",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001072",
+        "district": 7,
+        "firstName": "Andr\u00e9",
+        "fullName": "Rep. Carson, Andr\u00e9 [D-IN-7]",
+        "isByRequest": "N",
+        "lastName": "Carson",
+        "party": "D",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/C001072?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/text?format=json"
+    },
+    "title": "Justice for Shireen Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7281/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:37:13Z",
+    "updateDateIncludingText": "2026-09-19T23:37:13Z"
+  },
+  "request": {
+    "billNumber": "7281",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

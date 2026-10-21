@@ -1,0 +1,89 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Financial Services on May 6, 2025",
+        "pubDate": "2025-09-24T20:43:00Z",
+        "title": "H.R. 976, 1071 Repeal to Protect Small Business Lending Act",
+        "url": "https://www.cbo.gov/publication/61771"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-91",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/91?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILLIAMS of Texas:\nH.R. 976.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the Constitution of the United\nStates.\n[Page H461]\n</pre>",
+    "cosponsors": {
+      "count": 52,
+      "countIncludingWithdrawnCosponsors": 52,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-04",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Placed on the Union Calendar, Calendar No. 65."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/976",
+    "number": "976",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000816",
+        "district": 25,
+        "firstName": "Roger",
+        "fullName": "Rep. Williams, Roger [R-TX-25]",
+        "isByRequest": "N",
+        "lastName": "Williams",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/W000816?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/text?format=json"
+    },
+    "title": "1071 Repeal to Protect Small Business Lending Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/976/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-06T07:05:00Z",
+    "updateDateIncludingText": "2025-12-06T07:05:00Z"
+  },
+  "request": {
+    "billNumber": "976",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

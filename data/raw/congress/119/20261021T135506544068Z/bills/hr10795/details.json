@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10795/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10795/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 160 (Tuesday, October 13, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BAIRD:\nH.R. 10795.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 3 (Commerce Clause)\n[Page H6040]\n</pre>",
+    "introducedDate": "2026-10-13",
+    "latestAction": {
+      "actionDate": "2026-10-13",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10795",
+    "number": "10795",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001307",
+        "district": 4,
+        "firstName": "James",
+        "fullName": "Rep. Baird, James R. [R-IN-4]",
+        "isByRequest": "N",
+        "lastName": "Baird",
+        "middleName": "R.",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/B001307?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10795/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10795/text?format=json"
+    },
+    "title": "Sudan IMPACT Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10795/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-20T17:28:57Z",
+    "updateDateIncludingText": "2026-10-20T17:28:57Z"
+  },
+  "request": {
+    "billNumber": "10795",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 152 (Wednesday, September 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. De La CRUZ:\nH.R. 5429.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4411]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-17",
+    "latestAction": {
+      "actionDate": "2025-10-01",
+      "text": "Referred to the Subcommittee on Economic Opportunity."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5429",
+    "number": "5429",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000594",
+        "district": 15,
+        "firstName": "Monica",
+        "fullName": "Rep. De La Cruz, Monica [R-TX-15]",
+        "isByRequest": "N",
+        "lastName": "De La Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/D000594?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/text?format=json"
+    },
+    "title": "HUD-USDA-VA Interagency Coordination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5429/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-06-11T23:26:31Z",
+    "updateDateIncludingText": "2026-06-11T23:26:31Z"
+  },
+  "request": {
+    "billNumber": "5429",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

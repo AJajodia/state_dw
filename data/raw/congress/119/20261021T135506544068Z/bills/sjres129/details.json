@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-03-17",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Motion to proceed to consideration of measure rejected in Senate by Voice Vote. (consideration: CR S2271)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/129",
+    "number": "129",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001113",
+        "firstName": "Catherine",
+        "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Cortez Masto",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/C001113?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/text?format=json"
+    },
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"The Fair Credit Reporting Act's Limited Preemption of State Laws\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/129/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-05-15T17:06:03Z",
+    "updateDateIncludingText": "2026-05-15T17:06:03Z"
+  },
+  "request": {
+    "billNumber": "129",
+    "billType": "sjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

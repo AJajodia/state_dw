@@ -1,0 +1,55 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "H001103",
+      "district": 0,
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jose",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "PR",
+      "url": "https://api.congress.gov/v3/member/H001103?format=json"
+    },
+    {
+      "bioguideId": "P000610",
+      "district": 0,
+      "firstName": "Stacey",
+      "fullName": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Plaskett",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "VI",
+      "url": "https://api.congress.gov/v3/member/P000610?format=json"
+    },
+    {
+      "bioguideId": "M001219",
+      "district": 0,
+      "firstName": "James",
+      "fullName": "Del. Moylan, James C. [R-GU-At Large]",
+      "isOriginalCosponsor": true,
+      "lastName": "Moylan",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-07-10",
+      "state": "GU",
+      "url": "https://api.congress.gov/v3/member/M001219?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "4339",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4339?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

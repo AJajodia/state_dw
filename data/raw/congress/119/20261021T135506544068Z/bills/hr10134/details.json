@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10134/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10134/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 134 (Thursday, August 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SCHOLTEN:\nH.R. 10134.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H5249]\n</pre>",
+    "introducedDate": "2026-08-20",
+    "latestAction": {
+      "actionDate": "2026-08-20",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10134",
+    "number": "10134",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001221",
+        "district": 3,
+        "firstName": "Hillary",
+        "fullName": "Rep. Scholten, Hillary J. [D-MI-3]",
+        "isByRequest": "N",
+        "lastName": "Scholten",
+        "middleName": "J.",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/S001221?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10134/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10134/text?format=json"
+    },
+    "title": "Local Health Care Protection Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10134/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-24T13:20:51Z",
+    "updateDateIncludingText": "2026-08-24T13:20:51Z"
+  },
+  "request": {
+    "billNumber": "10134",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

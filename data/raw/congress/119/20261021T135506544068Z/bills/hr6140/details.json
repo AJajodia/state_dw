@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 195 (Wednesday, November 19, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GILL of Texas:\nH.R. 6140.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H4817]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-19",
+    "latestAction": {
+      "actionDate": "2025-11-19",
+      "text": "Referred to the House Committee on the Budget."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6140",
+    "number": "6140",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000603",
+        "district": 26,
+        "firstName": "Brandon",
+        "fullName": "Rep. Gill, Brandon [R-TX-26]",
+        "isByRequest": "N",
+        "lastName": "Gill",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/G000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/text?format=json"
+    },
+    "title": "Congressional Budget Office Scheduling Reform Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6140/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-08T19:31:27Z",
+    "updateDateIncludingText": "2026-09-08T19:31:27Z"
+  },
+  "request": {
+    "billNumber": "6140",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

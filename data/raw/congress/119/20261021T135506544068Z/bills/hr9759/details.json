@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/actions?format=json"
+    },
+    "committees": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 116 (Thursday, July 16, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PAPPAS:\nH.R. 9759.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18 of the United States\nConstitution states that ``Congress shall have the authority\nto make all Laws which shall be necessary and proper for\ncarrying into Execution the foregoing Powers, and all other\nPowers vested by the Constitution in the Government of the\nUnited States or in any Department of Office thereof.''\n[Page H4624]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-16",
+    "latestAction": {
+      "actionDate": "2026-07-16",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, the Judiciary, Oversight and Government Reform, Education and Workforce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9759",
+    "number": "9759",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000614",
+        "district": 1,
+        "firstName": "Chris",
+        "fullName": "Rep. Pappas, Chris [D-NH-1]",
+        "isByRequest": "N",
+        "lastName": "Pappas",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/P000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/text?format=json"
+    },
+    "title": "Turn the Tide Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9759/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-17T18:22:11Z",
+    "updateDateIncludingText": "2026-08-17T18:22:11Z"
+  },
+  "request": {
+    "billNumber": "9759",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

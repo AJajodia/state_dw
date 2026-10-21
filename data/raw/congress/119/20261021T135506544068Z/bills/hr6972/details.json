@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 4 (Wednesday, January 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMUCKER:\nH.R. 6972.\nCongress has the power to enact this legislation pursuant\nto the following:\nSection VIII of Article I of the U.S. Constitution\n[Page H135]\n</pre>",
+    "cosponsors": {
+      "count": 19,
+      "countIncludingWithdrawnCosponsors": 19,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-07",
+    "latestAction": {
+      "actionDate": "2026-01-07",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6972",
+    "number": "6972",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001199",
+        "district": 11,
+        "firstName": "Lloyd",
+        "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+        "isByRequest": "N",
+        "lastName": "Smucker",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/S001199?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/text?format=json"
+    },
+    "title": "Reporting Accountability and Abuse Prevention Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6972/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-02-11T09:06:11Z",
+    "updateDateIncludingText": "2026-02-11T09:06:11Z"
+  },
+  "request": {
+    "billNumber": "6972",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

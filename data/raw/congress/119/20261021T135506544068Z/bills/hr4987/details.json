@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 138 (Friday, August 15, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. PINGREE:\nH.R. 4987.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3699]\n</pre>",
+    "cosponsors": {
+      "count": 10,
+      "countIncludingWithdrawnCosponsors": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/cosponsors?format=json"
+    },
+    "introducedDate": "2025-08-15",
+    "latestAction": {
+      "actionDate": "2026-01-13",
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4987",
+    "number": "4987",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000597",
+        "district": 1,
+        "firstName": "Chellie",
+        "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+        "isByRequest": "N",
+        "lastName": "Pingree",
+        "party": "D",
+        "state": "ME",
+        "url": "https://api.congress.gov/v3/member/P000597?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/text?format=json"
+    },
+    "title": "Food Date Labeling Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4987/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:48Z",
+    "updateDateIncludingText": "2026-09-19T23:39:48Z"
+  },
+  "request": {
+    "billNumber": "4987",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

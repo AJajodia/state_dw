@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2025-06-17",
+      "text": "Read twice and referred to the Committee on Veterans' Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2096",
+    "number": "2096",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000802",
+        "firstName": "Sheldon",
+        "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/W000802?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 15,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/text?format=json"
+    },
+    "title": "Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Reduce Veteran Suicide Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2096/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-06-19T11:03:25Z",
+    "updateDateIncludingText": "2026-06-19T11:03:25Z"
+  },
+  "request": {
+    "billNumber": "2096",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

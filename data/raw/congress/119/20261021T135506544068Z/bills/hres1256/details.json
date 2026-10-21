@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-04",
+    "latestAction": {
+      "actionDate": "2026-05-04",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1256",
+    "number": "1256",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000595",
+        "district": 5,
+        "firstName": "Julia",
+        "fullName": "Rep. Letlow, Julia [R-LA-5]",
+        "isByRequest": "N",
+        "lastName": "Letlow",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/L000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/text?format=json"
+    },
+    "title": "Expressing support for the designation of May 6, 2026, as \"National Maternal Mental Health Awareness Day\" and prioritizing the goals and ideals of raising awareness and understanding of maternal mental health conditions.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1256/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-19T23:31:23Z",
+    "updateDateIncludingText": "2026-09-19T23:31:23Z"
+  },
+  "request": {
+    "billNumber": "1256",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

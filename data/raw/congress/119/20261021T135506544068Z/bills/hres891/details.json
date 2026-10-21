@@ -1,0 +1,74 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 38,
+      "countIncludingWithdrawnCosponsors": 38,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-18",
+    "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/891",
+    "number": "891",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001086",
+        "district": 1,
+        "firstName": "Diana",
+        "fullName": "Rep. Harshbarger, Diana [R-TN-1]",
+        "isByRequest": "N",
+        "lastName": "Harshbarger",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/H001086?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/text?format=json"
+    },
+    "title": "Supporting the goals and ideals of \"National Rural Health Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/891/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-30T19:37:00Z",
+    "updateDateIncludingText": "2026-09-30T19:37:00Z"
+  },
+  "request": {
+    "billNumber": "891",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

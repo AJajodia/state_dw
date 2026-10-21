@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-24",
+    "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S3217)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/791",
+    "number": "791",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "firstName": "Jacky",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "isByRequest": "N",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/R000608?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/text?format=json"
+    },
+    "title": "A resolution condemning the People's Republic of China's Ethnic Unity and Progress Law, concerned with its implications on the rights and freedoms, as well as survival of the identity, of Tibetans, Uyghurs, Mongolians, and other affected communities, and calling on the Government of the People's Republic of China to end its abuses and campaigns of transnational repression that undermine United States sovereignty and threaten the safety and freedoms of people in the United States.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/791/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-18T16:32:07Z",
+    "updateDateIncludingText": "2026-08-18T16:32:07Z"
+  },
+  "request": {
+    "billNumber": "791",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

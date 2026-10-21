@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-10-28",
+    "latestAction": {
+      "actionDate": "2025-10-28",
+      "text": "Read twice and referred to the Committee on Appropriations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3066",
+    "number": "3066",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "isByRequest": "N",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/K000393?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/text?format=json"
+    },
+    "title": "Pay the People Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3066/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-07-06T13:52:40Z",
+    "updateDateIncludingText": "2026-07-06T13:52:40Z"
+  },
+  "request": {
+    "billNumber": "3066",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

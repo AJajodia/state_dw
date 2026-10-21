@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8670/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8670/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 78 (Thursday, May 7, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SHERMAN:\nH.R. 8670.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the US Constitution providing\nCongress with the power to regulate commerce.\n[Page H3342]\n</pre>",
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-05-07",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8670",
+    "number": "8670",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000344",
+        "district": 32,
+        "firstName": "Brad",
+        "fullName": "Rep. Sherman, Brad [D-CA-32]",
+        "isByRequest": "N",
+        "lastName": "Sherman",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/S000344?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8670/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8670/text?format=json"
+    },
+    "title": "Stop Oil Exports to Lower Gas Prices Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8670/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:31:57Z",
+    "updateDateIncludingText": "2026-09-19T23:31:57Z"
+  },
+  "request": {
+    "billNumber": "8670",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

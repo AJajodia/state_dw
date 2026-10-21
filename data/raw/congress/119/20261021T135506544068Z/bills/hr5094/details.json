@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 143 (Tuesday, September 2, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. PAPPAS:\nH.R. 5094.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18 of the United States\nConstitution states that ``Congress shall have the authority\nto make all Laws which shall be necessary and proper for\ncarrying into Execution the foregoing Powers, and all other\nPowers vested by the Constitution in the Government of the\nUnited States, or in any Department or Officer thereof.''\n[Page H3757]\n</pre>",
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-02",
+    "latestAction": {
+      "actionDate": "2025-09-02",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5094",
+    "number": "5094",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000614",
+        "district": 1,
+        "firstName": "Chris",
+        "fullName": "Rep. Pappas, Chris [D-NH-1]",
+        "isByRequest": "N",
+        "lastName": "Pappas",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/P000614?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/text?format=json"
+    },
+    "title": "Protect Patients from Costly Care Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5094/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T22:53:36Z",
+    "updateDateIncludingText": "2025-12-05T22:53:36Z"
+  },
+  "request": {
+    "billNumber": "5094",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

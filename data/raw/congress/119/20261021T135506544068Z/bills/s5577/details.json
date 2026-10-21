@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-29",
+    "latestAction": {
+      "actionDate": "2026-09-29",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5577",
+    "number": "5577",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001042",
+        "firstName": "Mazie",
+        "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+        "isByRequest": "N",
+        "lastName": "Hirono",
+        "middleName": "K.",
+        "party": "D",
+        "state": "HI",
+        "url": "https://api.congress.gov/v3/member/H001042?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/text?format=json"
+    },
+    "title": "A bill to amend the Federal Water Pollution Control Act to provide grants to upgrade or convert small-capacity cesspools for households in the State of Hawaii.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5577/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-15T20:29:05Z",
+    "updateDateIncludingText": "2026-10-15T20:29:05Z"
+  },
+  "request": {
+    "billNumber": "5577",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

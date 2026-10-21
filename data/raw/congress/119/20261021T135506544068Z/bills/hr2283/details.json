@@ -1,0 +1,89 @@
+{
+  "bill": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Veterans\u2019 Affairs on May 14, 2026",
+        "pubDate": "2026-06-18T18:16:00Z",
+        "title": "H.R. 2283, Recognizing Community Organizations for Veteran Engagement and Recovery Act",
+        "url": "https://www.cbo.gov/publication/62453"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-839",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/839?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)]\n[House]\n[Pages H1218-H1219]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BOST:\nH.R. 2283.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States\nConstitution,which states: ``[t]he Congress shall have power\nto lay and collect taxes, duties, imposts and excises, to pay\nthe debts\n[[Page H1219]]\nand provide for the common defense and general welfare of the\nUnited States; but all duties, imposts and excises shall be\nuniform throughout the United States''\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-24",
+    "latestAction": {
+      "actionDate": "2026-10-05",
+      "text": "Placed on the Union Calendar, Calendar No. 736."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2283",
+    "number": "2283",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001295",
+        "district": 12,
+        "firstName": "Mike",
+        "fullName": "Rep. Bost, Mike [R-IL-12]",
+        "isByRequest": "N",
+        "lastName": "Bost",
+        "party": "R",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/B001295?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/text?format=json"
+    },
+    "title": "Recognizing Community Organizations for Veteran Engagement and Recovery Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2283/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-09T22:43:46Z",
+    "updateDateIncludingText": "2026-10-09T22:43:46Z"
+  },
+  "request": {
+    "billNumber": "2283",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

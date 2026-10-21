@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 37 (Wednesday, February 25, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. GILLEN:\nH.R. 7679.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H2329]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-25",
+    "latestAction": {
+      "actionDate": "2026-02-26",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7679",
+    "number": "7679",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000602",
+        "district": 4,
+        "firstName": "Laura",
+        "fullName": "Rep. Gillen, Laura [D-NY-4]",
+        "isByRequest": "N",
+        "lastName": "Gillen",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/G000602?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/text?format=json"
+    },
+    "title": "CAR SEAT Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7679/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-04T08:06:11Z",
+    "updateDateIncludingText": "2026-09-04T08:06:11Z"
+  },
+  "request": {
+    "billNumber": "7679",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

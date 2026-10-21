@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/cosponsors?format=json"
+    },
+    "introducedDate": "2026-09-30",
+    "latestAction": {
+      "actionDate": "2026-09-30",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5630",
+    "number": "5630",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001267",
+        "firstName": "Michael",
+        "fullName": "Sen. Bennet, Michael F. [D-CO]",
+        "isByRequest": "N",
+        "lastName": "Bennet",
+        "party": "D",
+        "state": "CO",
+        "url": "https://api.congress.gov/v3/member/B001267?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/text?format=json"
+    },
+    "title": "Stop Orphaned Wells Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/5630/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-14T19:14:48Z",
+    "updateDateIncludingText": "2026-10-14T19:14:48Z"
+  },
+  "request": {
+    "billNumber": "5630",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

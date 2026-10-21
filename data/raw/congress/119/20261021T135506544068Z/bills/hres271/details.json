@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-31",
+    "latestAction": {
+      "actionDate": "2025-03-31",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/271",
+    "number": "271",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001112",
+        "district": 24,
+        "firstName": "Salud",
+        "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+        "isByRequest": "N",
+        "lastName": "Carbajal",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001112?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/text?format=json"
+    },
+    "title": "Honoring the accomplishments and legacy of C\u00e9sar Estrada Ch\u00e1vez.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/271/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-04-04T08:06:17Z",
+    "updateDateIncludingText": "2025-04-04T08:06:17Z"
+  },
+  "request": {
+    "billNumber": "271",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 22,
+      "countIncludingWithdrawnCosponsors": 22,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/cosponsors?format=json"
+    },
+    "introducedDate": "2025-10-22",
+    "latestAction": {
+      "actionDate": "2025-10-22",
+      "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 204."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3030",
+    "number": "3030",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001198",
+        "firstName": "Dan",
+        "fullName": "Sen. Sullivan, Dan [R-AK]",
+        "isByRequest": "N",
+        "lastName": "Sullivan",
+        "party": "R",
+        "state": "AK",
+        "url": "https://api.congress.gov/v3/member/S001198?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/text?format=json"
+    },
+    "title": "Pay Our Military Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3030/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-10-30T11:03:14Z",
+    "updateDateIncludingText": "2025-10-30T11:03:14Z"
+  },
+  "request": {
+    "billNumber": "3030",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

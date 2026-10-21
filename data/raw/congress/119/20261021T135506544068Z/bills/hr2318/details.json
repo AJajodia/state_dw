@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2318/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2318/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 54 (Tuesday, March 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. ANSARI:\nH.R. 2318.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section VIII\n[Page H1274]\n</pre>",
+    "introducedDate": "2025-03-25",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2318",
+    "number": "2318",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000381",
+        "district": 3,
+        "firstName": "Yassamin",
+        "fullName": "Rep. Ansari, Yassamin [D-AZ-3]",
+        "isByRequest": "N",
+        "lastName": "Ansari",
+        "party": "D",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/A000381?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2318/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2318/text?format=json"
+    },
+    "title": "Electronic Permitting Modernization Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2318/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-14T15:24:40Z",
+    "updateDateIncludingText": "2025-05-14T15:24:40Z"
+  },
+  "request": {
+    "billNumber": "2318",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

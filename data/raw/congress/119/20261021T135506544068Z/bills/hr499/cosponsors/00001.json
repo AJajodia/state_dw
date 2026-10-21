@@ -1,0 +1,151 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "G000589",
+      "district": 5,
+      "firstName": "Lance",
+      "fullName": "Rep. Gooden, Lance [R-TX-5]",
+      "isOriginalCosponsor": true,
+      "lastName": "Gooden",
+      "party": "R",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000589?format=json"
+    },
+    {
+      "bioguideId": "G000587",
+      "district": 29,
+      "firstName": "Sylvia",
+      "fullName": "Rep. Garcia, Sylvia R. [D-TX-29]",
+      "isOriginalCosponsor": true,
+      "lastName": "Garcia",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000587?format=json"
+    },
+    {
+      "bioguideId": "C001091",
+      "district": 20,
+      "firstName": "Joaquin",
+      "fullName": "Rep. Castro, Joaquin [D-TX-20]",
+      "isOriginalCosponsor": true,
+      "lastName": "Castro",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001091?format=json"
+    },
+    {
+      "bioguideId": "C001063",
+      "district": 28,
+      "firstName": "Henry",
+      "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+      "isOriginalCosponsor": true,
+      "lastName": "Cuellar",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/C001063?format=json"
+    },
+    {
+      "bioguideId": "G000553",
+      "district": 9,
+      "firstName": "Al",
+      "fullName": "Rep. Green, Al [D-TX-9]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000553?format=json"
+    },
+    {
+      "bioguideId": "E000299",
+      "district": 16,
+      "firstName": "Veronica",
+      "fullName": "Rep. Escobar, Veronica [D-TX-16]",
+      "isOriginalCosponsor": true,
+      "lastName": "Escobar",
+      "party": "D",
+      "sponsorshipDate": "2025-01-16",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/E000299?format=json"
+    },
+    {
+      "bioguideId": "T000489",
+      "district": 18,
+      "firstName": "Sylvester",
+      "fullName": "Rep. Turner, Sylvester [D-TX-18]",
+      "isOriginalCosponsor": false,
+      "lastName": "Turner",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/T000489?format=json"
+    },
+    {
+      "bioguideId": "G000581",
+      "district": 34,
+      "firstName": "Vicente",
+      "fullName": "Rep. Gonzalez, Vicente [D-TX-34]",
+      "isOriginalCosponsor": false,
+      "lastName": "Gonzalez",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/G000581?format=json"
+    },
+    {
+      "bioguideId": "F000468",
+      "district": 7,
+      "firstName": "Lizzie",
+      "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+      "isOriginalCosponsor": false,
+      "lastName": "Fletcher",
+      "party": "D",
+      "sponsorshipDate": "2025-01-23",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/F000468?format=json"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": 33,
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": false,
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-01-28",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/V000131?format=json"
+    },
+    {
+      "bioguideId": "A000375",
+      "district": 19,
+      "firstName": "Jodey",
+      "fullName": "Rep. Arrington, Jodey C. [R-TX-19]",
+      "isOriginalCosponsor": false,
+      "lastName": "Arrington",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "TX",
+      "url": "https://api.congress.gov/v3/member/A000375?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 11,
+    "countIncludingWithdrawnCosponsors": 11
+  },
+  "request": {
+    "billNumber": "499",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/499?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

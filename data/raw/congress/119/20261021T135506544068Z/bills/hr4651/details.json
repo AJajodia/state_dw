@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/actions?format=json"
+    },
+    "committees": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ESPAILLAT:\nH.R. 4651.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\nThe Congress shall have Power to . . . provide for the . .\n. general Welfare of the United States; . . .\n[Page H3648]\n</pre>",
+    "cosponsors": {
+      "count": 14,
+      "countIncludingWithdrawnCosponsors": 14,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4651",
+    "number": "4651",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000297",
+        "district": 13,
+        "firstName": "Adriano",
+        "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+        "isByRequest": "N",
+        "lastName": "Espaillat",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/E000297?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/text?format=json"
+    },
+    "title": "Immigration Enforcement Staff Body Camera Accountability Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4651/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-02T08:05:41Z",
+    "updateDateIncludingText": "2026-10-02T08:05:41Z"
+  },
+  "request": {
+    "billNumber": "4651",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

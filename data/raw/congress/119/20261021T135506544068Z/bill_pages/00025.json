@@ -1,0 +1,4020 @@
+{
+  "bills": [
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-14",
+      "latestAction": {
+        "actionDate": "2025-05-14",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1766",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Protect Our Heroes Act of 2025",
+      "type": "S",
+      "updateDate": "2026-10-01",
+      "updateDateIncludingText": "2026-10-01",
+      "url": "https://api.congress.gov/v3/bill/119/s/1766?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-14",
+      "latestAction": {
+        "actionDate": "2025-05-14",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1771",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Larry Henderson Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1771?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-14",
+      "latestAction": {
+        "actionDate": "2025-05-14",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1753",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "End Price Gouging for Medications Act",
+      "type": "S",
+      "updateDate": "2026-05-30",
+      "updateDateIncludingText": "2026-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/s/1753?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "3432",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "TDS Research Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-05-28",
+      "updateDateIncludingText": "2025-05-28",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3432?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "number": "3440",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Traffic Safety Enhancement Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-09-27",
+      "updateDateIncludingText": "2025-09-27",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3440?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3458",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Strong Communities Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-10",
+      "updateDateIncludingText": "2026-10-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3458?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3436",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Law Enforcement Education Grant Program Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-01-09",
+      "updateDateIncludingText": "2026-01-09",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3436?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "number": "420",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Supporting the designation of May 16, 2025, as \"Endangered Species Day\".",
+      "type": "HRES",
+      "updateDate": "2026-05-29",
+      "updateDateIncludingText": "2026-05-29",
+      "url": "https://api.congress.gov/v3/bill/119/hres/420?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3442",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "SNAP Administrator Retention Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3442?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "number": "3445",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Bureau of Consumer Financial Protection Commission Act",
+      "type": "HR",
+      "updateDate": "2026-05-18",
+      "updateDateIncludingText": "2026-05-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3445?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "number": "3451",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Bonneville Shoreline Trail.",
+      "type": "HR",
+      "updateDate": "2026-08-05",
+      "updateDateIncludingText": "2026-08-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3451?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3438",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Fair Wage Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-08-30",
+      "updateDateIncludingText": "2025-08-30",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3438?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "number": "3421",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Gunnison Outdoor Resources Protection Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-10",
+      "updateDateIncludingText": "2025-12-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3421?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3456",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "CHER Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-06-20",
+      "updateDateIncludingText": "2025-06-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3456?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3430",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "SRO Funding Protection Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-07-21",
+      "updateDateIncludingText": "2025-07-21",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3430?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "423",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for the designation of May 2025 as \"National Physical Fitness and Sports Month\".",
+      "type": "HRES",
+      "updateDate": "2026-09-23",
+      "updateDateIncludingText": "2026-09-23",
+      "url": "https://api.congress.gov/v3/bill/119/hres/423?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3452",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Six Assurances to Taiwan Act",
+      "type": "HR",
+      "updateDate": "2026-10-06",
+      "updateDateIncludingText": "2026-10-06",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3452?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "number": "3461",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Confronting CCP Human Rights Abusers Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3461?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3454",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protecting Our Constitution and Communities Act",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3454?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on House Administration."
+      },
+      "number": "418",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Ride-Along Resolution",
+      "type": "HRES",
+      "updateDate": "2026-09-01",
+      "updateDateIncludingText": "2026-09-01",
+      "url": "https://api.congress.gov/v3/bill/119/hres/418?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "number": "3459",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Empty Lots to Housing Act",
+      "type": "HR",
+      "updateDate": "2026-09-22",
+      "updateDateIncludingText": "2026-09-22",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3459?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "415",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Impeaching Donald John Trump, President of the United States, of high crimes and misdemeanors.",
+      "type": "HRES",
+      "updateDate": "2025-06-23",
+      "updateDateIncludingText": "2025-06-23",
+      "url": "https://api.congress.gov/v3/bill/119/hres/415?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "number": "3434",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protecting AI and Cloud Competition in Defense Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3434?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3460",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "AI Whistleblower Protection Act",
+      "type": "HR",
+      "updateDate": "2026-10-20",
+      "updateDateIncludingText": "2026-10-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3460?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3450",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Internal Revenue Code of 1986 to provide for special rules allowing taxpayers to deduct qualified passenger vehicle loan interest paid or accrued during the taxable year on certain indebtedness, and for other purposes.",
+      "type": "HR",
+      "updateDate": "2025-07-03",
+      "updateDateIncludingText": "2025-07-03",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3450?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "number": "97",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Emirates of certain defense articles and services.",
+      "type": "HJRES",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hjres/97?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "414",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Recognizing that the United States has a moral and legal obligation to provide reparations for the crime of enslavement of Africans and its lasting harm on the lives of millions of Black people in the United States.",
+      "type": "HRES",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/hres/414?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3462",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "They\u2019re Fast, We\u2019re Furious Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-05-28",
+      "updateDateIncludingText": "2025-05-28",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3462?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3443",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "When Minutes Count for Emergency Medical Patients Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3443?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "number": "3431",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Green Energy for Federal Buildings Act",
+      "type": "HR",
+      "updateDate": "2025-06-04",
+      "updateDateIncludingText": "2025-06-04",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3431?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Education and Workforce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3465",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Civilian Conservation Center Enhancement Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-08-25",
+      "updateDateIncludingText": "2026-08-25",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3465?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "421",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Resolution memorializing law enforcement officers killed in the line of duty.",
+      "type": "HRES",
+      "updateDate": "2026-05-07",
+      "updateDateIncludingText": "2026-05-07",
+      "url": "https://api.congress.gov/v3/bill/119/hres/421?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3437",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Insurance Data Protection Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3437?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "number": "3433",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "WILD Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-06-18",
+      "updateDateIncludingText": "2025-06-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3433?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3457",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Food Security Act of 1985 with respect to the feral swine eradication and control program, and for other purposes.",
+      "type": "HR",
+      "updateDate": "2026-07-07",
+      "updateDateIncludingText": "2026-07-07",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3457?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "number": "3435",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Federal Cyber Workforce Training Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-10-22",
+      "updateDateIncludingText": "2025-10-22",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3435?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "416",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for the goals and ideals of \"National Hypertension Awareness Month\".",
+      "type": "HRES",
+      "updateDate": "2026-09-23",
+      "updateDateIncludingText": "2026-09-23",
+      "url": "https://api.congress.gov/v3/bill/119/hres/416?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "number": "417",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Commemorating the National Science Foundation's 75th anniversary.",
+      "type": "HRES",
+      "updateDate": "2025-06-28",
+      "updateDateIncludingText": "2025-06-28",
+      "url": "https://api.congress.gov/v3/bill/119/hres/417?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "number": "96",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Providing for congressional disapproval of the proposed military sale to the Government of the United Arab Emirates of certain defense articles and services.",
+      "type": "HJRES",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hjres/96?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+      },
+      "number": "3439",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Defund Cities that Defund the Police Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-06-12",
+      "updateDateIncludingText": "2025-06-12",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3439?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "419",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for the designation of May 17, 2025, as \"DIPG Awareness Day\" to raise awareness and encourage research into cures for diffuse intrinsic pontine glioma (DIPG) and pediatric cancers in general.",
+      "type": "HRES",
+      "updateDate": "2026-05-29",
+      "updateDateIncludingText": "2026-05-29",
+      "url": "https://api.congress.gov/v3/bill/119/hres/419?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3471",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Certified Nursing Assistant Workforce Improvement Act",
+      "type": "HR",
+      "updateDate": "2025-06-24",
+      "updateDateIncludingText": "2025-06-24",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3471?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "422",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for recognizing the month of May as \"Excellence in Education: Merit Day Celebration\".",
+      "type": "HRES",
+      "updateDate": "2025-07-21",
+      "updateDateIncludingText": "2025-07-21",
+      "url": "https://api.congress.gov/v3/bill/119/hres/422?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3448",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "LIP Enhancement Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3448?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3469",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Tax Relief for Victims of Crimes, Scams, and Disasters Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3469?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1781",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "LIP Enhancement Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1781?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "1779",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "LOCOMOTIVES Act",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1779?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "number": "52",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Emirates of certain defense articles and services.",
+      "type": "SJRES",
+      "updateDate": "2025-08-13",
+      "updateDateIncludingText": "2025-08-13",
+      "url": "https://api.congress.gov/v3/bill/119/sjres/52?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1778",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Countering Chinese Espionage Reporting Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1778?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1796",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "HART Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1796?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1774",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Protecting Minors in Federal Health Plans Act",
+      "type": "S",
+      "updateDate": "2025-05-30",
+      "updateDateIncludingText": "2025-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/s/1774?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1790",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "State Border Security Assistance Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1790?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1773",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Tax Relief for Victims of Crimes, Scams, and Disasters Act",
+      "type": "S",
+      "updateDate": "2026-06-25",
+      "updateDateIncludingText": "2026-06-25",
+      "url": "https://api.congress.gov/v3/bill/119/s/1773?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "number": "1798",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Autonomous Vehicle Acceleration Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1798?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1795",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Empower Charter School Educators to Lead Act",
+      "type": "S",
+      "updateDate": "2026-04-02",
+      "updateDateIncludingText": "2026-04-02",
+      "url": "https://api.congress.gov/v3/bill/119/s/1795?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Armed Services."
+      },
+      "number": "1775",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Protecting AI and Cloud Competition in Defense Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1775?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1793",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "COUNTER Act",
+      "type": "S",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/s/1793?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2948; text: CR S2954)"
+      },
+      "number": "231",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution recognizing the roles and contributions of the teachers of the United States in building and enhancing the civic, cultural, and economic well-being of the United States.",
+      "type": "SRES",
+      "updateDate": "2026-05-21",
+      "updateDateIncludingText": "2026-05-21",
+      "url": "https://api.congress.gov/v3/bill/119/sres/231?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1794",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "SNAP Next Step Act of 2025",
+      "type": "S",
+      "updateDate": "2026-01-05",
+      "updateDateIncludingText": "2026-01-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1794?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2948; text: CR S2955)"
+      },
+      "number": "233",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution commending and congratulating the University of Florida men's basketball team for winning the 2025 National Collegiate Athletic Association Men's Basketball Championship.",
+      "type": "SRES",
+      "updateDate": "2025-06-04",
+      "updateDateIncludingText": "2025-06-04",
+      "url": "https://api.congress.gov/v3/bill/119/sres/233?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1785",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "No Handouts for Drug Advertisements Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1785?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Finance. (text: CR S2954)"
+      },
+      "number": "1797",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Expanding Seniors Access to Mental Health Services Act",
+      "type": "S",
+      "updateDate": "2026-06-17",
+      "updateDateIncludingText": "2026-06-17",
+      "url": "https://api.congress.gov/v3/bill/119/s/1797?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2948; text: CR S2954-2955)"
+      },
+      "number": "232",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution designating May 2025 as \"National Brain Tumor Awareness Month\".",
+      "type": "SRES",
+      "updateDate": "2026-09-23",
+      "updateDateIncludingText": "2026-09-23",
+      "url": "https://api.congress.gov/v3/bill/119/sres/232?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1789",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Training and Nutrition Stability Act of 2025",
+      "type": "S",
+      "updateDate": "2026-08-06",
+      "updateDateIncludingText": "2026-08-06",
+      "url": "https://api.congress.gov/v3/bill/119/s/1789?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "number": "51",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A joint resolution for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Emirates of certain defense articles and services.",
+      "type": "SJRES",
+      "updateDate": "2025-08-13",
+      "updateDateIncludingText": "2025-08-13",
+      "url": "https://api.congress.gov/v3/bill/119/sjres/51?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1788",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Civilian Conservation Center Enhancement Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1788?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1776",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Medicare Beneficiary Co-Pay Fairness Act",
+      "type": "S",
+      "updateDate": "2026-09-15",
+      "updateDateIncludingText": "2026-09-15",
+      "url": "https://api.congress.gov/v3/bill/119/s/1776?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1792",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "AI Whistleblower Protection Act",
+      "type": "S",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/s/1792?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+      },
+      "number": "1786",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "One Stop Shop for Small Business Licensing Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1786?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Foreign Relations. (text: CR S2953-2954)"
+      },
+      "number": "1783",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Combating Global Poverty Through Energy Development Act",
+      "type": "S",
+      "updateDate": "2025-06-23",
+      "updateDateIncludingText": "2025-06-23",
+      "url": "https://api.congress.gov/v3/bill/119/s/1783?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-15",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "number": "1772",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Confronting CCP Human Rights Abusers Act",
+      "type": "S",
+      "updateDate": "2026-05-15",
+      "updateDateIncludingText": "2026-05-15",
+      "url": "https://api.congress.gov/v3/bill/119/s/1772?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-16",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "number": "3449",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Stronger Communities through Better Transit Act",
+      "type": "HR",
+      "updateDate": "2026-10-16",
+      "updateDateIncludingText": "2026-10-16",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3449?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-16",
+        "text": "Referred to the Subcommittee on Border Security and Enforcement."
+      },
+      "number": "3473",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Humane Accountability Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3473?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-16",
+        "text": "Referred to the Subcommittee on Aviation."
+      },
+      "number": "3463",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "COUNTER Act",
+      "type": "HR",
+      "updateDate": "2025-12-19",
+      "updateDateIncludingText": "2025-12-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3463?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-16",
+        "text": "Referred to the Subcommittee on Border Security and Enforcement."
+      },
+      "number": "3464",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "State Border Security Assistance Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3464?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-05-17",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3475",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Bipartisan American Homeownership Opportunity Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-11-01",
+      "updateDateIncludingText": "2025-11-01",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3475?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-05-17",
+        "text": "Referred to the House Committee on Science, Space, and Technology."
+      },
+      "number": "425",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for designation of May 16, 2025, as the \"National Day of Light\".",
+      "type": "HRES",
+      "updateDate": "2026-06-02",
+      "updateDateIncludingText": "2026-06-02",
+      "url": "https://api.congress.gov/v3/bill/119/hres/425?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-05-17",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3476",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Forest Conservation Easement Program Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-07-26",
+      "updateDateIncludingText": "2025-07-26",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3476?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-05-17",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "424",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Supporting the goals and ideals of \"National Honor Our LGBT Elders Day\".",
+      "type": "HRES",
+      "updateDate": "2025-05-30",
+      "updateDateIncludingText": "2025-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/hres/424?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-05-18",
+        "text": "Referred to the Subcommittee on Aviation."
+      },
+      "number": "3478",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Manned Aircraft Clarification Act",
+      "type": "HR",
+      "updateDate": "2025-07-15",
+      "updateDateIncludingText": "2025-07-15",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3478?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3501",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend title XVIII of the Social Security Act to provide for certain cognitive impairment detection in the Medicare annual wellness visit and initial preventive physical examination.",
+      "type": "HR",
+      "updateDate": "2026-10-20",
+      "updateDateIncludingText": "2026-10-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3501?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3493",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Global Fairness in Drug Pricing Act",
+      "type": "HR",
+      "updateDate": "2026-02-25",
+      "updateDateIncludingText": "2026-02-25",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3493?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "number": "3503",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Kidney Donation Anti-Discrimination Act",
+      "type": "HR",
+      "updateDate": "2025-10-01",
+      "updateDateIncludingText": "2025-10-01",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3503?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3500",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "More Funding for COPS Act",
+      "type": "HR",
+      "updateDate": "2025-09-11",
+      "updateDateIncludingText": "2025-09-11",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3500?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Small Business."
+      },
+      "number": "3485",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Small Business Act to eliminate certain requirements relating to the award of construction subcontracts within the county or State of performance.",
+      "type": "HR",
+      "updateDate": "2026-04-06",
+      "updateDateIncludingText": "2026-04-06",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3485?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3479",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "SECURE American Telecommunications Act",
+      "type": "HR",
+      "updateDate": "2025-07-17",
+      "updateDateIncludingText": "2025-07-17",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3479?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3499",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Outdoor Recreational Outfitting and Guiding Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3499?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "428",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for the designation of May 2025 as \"Moving Month\".",
+      "type": "HRES",
+      "updateDate": "2025-06-20",
+      "updateDateIncludingText": "2025-06-20",
+      "url": "https://api.congress.gov/v3/bill/119/hres/428?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "3480",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Health Coverage for IVF Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-01",
+      "updateDateIncludingText": "2026-09-01",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3480?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3502",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Wrongful Injunction Accountability Act",
+      "type": "HR",
+      "updateDate": "2025-06-12",
+      "updateDateIncludingText": "2025-06-12",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3502?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3487",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Shawnee TRAILS Act",
+      "type": "HR",
+      "updateDate": "2025-06-18",
+      "updateDateIncludingText": "2025-06-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3487?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3498",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Henrietta Lacks Congressional Gold Medal Act",
+      "type": "HR",
+      "updateDate": "2026-10-16",
+      "updateDateIncludingText": "2026-10-16",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3498?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Transportation and Infrastructure."
+      },
+      "number": "427",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Recognizing \"National Public Works Week\".",
+      "type": "HRES",
+      "updateDate": "2025-11-19",
+      "updateDateIncludingText": "2025-11-19",
+      "url": "https://api.congress.gov/v3/bill/119/hres/427?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "429",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Expressing support for the designation of May 17, 2025, as \"Necrotizing Enterocolitis Awareness Day\".",
+      "type": "HRES",
+      "updateDate": "2026-06-25",
+      "updateDateIncludingText": "2026-06-25",
+      "url": "https://api.congress.gov/v3/bill/119/hres/429?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1799",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to amend title XVIII of the Social Security Act to provide for certain cognitive impairment detection in the Medicare annual wellness visit and initial preventative physical examination.",
+      "type": "S",
+      "updateDate": "2025-12-04",
+      "updateDateIncludingText": "2025-12-04",
+      "url": "https://api.congress.gov/v3/bill/119/s/1799?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2966; text: CR S2974)"
+      },
+      "number": "235",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution designating May 17, 2025, as \"Kids to Parks Day\".",
+      "type": "SRES",
+      "updateDate": "2026-06-02",
+      "updateDateIncludingText": "2026-06-02",
+      "url": "https://api.congress.gov/v3/bill/119/sres/235?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1807",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Timely and Accurate Benefits Act",
+      "type": "S",
+      "updateDate": "2025-06-23",
+      "updateDateIncludingText": "2025-06-23",
+      "url": "https://api.congress.gov/v3/bill/119/s/1807?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1800",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Rural Health Sustainability Act of 2025",
+      "type": "S",
+      "updateDate": "2025-05-30",
+      "updateDateIncludingText": "2025-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/s/1800?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2966; text: CR S2974)"
+      },
+      "number": "234",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution designating May 2, 2025, as \"United States Foreign Service Day\" in recognition of the men and women who have served, or are presently serving, in the Foreign Service of the United States, and honoring the members of the Foreign Service who have given their lives in the line of duty.",
+      "type": "SRES",
+      "updateDate": "2026-06-25",
+      "updateDateIncludingText": "2026-06-25",
+      "url": "https://api.congress.gov/v3/bill/119/sres/234?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S2973-2974)"
+      },
+      "number": "1805",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Promoting Access to Diabetic Shoes Act",
+      "type": "S",
+      "updateDate": "2026-09-17",
+      "updateDateIncludingText": "2026-09-17",
+      "url": "https://api.congress.gov/v3/bill/119/s/1805?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1803",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "STABLE GENIUS Act",
+      "type": "S",
+      "updateDate": "2026-01-10",
+      "updateDateIncludingText": "2026-01-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1803?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1802",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "CARGO Act of 2025",
+      "type": "S",
+      "updateDate": "2026-02-10",
+      "updateDateIncludingText": "2026-02-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1802?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Armed Services. (Sponsor introductory remarks on measure: CR S2973; text: CR S2973)"
+      },
+      "number": "1804",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Presidential Airlift Security Act of 2025",
+      "type": "S",
+      "updateDate": "2025-06-20",
+      "updateDateIncludingText": "2025-06-20",
+      "url": "https://api.congress.gov/v3/bill/119/s/1804?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-19",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "number": "1806",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Business Owners Protection Act of 2025",
+      "type": "S",
+      "updateDate": "2026-06-16",
+      "updateDateIncludingText": "2026-06-16",
+      "url": "https://api.congress.gov/v3/bill/119/s/1806?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Sponsor introductory remarks on measure. (CR H2153)"
+      },
+      "number": "3470",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "AGRITOURISM Act",
+      "type": "HR",
+      "updateDate": "2026-04-15",
+      "updateDateIncludingText": "2026-04-15",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3470?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+      },
+      "number": "3488",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Valve Safety Fairness Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-07-15",
+      "updateDateIncludingText": "2025-07-15",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3488?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "actionTime": "14:05:24",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "number": "426",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Providing for consideration of the joint resolution (S.J. Res. 13) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act; providing for consideration of the joint resolution (S.J. Res. 31) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\"; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+      "type": "HRES",
+      "updateDate": "2026-07-19",
+      "updateDateIncludingText": "2026-07-19",
+      "url": "https://api.congress.gov/v3/bill/119/hres/426?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3523",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To require the Secretary of the Treasury to designate certain covered organizations as Foreign Financial Threat Organizations, and for other purposes.",
+      "type": "HR",
+      "updateDate": "2025-06-05",
+      "updateDateIncludingText": "2025-06-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3523?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "433",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "A resolution condemning former FBI Director James Comey's incitement of violence against President Donald J. Trump.",
+      "type": "HRES",
+      "updateDate": "2025-12-17",
+      "updateDateIncludingText": "2025-12-17",
+      "url": "https://api.congress.gov/v3/bill/119/hres/433?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3518",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Higher Education Act of 1965 to prohibit graduate medical schools from receiving Federal financial assistance if such schools adopt certain policies and requirements relating to diversity, equity, and inclusion.",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3518?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Rules, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3507",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Legislative Accountability Act",
+      "type": "HR",
+      "updateDate": "2026-06-11",
+      "updateDateIncludingText": "2026-06-11",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3507?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Transportation and Infrastructure."
+      },
+      "number": "3505",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Barriers to Suicide Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3505?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3524",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protect Patriot Spouses Act",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3524?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "3511",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Preparing for the Future Act",
+      "type": "HR",
+      "updateDate": "2025-06-27",
+      "updateDateIncludingText": "2025-06-27",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3511?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3516",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Opportunities for Fairness in Farming Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-10",
+      "updateDateIncludingText": "2025-12-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3516?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3519",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Universal School Choice Act",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3519?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3504",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Artemis Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-05-29",
+      "updateDateIncludingText": "2025-05-29",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3504?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3520",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "STAND Against Emerging Opioids Act",
+      "type": "HR",
+      "updateDate": "2025-06-13",
+      "updateDateIncludingText": "2025-06-13",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3520?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Foreign Affairs."
+      },
+      "number": "431",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Recognizing the importance of the Arctic Council and reaffirming the commitment of the United States to the Arctic Council.",
+      "type": "HRES",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hres/431?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "434",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "A resolution remembering John Brown.",
+      "type": "HRES",
+      "updateDate": "2025-09-17",
+      "updateDateIncludingText": "2025-09-17",
+      "url": "https://api.congress.gov/v3/bill/119/hres/434?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3515",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Internal Revenue Code of 1986 to exclude military bonuses from gross income.",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3515?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3522",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protecting Older Workers Against Discrimination Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-06-24",
+      "updateDateIncludingText": "2026-06-24",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3522?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3526",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Uplifting First-Time Homebuyers Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3526?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3513",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Supreme Court Ethics, Recusal, and Transparency Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-06",
+      "updateDateIncludingText": "2026-10-06",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3513?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Agriculture."
+      },
+      "number": "3506",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Healthy Food Financing Initiative Reauthorization Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-06-30",
+      "updateDateIncludingText": "2026-06-30",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3506?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3509",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Supporting Our Surviving Spouses Act",
+      "type": "HR",
+      "updateDate": "2026-07-18",
+      "updateDateIncludingText": "2026-07-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3509?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3521",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Clinical Trial Modernization Act",
+      "type": "HR",
+      "updateDate": "2026-10-07",
+      "updateDateIncludingText": "2026-10-07",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3521?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3525",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Regulatory Accountability Act",
+      "type": "HR",
+      "updateDate": "2026-01-10",
+      "updateDateIncludingText": "2026-01-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3525?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3508",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "End Diaper Need Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3508?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3517",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Social Security Enhancement and Protection Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-03-19",
+      "updateDateIncludingText": "2026-03-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3517?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3510",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Saving Students with Software Act",
+      "type": "HR",
+      "updateDate": "2025-07-21",
+      "updateDateIncludingText": "2025-07-21",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3510?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "3512",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Tackling Predatory Litigation Funding Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3512?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "actionTime": "12:12:38",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "number": "430",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Electing Members to certain standing committees of the House of Representatives.",
+      "type": "HRES",
+      "updateDate": "2026-07-19",
+      "updateDateIncludingText": "2026-07-19",
+      "url": "https://api.congress.gov/v3/bill/119/hres/430?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1812",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Ban Birth Tourism Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1812?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1816",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Improving Seniors\u2019 Timely Access to Care Act of 2025",
+      "type": "S",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/s/1816?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1819",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "DOGE BROS Act",
+      "type": "S",
+      "updateDate": "2025-05-30",
+      "updateDateIncludingText": "2025-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/s/1819?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the Committee on Foreign Relations. (text: CR S3011-3012)"
+      },
+      "number": "236",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution calling for the return of abducted Ukrainian children before finalizing any peace agreement to end the war against Ukraine.",
+      "type": "SRES",
+      "updateDate": "2026-09-16",
+      "updateDateIncludingText": "2026-09-16",
+      "url": "https://api.congress.gov/v3/bill/119/sres/236?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1811",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1811?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1822",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "SAFE FOOD Act of 2025",
+      "type": "S",
+      "updateDate": "2026-05-12",
+      "updateDateIncludingText": "2026-05-12",
+      "url": "https://api.congress.gov/v3/bill/119/s/1822?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1810",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Universal School Choice Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1810?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "number": "1808",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Access to Small Business Investor Capital Act",
+      "type": "S",
+      "updateDate": "2026-06-19",
+      "updateDateIncludingText": "2026-06-19",
+      "url": "https://api.congress.gov/v3/bill/119/s/1808?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1820",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Protecting Older Workers Against Discrimination Act",
+      "type": "S",
+      "updateDate": "2025-05-29",
+      "updateDateIncludingText": "2025-05-29",
+      "url": "https://api.congress.gov/v3/bill/119/s/1820?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1815",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "End Diaper Need Act of 2025",
+      "type": "S",
+      "updateDate": "2026-03-26",
+      "updateDateIncludingText": "2026-03-26",
+      "url": "https://api.congress.gov/v3/bill/119/s/1815?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "1823",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Black Vulture Relief Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1823?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3003; text: CR S3012-3013)"
+      },
+      "number": "238",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution congratulating the students, parents, teachers, and leaders of charter schools across the United States for making ongoing contributions to education and supporting the ideals and goals of the 26th Annual National Charter Schools Week, to be held May 11 through May 17, 2025.",
+      "type": "SRES",
+      "updateDate": "2026-06-23",
+      "updateDateIncludingText": "2026-06-23",
+      "url": "https://api.congress.gov/v3/bill/119/sres/238?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3003; text: CR S3012)"
+      },
+      "number": "237",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution honoring the service and memory of Army Staff Sgt. Jose Duenez Jr., Army Staff Sgt. Edvin F. Franco, Army Staff Sgt. Troy S. Knutson-Collins, and Army Pfc. Dante D. Taitano of the 1st Armored Brigade Combat Team, 3rd Infantry Division, who died during a recovery mission in support of a regularly scheduled training exercise while serving in Lithuania.",
+      "type": "SRES",
+      "updateDate": "2025-06-23",
+      "updateDateIncludingText": "2025-06-23",
+      "url": "https://api.congress.gov/v3/bill/119/sres/237?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1821",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Tackling Predatory Litigation Funding Act",
+      "type": "S",
+      "updateDate": "2026-07-14",
+      "updateDateIncludingText": "2026-07-14",
+      "url": "https://api.congress.gov/v3/bill/119/s/1821?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1817",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Expedited Removal Expansion Act of 2025",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1817?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1818",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Prescription Drug Price Relief Act of 2025",
+      "type": "S",
+      "updateDate": "2026-03-24",
+      "updateDateIncludingText": "2026-03-24",
+      "url": "https://api.congress.gov/v3/bill/119/s/1818?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1814",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Supreme Court Ethics, Recusal, and Transparency Act of 2025",
+      "type": "S",
+      "updateDate": "2026-10-07",
+      "updateDateIncludingText": "2026-10-07",
+      "url": "https://api.congress.gov/v3/bill/119/s/1814?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S3066)"
+      },
+      "number": "245",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution condemning the financial entanglements of President Donald J. Trump with the $TRUMP meme coin.",
+      "type": "SRES",
+      "updateDate": "2025-06-25",
+      "updateDateIncludingText": "2025-06-25",
+      "url": "https://api.congress.gov/v3/bill/119/sres/245?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "1846",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "VA Design-Build Construction Enhancement Act of 2025",
+      "type": "S",
+      "updateDate": "2025-06-05",
+      "updateDateIncludingText": "2025-06-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1846?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1839",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Generating Retirement Ownership through Long-Term Holding",
+      "type": "S",
+      "updateDate": "2026-07-14",
+      "updateDateIncludingText": "2026-07-14",
+      "url": "https://api.congress.gov/v3/bill/119/s/1839?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1850",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Close the Revolving Door Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1850?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1845",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "No Loan Forgiveness for Terrorists Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1845?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1833",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Leadership in CET Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1833?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1836",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "SMART Prices Act",
+      "type": "S",
+      "updateDate": "2026-05-30",
+      "updateDateIncludingText": "2026-05-30",
+      "url": "https://api.congress.gov/v3/bill/119/s/1836?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1834",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Supporting Healthy Moms and Babies Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1834?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on the Judiciary. (text: CR S3062-3064)"
+      },
+      "number": "240",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, pre-K through 12th grade and higher education systems, government programs, the military, and our society.",
+      "type": "SRES",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/sres/240?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1842",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Wildfire Reduction and Carbon Removal Act of 2025",
+      "type": "S",
+      "updateDate": "2026-07-15",
+      "updateDateIncludingText": "2026-07-15",
+      "url": "https://api.congress.gov/v3/bill/119/s/1842?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1831",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Auto Reenroll Act of 2025",
+      "type": "S",
+      "updateDate": "2026-02-11",
+      "updateDateIncludingText": "2026-02-11",
+      "url": "https://api.congress.gov/v3/bill/119/s/1831?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "1853",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Parity for Native Hawaiian Veterans Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1853?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S3064)"
+      },
+      "number": "242",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution condemning the private business agreements of President Donald J. Trump with foreign governments for posing unacceptable conflicts of interest, affirming such agreements violate the Foreign Emoluments Clause of the Constitution of the United States, and demanding the transfer of any proceeds from such agreements to the United States Government.",
+      "type": "SRES",
+      "updateDate": "2025-06-20",
+      "updateDateIncludingText": "2025-06-20",
+      "url": "https://api.congress.gov/v3/bill/119/sres/242?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S3064)"
+      },
+      "number": "241",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution expressing support for the designation of May 2025 as \"National Beef Month\" to recognize the important role cattle play in the United States, and to consumers.",
+      "type": "SRES",
+      "updateDate": "2026-04-03",
+      "updateDateIncludingText": "2026-04-03",
+      "url": "https://api.congress.gov/v3/bill/119/sres/241?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1847",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Association Health Plans Act",
+      "type": "S",
+      "updateDate": "2026-10-02",
+      "updateDateIncludingText": "2026-10-02",
+      "url": "https://api.congress.gov/v3/bill/119/s/1847?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "1835",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "CHIP IN for Veterans Act of 2025",
+      "type": "S",
+      "updateDate": "2025-06-05",
+      "updateDateIncludingText": "2025-06-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1835?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1825",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "AG RESEARCH Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1825?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "number": "1824",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Taiwan PLUS Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1824?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "1852",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "IBEM Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1852?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "1851",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Healthcare Cybersecurity Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1851?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "1844",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Teaching Asian American, Native Hawaiian, and Pacific Islander History Act of 2025",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1844?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Rules and Administration."
+      },
+      "number": "1849",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Zeroing Out Money for Buying Influence after Elections (ZOMBIE) Act",
+      "type": "S",
+      "updateDate": "2025-08-15",
+      "updateDateIncludingText": "2025-08-15",
+      "url": "https://api.congress.gov/v3/bill/119/s/1849?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "1841",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Fuel Choice and Deregulation Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1841?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1840",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Retirement Investment in Small Employers Act",
+      "type": "S",
+      "updateDate": "2026-07-16",
+      "updateDateIncludingText": "2026-07-16",
+      "url": "https://api.congress.gov/v3/bill/119/s/1840?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S3065-3066)"
+      },
+      "number": "244",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution affirming that the underlying purpose of the Foreign Emoluments Clause renders the acceptance and transfer of a plane from the government of Qatar, without the explicit consent of Congress, an illegal emolument, withholding the consent of the Senate to the acceptance and transfer of plane from the government of Qatar, and demanding the transfer of any plane received by President Donald J. Trump or entities under his control from the government of Qatar to the permanent control of the United States Government.",
+      "type": "SRES",
+      "updateDate": "2026-03-18",
+      "updateDateIncludingText": "2026-03-18",
+      "url": "https://api.congress.gov/v3/bill/119/sres/244?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1826",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "GRAIN DRY Act",
+      "type": "S",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/s/1826?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1843",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Second Chance Reauthorization Act of 2025",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1843?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1832",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "College for All Act of 2025",
+      "type": "S",
+      "updateDate": "2026-02-26",
+      "updateDateIncludingText": "2026-02-26",
+      "url": "https://api.congress.gov/v3/bill/119/s/1832?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1827",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Expedited Removal of Criminal Aliens Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1827?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+      },
+      "number": "1848",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Opportunities for Fairness in Farming Act of 2025",
+      "type": "S",
+      "updateDate": "2026-10-01",
+      "updateDateIncludingText": "2026-10-01",
+      "url": "https://api.congress.gov/v3/bill/119/s/1848?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S3064-3065)"
+      },
+      "number": "243",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution condemning the financial entanglements of World Liberty Financial, Inc. with President Donald J. Trump, the Trump family, and the Trump Administration.",
+      "type": "SRES",
+      "updateDate": "2026-09-21",
+      "updateDateIncludingText": "2026-09-21",
+      "url": "https://api.congress.gov/v3/bill/119/sres/243?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Foreign Relations. (text: CR S3060-3062)"
+      },
+      "number": "239",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution reaffirming the deep and steadfast partnership between the United States and Canada and the ties that bind the 2 countries in support of economic and national security.",
+      "type": "SRES",
+      "updateDate": "2025-06-20",
+      "updateDateIncludingText": "2025-06-20",
+      "url": "https://api.congress.gov/v3/bill/119/sres/239?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3545",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "TEENS Act",
+      "type": "HR",
+      "updateDate": "2025-07-21",
+      "updateDateIncludingText": "2025-07-21",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3545?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3537",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Targeting Child Predators Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-06",
+      "updateDateIncludingText": "2026-10-06",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3537?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3532",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Striking and Locked Out Workers Healthcare Protection Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3532?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Small Business."
+      },
+      "number": "3557",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend the Small Business Act to waive the accrual of interest and payments for certain disaster loans for a year, and for other purposes.",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3557?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3534",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Mental Health in Schools Excellence Program Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-08",
+      "updateDateIncludingText": "2026-10-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3534?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Ethics."
+      },
+      "number": "439",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Providing for the expulsion of Representative LaMonica McIver from the United States House of Representatives.",
+      "type": "HRES",
+      "updateDate": "2025-05-28",
+      "updateDateIncludingText": "2025-05-28",
+      "url": "https://api.congress.gov/v3/bill/119/hres/439?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3541",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "See the Board Act",
+      "type": "HR",
+      "updateDate": "2025-07-21",
+      "updateDateIncludingText": "2025-07-21",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3541?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3554",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Close the Revolving Door Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3554?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "3527",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Real Education and Access for Healthy Youth Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3527?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Armed Services."
+      },
+      "number": "3566",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "ANCHOR for Military Families Act",
+      "type": "HR",
+      "updateDate": "2026-03-25",
+      "updateDateIncludingText": "2026-03-25",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3566?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on Natural Resources."
+      },
+      "number": "3555",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protect our Parks Act of 2025",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3555?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-05-21",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "3539",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Leadership in CET Act",
+      "type": "HR",
+      "updateDate": "2025-12-05",
+      "updateDateIncludingText": "2025-12-05",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3539?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-05-26",
+        "actionTime": "09:16:36",
+        "text": "Held at the desk."
+      },
+      "number": "55",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Highway Traffic Safety Administration relating to \"Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference\".",
+      "type": "SJRES",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/sjres/55?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-03",
+        "text": "Sponsor introductory remarks on measure. (CR H2408-2410)"
+      },
+      "number": "3467",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To amend title XVIII to reform the Medicare Advantage program.",
+      "type": "HR",
+      "updateDate": "2025-06-04",
+      "updateDateIncludingText": "2025-06-04",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3467?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-03",
+        "text": "Sponsor introductory remarks on measure. (CR H2408)"
+      },
+      "number": "3466",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "SMART Act",
+      "type": "HR",
+      "updateDate": "2026-05-22",
+      "updateDateIncludingText": "2026-05-22",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3466?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-06",
+        "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+      },
+      "number": "3441",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "K2 Veterans Total Coverage Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-22",
+      "updateDateIncludingText": "2026-09-22",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3441?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-06",
+        "text": "Referred to the Subcommittee on Economic Opportunity."
+      },
+      "number": "3472",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Housing Stability for Dreamers Act",
+      "type": "HR",
+      "updateDate": "2025-12-12",
+      "updateDateIncludingText": "2025-12-12",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3472?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-06",
+        "text": "Referred to the Subcommittee on Oversight and Investigations."
+      },
+      "number": "3468",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protecting Retirement and Health Benefits for Families Act",
+      "type": "HR",
+      "updateDate": "2025-12-12",
+      "updateDateIncludingText": "2025-12-12",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3468?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-06-06",
+        "text": "Referred to the Subcommittee on Health."
+      },
+      "number": "3489",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Department of Veterans Affairs Medical Physicist Pay Cap Relief Act",
+      "type": "HR",
+      "updateDate": "2026-02-26",
+      "updateDateIncludingText": "2026-02-26",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3489?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-10",
+        "text": "Subcommittee Hearings Held"
+      },
+      "number": "3444",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Tribal Self-Determination and Co-Management in Forestry Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-08-12",
+      "updateDateIncludingText": "2026-08-12",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3444?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-11",
+        "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 39 - 56. Record Vote Number: 306."
+      },
+      "number": "53",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Qatar of certain defense articles and services.",
+      "type": "SJRES",
+      "updateDate": "2025-06-12",
+      "updateDateIncludingText": "2025-06-12",
+      "url": "https://api.congress.gov/v3/bill/119/sjres/53?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-11",
+        "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 39 - 56. Record Vote Number: 307."
+      },
+      "number": "54",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Emirates of certain defense articles and services.",
+      "type": "SJRES",
+      "updateDate": "2025-06-12",
+      "updateDateIncludingText": "2025-06-12",
+      "url": "https://api.congress.gov/v3/bill/119/sjres/54?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-17",
+      "latestAction": {
+        "actionDate": "2025-06-11",
+        "text": "Ordered to be Reported by the Yeas and Nays: 57 - 7."
+      },
+      "number": "3477",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Ensuring Airline Resiliency to Reduce Delays and Cancellations Act",
+      "type": "HR",
+      "updateDate": "2025-07-17",
+      "updateDateIncludingText": "2025-07-17",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3477?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-18",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 97."
+      },
+      "number": "1780",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Mexico Security Assistance Accountability Act",
+      "type": "S",
+      "updateDate": "2026-09-24",
+      "updateDateIncludingText": "2026-09-24",
+      "url": "https://api.congress.gov/v3/bill/119/s/1780?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-06-18",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 98."
+      },
+      "number": "1801",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "International Nuclear Energy Act of 2025",
+      "type": "S",
+      "updateDate": "2025-09-03",
+      "updateDateIncludingText": "2025-09-03",
+      "url": "https://api.congress.gov/v3/bill/119/s/1801?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-06-24",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+      },
+      "number": "3422",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Promoting Opportunities for Non-Traditional Capital Formation Act",
+      "type": "HR",
+      "updateDate": "2026-08-20",
+      "updateDateIncludingText": "2026-08-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3422?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-06-26",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 106."
+      },
+      "number": "1829",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "STOP CSAM Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-16",
+      "updateDateIncludingText": "2026-09-16",
+      "url": "https://api.congress.gov/v3/bill/119/s/1829?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-07-23",
+        "text": "Committee on Environment and Public Works Senate Subcommittee on Transportation and Infrastructure. Hearings held."
+      },
+      "number": "1828",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Safe Routes Improvement Act",
+      "type": "S",
+      "updateDate": "2026-09-18",
+      "updateDateIncludingText": "2026-09-18",
+      "url": "https://api.congress.gov/v3/bill/119/s/1828?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-08",
+        "text": "Placed on the Union Calendar, Calendar No. 201."
+      },
+      "number": "3446",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "FDIC Board Accountability Act",
+      "type": "HR",
+      "updateDate": "2026-10-07",
+      "updateDateIncludingText": "2026-10-07",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3446?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-09",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "3424",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "SPACE Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3424?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-09",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "3428",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Mid-Atlantic River Basin Commissions Review Act",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3428?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-09",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "3425",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Personnel Oversight and Shift Tracking Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-07-13",
+      "updateDateIncludingText": "2026-07-13",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3425?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-09",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "number": "3423",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Facility for Runway Operations and Safe Transportation Act",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3423?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-09-15",
+        "text": "Received in the Senate."
+      },
+      "number": "3486",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Stop Illegal Entry Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-07-30",
+      "updateDateIncludingText": "2026-07-30",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3486?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-09-16",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "3427",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Water Resources Technical Assistance Review Act",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3427?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-09-16",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "3494",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "VA Hospital Inventory Management System Authorization Act",
+      "type": "HR",
+      "updateDate": "2026-07-13",
+      "updateDateIncludingText": "2026-07-13",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3494?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-09-18",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "3481",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Delivering Digitally to Our Veterans Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-07-18",
+      "updateDateIncludingText": "2026-07-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3481?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-14",
+      "latestAction": {
+        "actionDate": "2025-09-19",
+        "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6798-6799; text: CR 5/14/2025 S2930)"
+      },
+      "number": "225",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution designating the week of September 14 through September 20, 2025, as \"National Truck Driver Appreciation Week\".",
+      "type": "SRES",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/sres/225?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-10-10",
+        "text": "Placed on the Union Calendar, Calendar No. 292."
+      },
+      "number": "3455",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Veterans Affairs Distributed Ledger Innovation Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-02-04",
+      "updateDateIncludingText": "2026-02-04",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3455?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-10-21",
+        "text": "Placed on the Union Calendar, Calendar No. 300."
+      },
+      "number": "3483",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "FRAUD Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-02-04",
+      "updateDateIncludingText": "2026-02-04",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3483?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2025-10-30",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 233."
+      },
+      "number": "1854",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Haiti Criminal Collusion Transparency Act of 2025",
+      "type": "S",
+      "updateDate": "2025-11-01",
+      "updateDateIncludingText": "2025-11-01",
+      "url": "https://api.congress.gov/v3/bill/119/s/1854?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-11-04",
+        "text": "Placed on the Union Calendar, Calendar No. 315."
+      },
+      "number": "3484",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Business Owners Protection Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-02-04",
+      "updateDateIncludingText": "2026-02-04",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3484?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-12-01",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "3426",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Courthouse Affordability and Space Efficiency Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3426?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2025-12-09",
+        "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238."
+      },
+      "number": "1777",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Joshua Tree National Park Expansion Act",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1777?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2025-12-11",
+        "actionTime": "15:03:36",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "number": "432",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Providing for consideration of the bill (H.R. 2550) to nullify the Executive order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes.",
+      "type": "HRES",
+      "updateDate": "2026-07-19",
+      "updateDateIncludingText": "2026-07-19",
+      "url": "https://api.congress.gov/v3/bill/119/hres/432?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2025-12-18",
+        "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "3492",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protect Children\u2019s Innocence Act",
+      "type": "HR",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3492?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-01-13",
+        "text": "Placed on the Union Calendar, Calendar No. 379."
+      },
+      "number": "3453",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Empower Charter School Educators to Lead Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3453?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2026-01-13",
+        "actionTime": "18:23:38",
+        "text": "Held at the desk."
+      },
+      "number": "1837",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "DEFIANCE Act of 2025",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1837?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-01-26",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+      },
+      "number": "3496",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Northern Mariana Islands Small Business Access Act",
+      "type": "HR",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3496?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-02-04",
+        "text": "Placed on the Union Calendar, Calendar No. 411."
+      },
+      "number": "3474",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Federal Mechanical Insulation Act",
+      "type": "HR",
+      "updateDate": "2026-09-23",
+      "updateDateIncludingText": "2026-09-23",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3474?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2026-02-09",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 316."
+      },
+      "number": "1809",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Drone Espionage Act",
+      "type": "S",
+      "updateDate": "2026-08-10",
+      "updateDateIncludingText": "2026-08-10",
+      "url": "https://api.congress.gov/v3/bill/119/s/1809?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-03-19",
+        "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+      },
+      "number": "1784",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "MAPS Act",
+      "type": "S",
+      "updateDate": "2026-09-03",
+      "updateDateIncludingText": "2026-09-03",
+      "url": "https://api.congress.gov/v3/bill/119/s/1784?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2026-03-19",
+        "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+      },
+      "number": "1813",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "High-Quality Charter Schools Act",
+      "type": "S",
+      "updateDate": "2026-07-24",
+      "updateDateIncludingText": "2026-07-24",
+      "url": "https://api.congress.gov/v3/bill/119/s/1813?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2026-03-19",
+        "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+      },
+      "number": "1830",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Right to Treat Act",
+      "type": "S",
+      "updateDate": "2026-09-15",
+      "updateDateIncludingText": "2026-09-15",
+      "url": "https://api.congress.gov/v3/bill/119/s/1830?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-03-26",
+        "text": "Ordered to be Reported (Amended) by Voice Vote."
+      },
+      "number": "3420",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Words Matter Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3420?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-03-26",
+        "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0."
+      },
+      "number": "3447",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Chip Security Act",
+      "type": "HR",
+      "updateDate": "2026-10-10",
+      "updateDateIncludingText": "2026-10-10",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3447?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-05-20",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+      },
+      "number": "3482",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Veterans Community Care Scheduling Improvement Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3482?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-05-28",
+        "text": "Became Public Law No: 119-94."
+      },
+      "number": "3497",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Medal of Sacrifice Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3497?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-06-09",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+      },
+      "number": "3429",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "US-Japan-ROK Trilateral Cooperation Act",
+      "type": "HR",
+      "updateDate": "2026-07-18",
+      "updateDateIncludingText": "2026-07-18",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3429?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-06-09",
+        "text": "Became Public Law No: 119-96."
+      },
+      "number": "3490",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Gerald E. Connolly Esophageal Cancer Awareness Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-07-28",
+      "updateDateIncludingText": "2026-07-28",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3490?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-06-22",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 441."
+      },
+      "number": "1782",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Charlotte Woodward Organ Transplant Discrimination Prevention Act",
+      "type": "S",
+      "updateDate": "2026-08-06",
+      "updateDateIncludingText": "2026-08-06",
+      "url": "https://api.congress.gov/v3/bill/119/s/1782?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2026-07-14",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
+      },
+      "number": "3535",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Stop Foreign Funds in Elections Act",
+      "type": "HR",
+      "updateDate": "2026-09-19",
+      "updateDateIncludingText": "2026-09-19",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3535?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-07-15",
+        "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+      },
+      "number": "1791",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Gunnison Outdoor Resources Protection Act of 2025",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1791?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-20",
+      "latestAction": {
+        "actionDate": "2026-07-15",
+        "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0."
+      },
+      "number": "3514",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Improving Seniors\u2019 Timely Access to Care Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-10-20",
+      "updateDateIncludingText": "2026-10-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3514?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-07-21",
+        "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "3491",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "DeOndra Dixon INCLUDE Project Act of 2025",
+      "type": "HR",
+      "updateDate": "2026-08-20",
+      "updateDateIncludingText": "2026-08-20",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3491?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-15",
+      "latestAction": {
+        "actionDate": "2026-07-23",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 480."
+      },
+      "number": "1787",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Dolores River National Conservation Area and Special Management Area Act",
+      "type": "S",
+      "updateDate": "2026-09-08",
+      "updateDateIncludingText": "2026-09-08",
+      "url": "https://api.congress.gov/v3/bill/119/s/1787?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-21",
+      "latestAction": {
+        "actionDate": "2026-08-10",
+        "actionTime": "11:10:39",
+        "text": "Held at the desk."
+      },
+      "number": "1838",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "DeOndra Dixon INCLUDE Project Act of 2026",
+      "type": "S",
+      "updateDate": "2026-08-12",
+      "updateDateIncludingText": "2026-08-12",
+      "url": "https://api.congress.gov/v3/bill/119/s/1838?format=json"
+    },
+    {
+      "congress": 119,
+      "introducedDate": "2025-05-19",
+      "latestAction": {
+        "actionDate": "2026-09-08",
+        "text": "Supplemental report filed by the Committee on Education and Workforce, H. Rept. 119-494, Part II."
+      },
+      "number": "3495",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Direct Seller and Real Estate Agent Harmonization Act",
+      "type": "HR",
+      "updateDate": "2026-10-15",
+      "updateDateIncludingText": "2026-10-15",
+      "url": "https://api.congress.gov/v3/bill/119/hr/3495?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 19716,
+    "next": "https://api.congress.gov/v3/bill/119?offset=6250&limit=250&format=json",
+    "prev": "https://api.congress.gov/v3/bill/119?offset=5750&limit=250&format=json"
+  },
+  "request": {
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

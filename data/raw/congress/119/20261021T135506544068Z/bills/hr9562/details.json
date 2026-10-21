@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 109 (Tuesday, June 30, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. OGLES:\nH.R. 9562.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section VIII\n[Page H4365]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-30",
+    "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9562",
+    "number": "9562",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "relatedBills": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000175",
+        "district": 5,
+        "firstName": "Andrew",
+        "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+        "isByRequest": "N",
+        "lastName": "Ogles",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/O000175?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/text?format=json"
+    },
+    "title": "Anchors Away Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9562/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-14T08:06:35Z",
+    "updateDateIncludingText": "2026-07-14T08:06:35Z"
+  },
+  "request": {
+    "billNumber": "9562",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

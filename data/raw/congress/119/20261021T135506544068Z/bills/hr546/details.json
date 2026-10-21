@@ -1,0 +1,66 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. TORRES of New York:\nH.R. 546.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H223]\n</pre>",
+    "introducedDate": "2025-01-16",
+    "latestAction": {
+      "actionDate": "2025-01-17",
+      "text": "Referred to the Subcommittee on Highways and Transit."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/546",
+    "number": "546",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000486",
+        "district": 15,
+        "firstName": "Ritchie",
+        "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+        "isByRequest": "N",
+        "lastName": "Torres",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/T000486?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/text?format=json"
+    },
+    "title": "Investing in Safer Traffic Stops Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/546/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-09T18:36:28Z",
+    "updateDateIncludingText": "2025-06-09T18:36:28Z"
+  },
+  "request": {
+    "billNumber": "546",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

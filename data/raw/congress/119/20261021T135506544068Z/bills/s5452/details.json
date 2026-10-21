@@ -1,0 +1,64 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-09-22",
+    "latestAction": {
+      "actionDate": "2026-09-22",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5452",
+    "number": "5452",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001319",
+        "firstName": "Katie",
+        "fullName": "Sen. Britt, Katie Boyd [R-AL]",
+        "isByRequest": "N",
+        "lastName": "Britt",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/B001319?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/text?format=json"
+    },
+    "title": "A bill to amend the Financial Stability Act of 2010 to provide for tailoring and indexing enhanced regulations.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/5452/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-06T13:30:17Z",
+    "updateDateIncludingText": "2026-10-06T13:30:17Z"
+  },
+  "request": {
+    "billNumber": "5452",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

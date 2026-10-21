@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 50 (Tuesday, March 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VASQUEZ:\nH.R. 2238.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8, Clauses 1 and 18 of the United State\nConstitution, to provide for the general welfare and make all\nlaws necessary and proper to carry out the powers of the\nCongress.\n[Page H1173]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-18",
+    "latestAction": {
+      "actionDate": "2025-04-18",
+      "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2238",
+    "number": "2238",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000136",
+        "district": 2,
+        "firstName": "Gabe",
+        "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+        "isByRequest": "N",
+        "lastName": "Vasquez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/V000136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/text?format=json"
+    },
+    "title": "Ranching Without Red Tape Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2238/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-21T14:49:06Z",
+    "updateDateIncludingText": "2025-05-21T14:49:06Z"
+  },
+  "request": {
+    "billNumber": "2238",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

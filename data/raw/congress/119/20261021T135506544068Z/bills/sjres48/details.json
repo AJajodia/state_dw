@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/cosponsors?format=json"
+    },
+    "introducedDate": "2025-04-10",
+    "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/48",
+    "number": "48",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001243",
+        "firstName": "David",
+        "fullName": "Sen. McCormick, David [R-PA]",
+        "isByRequest": "N",
+        "lastName": "McCormick",
+        "middleName": "H.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/M001243?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/text?format=json"
+    },
+    "title": "A joint resolution proposing an amendment to the Constitution of the United States to limit the number of terms an individual may serve as a Member of Congress.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sjres/48/titles?format=json"
+    },
+    "type": "SJRES",
+    "updateDate": "2026-08-10T11:51:27Z",
+    "updateDateIncludingText": "2026-08-10T11:51:27Z"
+  },
+  "request": {
+    "billNumber": "48",
+    "billType": "sjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

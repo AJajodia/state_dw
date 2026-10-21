@@ -1,0 +1,78 @@
+{
+  "bill": {
+    "actions": {
+      "count": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 184 (Tuesday, November 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ADERHOLT:\nH.J. Res. 133.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I Section 8 of the United States Constitution\n[Page H4574]\n</pre>",
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-04",
+    "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Became Public Law No: 119-46."
+    },
+    "laws": [
+      {
+        "number": "119-46",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/133",
+    "number": "133",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000055",
+        "district": 4,
+        "firstName": "Robert",
+        "fullName": "Rep. Aderholt, Robert B. [R-AL-4]",
+        "isByRequest": "N",
+        "lastName": "Aderholt",
+        "middleName": "B.",
+        "party": "R",
+        "state": "AL",
+        "url": "https://api.congress.gov/v3/member/A000055?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/text?format=json"
+    },
+    "title": "Requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/133/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-07-10T15:23:28Z",
+    "updateDateIncludingText": "2026-07-13T18:35:13Z"
+  },
+  "request": {
+    "billNumber": "133",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

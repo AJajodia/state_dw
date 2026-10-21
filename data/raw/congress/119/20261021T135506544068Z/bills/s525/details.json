@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-11",
+    "latestAction": {
+      "actionDate": "2025-02-11",
+      "text": "Read twice and referred to the Committee on Foreign Relations."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/525",
+    "number": "525",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000934",
+        "firstName": "Jerry",
+        "fullName": "Sen. Moran, Jerry [R-KS]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "KS",
+        "url": "https://api.congress.gov/v3/member/M000934?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/text?format=json"
+    },
+    "title": "A bill to transfer the functions, duties, responsibilities, assets, liabilities, orders, determinations, rules, regulations, permits, grants, loans, contracts, agreements, certificates, licenses, and privileges of the United States Agency for International Development relating to implementing and administering the Food for Peace Act to the Department of Agriculture.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/525/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-25T10:57:00Z",
+    "updateDateIncludingText": "2026-09-25T10:57:00Z"
+  },
+  "request": {
+    "billNumber": "525",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

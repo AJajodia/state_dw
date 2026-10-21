@@ -1,0 +1,63 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5218/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5218/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 147 (Tuesday, September 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. McGUIRE:\nH.R. 5218.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4165]\n</pre>",
+    "introducedDate": "2025-09-09",
+    "latestAction": {
+      "actionDate": "2025-09-10",
+      "text": "Referred to the Subcommittee on Border Security and Enforcement."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5218",
+    "number": "5218",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001239",
+        "district": 5,
+        "firstName": "John",
+        "fullName": "Rep. McGuire, John J. [R-VA-5]",
+        "isByRequest": "N",
+        "lastName": "McGuire",
+        "middleName": "J.",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/M001239?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5218/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5218/text?format=json"
+    },
+    "title": "Border Wall Status Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5218/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:39:22Z",
+    "updateDateIncludingText": "2026-09-19T23:39:22Z"
+  },
+  "request": {
+    "billNumber": "5218",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

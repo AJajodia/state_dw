@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 17,
+      "countIncludingWithdrawnCosponsors": 17,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-06",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2778)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/206",
+    "number": "206",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001176",
+        "firstName": "Jeff",
+        "fullName": "Sen. Merkley, Jeff [D-OR]",
+        "isByRequest": "N",
+        "lastName": "Merkley",
+        "party": "D",
+        "state": "OR",
+        "url": "https://api.congress.gov/v3/member/M001176?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/text?format=json"
+    },
+    "title": "A resolution supporting the goals and ideals of National Nurses Week, to be observed from May 6 through May 12, 2025.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/206/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-09-23T20:06:48Z",
+    "updateDateIncludingText": "2026-09-23T20:06:48Z"
+  },
+  "request": {
+    "billNumber": "206",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

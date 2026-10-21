@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 7 (Friday, January 9, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. WATSON COLEMAN:\nH.R. 7005.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 18: [The Congress shall have\nPower . . .] To make all Laws which shall be necessary and\nproper for carrying into Execution the foregoing Powers, and\nall other Powers vested by this Constitution in the\nGovernment of the United States, or in any Department or\nOfficer thereof.\n[Page H616]\n</pre>",
+    "cosponsors": {
+      "count": 20,
+      "countIncludingWithdrawnCosponsors": 20,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-09",
+    "latestAction": {
+      "actionDate": "2026-01-09",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7005",
+    "number": "7005",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Civil Rights and Liberties, Minority Issues"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000822",
+        "district": 12,
+        "firstName": "Bonnie",
+        "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+        "isByRequest": "N",
+        "lastName": "Watson Coleman",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/W000822?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/text?format=json"
+    },
+    "title": "Customer Non-Discrimination Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7005/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:10:39Z",
+    "updateDateIncludingText": "2026-09-19T23:10:39Z"
+  },
+  "request": {
+    "billNumber": "7005",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 43 (Thursday, March 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. POCAN:\nH.R. 1950.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the U.S. Constitution.\n[Page H1040]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-06",
+    "latestAction": {
+      "actionDate": "2025-03-06",
+      "text": "Referred to the House Committee on Rules."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1950",
+    "number": "1950",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Social Welfare"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000607",
+        "district": 2,
+        "firstName": "Mark",
+        "fullName": "Rep. Pocan, Mark [D-WI-2]",
+        "isByRequest": "N",
+        "lastName": "Pocan",
+        "party": "D",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/P000607?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/text?format=json"
+    },
+    "title": "Protect Social Security and Medicare Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1950/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-11T15:39:20Z",
+    "updateDateIncludingText": "2025-06-11T15:39:20Z"
+  },
+  "request": {
+    "billNumber": "1950",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

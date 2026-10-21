@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/758/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/758/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-09-23",
+    "latestAction": {
+      "actionDate": "2025-09-23",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/758",
+    "number": "758",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000297",
+        "district": 13,
+        "firstName": "Adriano",
+        "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+        "isByRequest": "N",
+        "lastName": "Espaillat",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/E000297?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/758/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/758/text?format=json"
+    },
+    "title": "Recognizing the significant global impact and legacy of Peter Westbrook in the sport of fencing in the United States and the work that he has done to improve the lives of underserved and vulnerable youth.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/758/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-09-24T15:41:21Z",
+    "updateDateIncludingText": "2025-09-24T15:41:21Z"
+  },
+  "request": {
+    "billNumber": "758",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

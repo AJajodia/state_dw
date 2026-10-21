@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 143 (Thursday, September 10, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SMITH of New Jersey:\nH.R. 10346.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the US Constitution\n[Page H5532]\n</pre>",
+    "introducedDate": "2026-09-10",
+    "latestAction": {
+      "actionDate": "2026-09-16",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 32 - 8."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10346",
+    "number": "10346",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000522",
+        "district": 4,
+        "firstName": "Christopher",
+        "fullName": "Rep. Smith, Christopher H. [R-NJ-4]",
+        "isByRequest": "N",
+        "lastName": "Smith",
+        "middleName": "H.",
+        "party": "R",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/S000522?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 13,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/text?format=json"
+    },
+    "title": "Stop China\u2019s Exploitation of Congolese Children and Adult Forced Labor through Cobalt Mining Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/10346/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-28T15:28:32Z",
+    "updateDateIncludingText": "2026-09-28T15:28:32Z"
+  },
+  "request": {
+    "billNumber": "10346",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

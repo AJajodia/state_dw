@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 87 (Thursday, May 21, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. JAYAPAL:\nH.R. 8975.\nCongress has the power to enact this legislation pursuant\nto the following:\nThis bill is enacted pursuant to the power granted to\nCongress under Article I of the United States Constitution\nand its subsequent amendments, and further clarified and\ninterpreted by the Supreme Court of the United States.\n[Page H3725]\n</pre>",
+    "cosponsors": {
+      "count": 12,
+      "countIncludingWithdrawnCosponsors": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-21",
+    "latestAction": {
+      "actionDate": "2026-05-21",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8975",
+    "number": "8975",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Education"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000298",
+        "district": 7,
+        "firstName": "Pramila",
+        "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+        "isByRequest": "N",
+        "lastName": "Jayapal",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/J000298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/text?format=json"
+    },
+    "title": "All Students Count Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8975/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-22T08:08:38Z",
+    "updateDateIncludingText": "2026-07-22T08:08:38Z"
+  },
+  "request": {
+    "billNumber": "8975",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

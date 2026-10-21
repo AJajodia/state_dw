@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2026-01-30",
+    "latestAction": {
+      "actionDate": "2026-01-30",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/71",
+    "number": "71",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001298",
+        "district": 2,
+        "firstName": "Don",
+        "fullName": "Rep. Bacon, Don [R-NE-2]",
+        "isByRequest": "N",
+        "lastName": "Bacon",
+        "party": "R",
+        "state": "NE",
+        "url": "https://api.congress.gov/v3/member/B001298?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/text?format=json"
+    },
+    "title": "Expressing unwavering support for the United States-Japan alliance in response to political, economic, and military pressure by the People's Republic of China against Japan.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hconres/71/titles?format=json"
+    },
+    "type": "HCONRES",
+    "updateDate": "2026-02-03T21:45:13Z",
+    "updateDateIncludingText": "2026-02-06T17:27:17Z"
+  },
+  "request": {
+    "billNumber": "71",
+    "billType": "hconres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

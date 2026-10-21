@@ -1,0 +1,61 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/575/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/575/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-06",
+    "latestAction": {
+      "actionDate": "2026-01-06",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S52; text: CR S51-52)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/575",
+    "number": "575",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Sports and Recreation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000575",
+        "firstName": "James",
+        "fullName": "Sen. Lankford, James [R-OK]",
+        "isByRequest": "N",
+        "lastName": "Lankford",
+        "party": "R",
+        "state": "OK",
+        "url": "https://api.congress.gov/v3/member/L000575?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sres/575/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/575/text?format=json"
+    },
+    "title": "A resolution congratulating the Oklahoma State University men's cross country team for winning the 2025 National Collegiate Athletic Association Men's Division I Cross Country National Championship.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/575/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-01-12T16:52:36Z",
+    "updateDateIncludingText": "2026-01-12T16:52:36Z"
+  },
+  "request": {
+    "billNumber": "575",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

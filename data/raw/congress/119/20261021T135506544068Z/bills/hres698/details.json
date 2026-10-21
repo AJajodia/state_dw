@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 9,
+      "countIncludingWithdrawnCosponsors": 9,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-10",
+    "latestAction": {
+      "actionDate": "2025-09-10",
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/698",
+    "number": "698",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000193",
+        "district": 2,
+        "firstName": "Bennie",
+        "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "middleName": "G.",
+        "party": "D",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/T000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/text?format=json"
+    },
+    "title": "Recognizing the victims, survivors, and thousands of other Americans impacted by the September 11, 2001, attacks, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/698/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-09-23T17:49:53Z",
+    "updateDateIncludingText": "2025-09-23T17:49:53Z"
+  },
+  "request": {
+    "billNumber": "698",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

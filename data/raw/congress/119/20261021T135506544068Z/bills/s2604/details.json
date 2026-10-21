@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2025-07-31",
+      "text": "Read twice and referred to the Committee on Armed Services."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2604",
+    "number": "2604",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000605",
+        "firstName": "Mike",
+        "fullName": "Sen. Rounds, Mike [R-SD]",
+        "isByRequest": "N",
+        "lastName": "Rounds",
+        "party": "R",
+        "state": "SD",
+        "url": "https://api.congress.gov/v3/member/R000605?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/text?format=json"
+    },
+    "title": "A bill to require the Secretary of Defense to establish the Artificial General Intelligence Steering Committee, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2604/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2025-11-21T11:56:35Z",
+    "updateDateIncludingText": "2025-11-21T11:56:35Z"
+  },
+  "request": {
+    "billNumber": "2604",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

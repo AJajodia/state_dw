@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 27,
+      "countIncludingWithdrawnCosponsors": 27,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-26",
+    "latestAction": {
+      "actionDate": "2025-02-26",
+      "text": "Referred to the Committee on Foreign Relations. (text: CR S1401-1402)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/100",
+    "number": "100",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "isByRequest": "N",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH",
+        "url": "https://api.congress.gov/v3/member/S001181?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/text?format=json"
+    },
+    "title": "A resolution dissenting from the United States delegation's February 24, 2025, vote at the United Nations General Assembly.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/100/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2025-05-06T15:27:36Z",
+    "updateDateIncludingText": "2025-05-06T15:27:36Z"
+  },
+  "request": {
+    "billNumber": "100",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

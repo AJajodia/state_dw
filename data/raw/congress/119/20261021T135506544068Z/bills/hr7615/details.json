@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 34 (Friday, February 20, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HORSFORD:\nH.R. 7615.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1 of the Constitution of the\nUnited States\n[Page H2235]\n</pre>",
+    "cosponsors": {
+      "count": 42,
+      "countIncludingWithdrawnCosponsors": 42,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/cosponsors?format=json"
+    },
+    "introducedDate": "2026-02-20",
+    "latestAction": {
+      "actionDate": "2026-02-20",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7615",
+    "number": "7615",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001066",
+        "district": 4,
+        "firstName": "Steven",
+        "fullName": "Rep. Horsford, Steven [D-NV-4]",
+        "isByRequest": "N",
+        "lastName": "Horsford",
+        "party": "D",
+        "state": "NV",
+        "url": "https://api.congress.gov/v3/member/H001066?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/text?format=json"
+    },
+    "title": "RELIEF Act",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7615/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-03-11T22:55:33Z",
+    "updateDateIncludingText": "2026-03-11T22:55:33Z"
+  },
+  "request": {
+    "billNumber": "7615",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

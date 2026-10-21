@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 54 (Tuesday, March 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROUZER:\nH.R. 2341.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8 of the United States Constitution\n[Page H1274]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-25",
+    "latestAction": {
+      "actionDate": "2025-03-25",
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2341",
+    "number": "2341",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": 7,
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "isByRequest": "N",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/text?format=json"
+    },
+    "title": "Duplications of Benefits Victims Relief Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2341/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-12T08:07:04Z",
+    "updateDateIncludingText": "2025-06-12T08:07:04Z"
+  },
+  "request": {
+    "billNumber": "2341",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

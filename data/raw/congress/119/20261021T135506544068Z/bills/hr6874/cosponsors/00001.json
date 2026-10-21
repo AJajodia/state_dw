@@ -1,0 +1,77 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "D000629",
+      "district": 3,
+      "firstName": "Sharice",
+      "fullName": "Rep. Davids, Sharice [D-KS-3]",
+      "isOriginalCosponsor": true,
+      "lastName": "Davids",
+      "party": "D",
+      "sponsorshipDate": "2025-12-18",
+      "state": "KS",
+      "url": "https://api.congress.gov/v3/member/D000629?format=json"
+    },
+    {
+      "bioguideId": "O000019",
+      "district": 23,
+      "firstName": "Jay",
+      "fullName": "Rep. Obernolte, Jay [R-CA-23]",
+      "isOriginalCosponsor": false,
+      "lastName": "Obernolte",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/O000019?format=json"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": 24,
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": false,
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-17",
+      "state": "CA",
+      "url": "https://api.congress.gov/v3/member/C001112?format=json"
+    },
+    {
+      "bioguideId": "W000809",
+      "district": 3,
+      "firstName": "Steve",
+      "fullName": "Rep. Womack, Steve [R-AR-3]",
+      "isOriginalCosponsor": false,
+      "lastName": "Womack",
+      "party": "R",
+      "sponsorshipDate": "2026-02-17",
+      "state": "AR",
+      "url": "https://api.congress.gov/v3/member/W000809?format=json"
+    },
+    {
+      "bioguideId": "C001053",
+      "district": 4,
+      "firstName": "Tom",
+      "fullName": "Rep. Cole, Tom [R-OK-4]",
+      "isOriginalCosponsor": false,
+      "lastName": "Cole",
+      "party": "R",
+      "sponsorshipDate": "2026-03-03",
+      "state": "OK",
+      "url": "https://api.congress.gov/v3/member/C001053?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 5,
+    "countIncludingWithdrawnCosponsors": 5
+  },
+  "request": {
+    "billNumber": "6874",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/6874?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "bill": {
+    "actions": {
+      "count": 27,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 5, 2025",
+        "pubDate": "2025-04-21T15:39:00Z",
+        "title": "S. 283, Illegal Red Snapper and Tuna Enforcement Act",
+        "url": "https://www.cbo.gov/publication/61348"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-24",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/24?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Became Public Law No: 119-123."
+    },
+    "laws": [
+      {
+        "number": "119-123",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+    "number": "283",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Public Lands and Natural Resources"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001098",
+        "firstName": "Ted",
+        "fullName": "Sen. Cruz, Ted [R-TX]",
+        "isByRequest": "N",
+        "lastName": "Cruz",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/C001098?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/text?format=json"
+    },
+    "title": "Illegal Red Snapper and Tuna Enforcement Act",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/s/283/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-10-16T16:51:47Z",
+    "updateDateIncludingText": "2026-10-16T16:51:47Z"
+  },
+  "request": {
+    "billNumber": "283",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

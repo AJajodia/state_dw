@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 37 (Tuesday, February 25, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. MORAN:\nH.R. 1574.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, clause 8\n[Page H837]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-25",
+    "latestAction": {
+      "actionDate": "2025-02-25",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1574",
+    "number": "1574",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001224",
+        "district": 1,
+        "firstName": "Nathaniel",
+        "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+        "isByRequest": "N",
+        "lastName": "Moran",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/M001224?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/text?format=json"
+    },
+    "title": "RESTORE Patent Rights Act of 2025",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1574/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-12-05T22:08:59Z",
+    "updateDateIncludingText": "2025-12-05T22:08:59Z"
+  },
+  "request": {
+    "billNumber": "1574",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

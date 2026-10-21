@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7823/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7823/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 42 (Thursday, March 5, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. ESCOBAR:\nH.R. 7823.\nCongress has the power to enact this legislation pursuant\nto the following:\nTHE U.S. CONSTITUTION\nARTICLE I, SECTION 8: POWERS OF CONGRESS\nCLAUSE 18\nThe Congress shall have the power . . . To make all laws\nwhich shall be necessary and proper for carrying into\nexecution the foregoing powers, and all other powers vested\nin this Constitution in the government of the United States,\nor in any department or officer thereof.\n[Page H2472]\n</pre>",
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-06",
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7823",
+    "number": "7823",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000299",
+        "district": 16,
+        "firstName": "Veronica",
+        "fullName": "Rep. Escobar, Veronica [D-TX-16]",
+        "isByRequest": "N",
+        "lastName": "Escobar",
+        "party": "D",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/E000299?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7823/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7823/text?format=json"
+    },
+    "title": "To direct the Secretary of Homeland Security, acting through the Traveler Redress Inquiry Program of the Department of Homeland Security, to provide to individuals whose enrollment in a Trusted Traveler program is denied, suspended, or early terminated an option to appeal such denial, suspension, or early termination, as the case may be, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/7823/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:38:52Z",
+    "updateDateIncludingText": "2026-09-19T23:38:52Z"
+  },
+  "request": {
+    "billNumber": "7823",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/actions?format=json"
+    },
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 75 (Tuesday, May 6, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ESPAILLAT:\nH.R. 3210.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\nThe Congress shall have Power to . . . provide for the . .\n. general Welfare of the United States; . . .\n[Page H1881]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-06",
+    "latestAction": {
+      "actionDate": "2025-05-06",
+      "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Education and Workforce, Small Business, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3210",
+    "number": "3210",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "E000297",
+        "district": 13,
+        "firstName": "Adriano",
+        "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+        "isByRequest": "N",
+        "lastName": "Espaillat",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/E000297?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/text?format=json"
+    },
+    "title": "Artificial Intelligence Literacy and Inclusion Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3210/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-05-22T18:38:05Z",
+    "updateDateIncludingText": "2026-05-22T18:38:05Z"
+  },
+  "request": {
+    "billNumber": "3210",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

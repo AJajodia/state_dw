@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 73 (Thursday, May 1, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. FITZPATRICK:\nH.R. 3144.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18\n[Page H1811]\n</pre>",
+    "cosponsors": {
+      "count": 41,
+      "countIncludingWithdrawnCosponsors": 41,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/cosponsors?format=json"
+    },
+    "introducedDate": "2025-05-01",
+    "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3144",
+    "number": "3144",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "F000466",
+        "district": 1,
+        "firstName": "Brian",
+        "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+        "isByRequest": "N",
+        "lastName": "Fitzpatrick",
+        "middleName": "K.",
+        "party": "R",
+        "state": "PA",
+        "url": "https://api.congress.gov/v3/member/F000466?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/text?format=json"
+    },
+    "title": "Honoring our K9 Heroes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3144/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:41:11Z",
+    "updateDateIncludingText": "2026-09-19T23:41:11Z"
+  },
+  "request": {
+    "billNumber": "3144",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

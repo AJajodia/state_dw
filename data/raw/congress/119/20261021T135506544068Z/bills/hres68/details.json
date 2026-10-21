@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 162,
+      "countIncludingWithdrawnCosponsors": 162,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-24",
+    "latestAction": {
+      "actionDate": "2025-01-24",
+      "text": "Referred to the House Committee on Foreign Affairs."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/68",
+    "number": "68",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001190",
+        "district": 10,
+        "firstName": "Bradley",
+        "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+        "isByRequest": "N",
+        "lastName": "Schneider",
+        "middleName": "Scott",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v3/member/S001190?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/text?format=json"
+    },
+    "title": "Expressing strong disapproval of the President's announcement to withdraw the United States from the Paris Agreement.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/68/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-09-28T16:23:30Z",
+    "updateDateIncludingText": "2026-09-28T16:23:30Z"
+  },
+  "request": {
+    "billNumber": "68",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

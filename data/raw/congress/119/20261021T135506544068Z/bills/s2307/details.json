@@ -1,0 +1,73 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-16",
+    "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2307",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/S/2307\" target=\"_blank\">S.2307</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/S/1071\" target=\"_blank\">S.1071</a>, which became Public Law 119-60."
+      }
+    ],
+    "number": "2307",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001111",
+        "firstName": "Patty",
+        "fullName": "Sen. Murray, Patty [D-WA]",
+        "isByRequest": "N",
+        "lastName": "Murray",
+        "party": "D",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/M001111?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/text?format=json"
+    },
+    "title": "Sound Insulation Treatment Repair and Replacement Program Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2307/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-24T22:11:22Z",
+    "updateDateIncludingText": "2026-09-24T22:11:22Z"
+  },
+  "request": {
+    "billNumber": "2307",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

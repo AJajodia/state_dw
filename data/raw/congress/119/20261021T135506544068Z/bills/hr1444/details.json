@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 32 (Tuesday, February 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. VASQUEZ:\nH.R. 1444.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, section 8, Clauses 1 and 18 of the United State\nConstitution, to provide for the general welfare and make all\nlaws necessary and proper to carry out the powers of the\nCongress.\n[Page H724]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-02-18",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1444",
+    "number": "1444",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Native Americans"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000136",
+        "district": 2,
+        "firstName": "Gabe",
+        "fullName": "Rep. Vasquez, Gabe [D-NM-2]",
+        "isByRequest": "N",
+        "lastName": "Vasquez",
+        "party": "D",
+        "state": "NM",
+        "url": "https://api.congress.gov/v3/member/V000136?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/text?format=json"
+    },
+    "title": "Zuni Indian Tribe Water Rights Settlement Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1444/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-07-23T23:06:25Z",
+    "updateDateIncludingText": "2026-07-23T23:06:25Z"
+  },
+  "request": {
+    "billNumber": "1444",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

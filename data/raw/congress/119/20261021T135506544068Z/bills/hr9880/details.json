@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 120 (Wednesday, July 22, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. SHREVE:\nH.R. 9880.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1 Section 8 of the US Constitution\n[Page H5178]\n</pre>",
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/cosponsors?format=json"
+    },
+    "introducedDate": "2026-07-22",
+    "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9880",
+    "number": "9880",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001229",
+        "district": 6,
+        "firstName": "Jefferson",
+        "fullName": "Rep. Shreve, Jefferson [R-IN-6]",
+        "isByRequest": "N",
+        "lastName": "Shreve",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S001229?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/text?format=json"
+    },
+    "title": "GPS Modernization Acceleration Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/9880/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-08-11T14:21:56Z",
+    "updateDateIncludingText": "2026-08-11T14:21:56Z"
+  },
+  "request": {
+    "billNumber": "9880",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

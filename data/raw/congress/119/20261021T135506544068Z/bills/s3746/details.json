@@ -1,0 +1,65 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/cosponsors?format=json"
+    },
+    "introducedDate": "2026-01-29",
+    "latestAction": {
+      "actionDate": "2026-01-29",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3746",
+    "number": "3746",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001242",
+        "firstName": "Bernie",
+        "fullName": "Sen. Moreno, Bernie [R-OH]",
+        "isByRequest": "N",
+        "lastName": "Moreno",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/M001242?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/text?format=json"
+    },
+    "title": "Stopping Transfers of Public Funds Abroad Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/3746/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-03-11T11:03:19Z",
+    "updateDateIncludingText": "2026-03-11T11:03:19Z"
+  },
+  "request": {
+    "billNumber": "3746",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

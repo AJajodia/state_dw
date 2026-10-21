@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8578/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8578/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 75 (Wednesday, April 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. LETLOW:\nH.R. 8578.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, Clause 1\n[Page H3295]\n</pre>",
+    "introducedDate": "2026-04-29",
+    "latestAction": {
+      "actionDate": "2026-04-29",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8578",
+    "number": "8578",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000595",
+        "district": 5,
+        "firstName": "Julia",
+        "fullName": "Rep. Letlow, Julia [R-LA-5]",
+        "isByRequest": "N",
+        "lastName": "Letlow",
+        "party": "R",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/L000595?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8578/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8578/text?format=json"
+    },
+    "title": "Food Reform for Effective and Sustainable Health (FRESH) Act of 2026",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8578/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:26:43Z",
+    "updateDateIncludingText": "2026-09-19T23:26:43Z"
+  },
+  "request": {
+    "billNumber": "8578",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

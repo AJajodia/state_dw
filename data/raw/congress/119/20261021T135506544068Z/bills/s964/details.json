@@ -1,0 +1,75 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S1666)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/964",
+    "notes": [
+      {
+        "text": "The text of <a href=\"https://www.congress.gov/bill/119/S/964\" target=\"_blank\">S.964</a> is contained in the text of <a href=\"https://www.congress.gov/bill/119/HR/6644\" target=\"_blank\">H.R.6644</a>, which became Public Law 119-101."
+      }
+    ],
+    "number": "964",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "relatedBills": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000122",
+        "firstName": "John",
+        "fullName": "Sen. Reed, Jack [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Reed",
+        "middleName": "F.",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/R000122?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/text?format=json"
+    },
+    "title": "Property Improvement and Manufactured Housing Loan Modernization Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/964/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-25T14:46:07Z",
+    "updateDateIncludingText": "2026-09-25T14:46:07Z"
+  },
+  "request": {
+    "billNumber": "964",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

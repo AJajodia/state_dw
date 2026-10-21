@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/actions?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-53",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/53?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-04-09",
+    "latestAction": {
+      "actionDate": "2025-12-09",
+      "actionTime": "19:07:46",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/310",
+    "number": "310",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001213",
+        "district": 1,
+        "firstName": "Bryan",
+        "fullName": "Rep. Steil, Bryan [R-WI-1]",
+        "isByRequest": "N",
+        "lastName": "Steil",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/S001213?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/text?format=json"
+    },
+    "title": "Dismissing the election contest relating to the office of Representative from the at-large Congressional District of Alaska.",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/310/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-07-11T21:09:28Z",
+    "updateDateIncludingText": "2026-07-19T00:20:56Z"
+  },
+  "request": {
+    "billNumber": "310",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

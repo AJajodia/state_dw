@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 57 (Thursday, March 26, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RASKIN:\nH.R. 8123.\nCongress has the power to enact this legislation pursuant\nto the following:\nthe Commerce Clause (Article I, Section 8, clause 3) and\nthe Necessary and Proper Clause (Article I, Section 8, clause\n18) of the U.S. Constitution.\n[Page H2778]\n</pre>",
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/cosponsors?format=json"
+    },
+    "introducedDate": "2026-03-26",
+    "latestAction": {
+      "actionDate": "2026-03-26",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8123",
+    "number": "8123",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000606",
+        "district": 8,
+        "firstName": "Jamie",
+        "fullName": "Rep. Raskin, Jamie [D-MD-8]",
+        "isByRequest": "N",
+        "lastName": "Raskin",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/R000606?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/text?format=json"
+    },
+    "title": "STOP Corrupt Bets Act of 2026",
+    "titles": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8123/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-16T08:05:39Z",
+    "updateDateIncludingText": "2026-10-16T08:05:39Z"
+  },
+  "request": {
+    "billNumber": "8123",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

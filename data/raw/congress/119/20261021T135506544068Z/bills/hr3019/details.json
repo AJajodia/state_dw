@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3019/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3019/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 69 (Thursday, April 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. SPARTZ:\nH.R. 3019.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1625]\n</pre>",
+    "introducedDate": "2025-04-24",
+    "latestAction": {
+      "actionDate": "2025-04-24",
+      "text": "Referred to the House Committee on Ways and Means."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3019",
+    "number": "3019",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000929",
+        "district": 5,
+        "firstName": "Victoria",
+        "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+        "isByRequest": "N",
+        "lastName": "Spartz",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S000929?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3019/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3019/text?format=json"
+    },
+    "title": "Holding Nonprofit Hospitals Accountable Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3019/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-28T15:52:06Z",
+    "updateDateIncludingText": "2026-03-31T16:27:17Z"
+  },
+  "request": {
+    "billNumber": "3019",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

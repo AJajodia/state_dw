@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-10",
+    "latestAction": {
+      "actionDate": "2026-06-10",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1355",
+    "number": "1355",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001125",
+        "district": 2,
+        "firstName": "Troy",
+        "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+        "isByRequest": "N",
+        "lastName": "Carter",
+        "middleName": "A.",
+        "party": "D",
+        "state": "LA",
+        "url": "https://api.congress.gov/v3/member/C001125?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/text?format=json"
+    },
+    "title": "Supporting the designation of the week of June 14 through June 21, 2026, as \"National Men's Health Week\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/1355/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2026-06-25T16:07:35Z",
+    "updateDateIncludingText": "2026-06-25T16:07:35Z"
+  },
+  "request": {
+    "billNumber": "1355",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

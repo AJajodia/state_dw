@@ -1,0 +1,68 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 95 (Wednesday, June 4, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. SYKES:\nH.R. 3741.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8, Clause 18.\n[Page H2470]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-04",
+    "latestAction": {
+      "actionDate": "2025-06-04",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3741",
+    "number": "3741",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001223",
+        "district": 13,
+        "firstName": "Emilia",
+        "fullName": "Rep. Sykes, Emilia Strong [D-OH-13]",
+        "isByRequest": "N",
+        "lastName": "Sykes",
+        "middleName": "Strong",
+        "party": "D",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/S001223?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/text?format=json"
+    },
+    "title": "Closing Bribery Loopholes Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3741/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-08-27T08:05:38Z",
+    "updateDateIncludingText": "2025-08-27T08:05:38Z"
+  },
+  "request": {
+    "billNumber": "3741",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

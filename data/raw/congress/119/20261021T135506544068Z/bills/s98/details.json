@@ -1,0 +1,94 @@
+{
+  "bill": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nFebruary 5, 2025\n",
+        "pubDate": "2025-03-10T18:04:00Z",
+        "title": "S. 98, Rural Broadband Protection Act of 2025",
+        "url": "https://www.cbo.gov/publication/61245"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "S. Rept. 119-14",
+        "url": "https://api.congress.gov/v3/committee-report/119/SRPT/14?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-15",
+    "latestAction": {
+      "actionDate": "2026-05-11",
+      "text": "Became Public Law No: 119-89."
+    },
+    "laws": [
+      {
+        "number": "119-89",
+        "type": "Public Law"
+      }
+    ],
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/98",
+    "number": "98",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001047",
+        "firstName": "Shelley",
+        "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+        "isByRequest": "N",
+        "lastName": "Capito",
+        "middleName": "Moore",
+        "party": "R",
+        "state": "WV",
+        "url": "https://api.congress.gov/v3/member/C001047?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/subjects?format=json"
+    },
+    "summaries": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/text?format=json"
+    },
+    "title": "Rural Broadband Protection Act of 2025",
+    "titles": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/s/98/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-09-19T23:28:50Z",
+    "updateDateIncludingText": "2026-09-19T23:28:50Z"
+  },
+  "request": {
+    "billNumber": "98",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

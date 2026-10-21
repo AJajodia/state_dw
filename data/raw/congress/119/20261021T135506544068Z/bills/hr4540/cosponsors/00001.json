@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001216",
+      "district": 7,
+      "firstName": "Cory",
+      "fullName": "Rep. Mills, Cory [R-FL-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Mills",
+      "party": "R",
+      "sponsorshipDate": "2025-07-17",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/M001216?format=json"
+    },
+    {
+      "bioguideId": "M001212",
+      "district": 1,
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": false,
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-08-08",
+      "state": "AL",
+      "url": "https://api.congress.gov/v3/member/M001212?format=json"
+    },
+    {
+      "bioguideId": "B001257",
+      "district": 12,
+      "firstName": "Gus",
+      "fullName": "Rep. Bilirakis, Gus M. [R-FL-12]",
+      "isOriginalCosponsor": false,
+      "lastName": "Bilirakis",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-02-02",
+      "state": "FL",
+      "url": "https://api.congress.gov/v3/member/B001257?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "4540",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/4540?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

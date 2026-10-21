@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/actions?format=json"
+    },
+    "committees": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 78 (Thursday, May 7, 2026)]\n[House]\n[Pages H3343-H3344]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WILSON of South Carolina:\nH.R. 8718.\nCongress has the power to enact this legislation pursuant\nto the following:\n[[Page H3344]]\nArticle 1, Section 8\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/cosponsors?format=json"
+    },
+    "introducedDate": "2026-05-07",
+    "latestAction": {
+      "actionDate": "2026-05-07",
+      "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8718",
+    "number": "8718",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "International Affairs"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000795",
+        "district": 2,
+        "firstName": "Joe",
+        "fullName": "Rep. Wilson, Joe [R-SC-2]",
+        "isByRequest": "N",
+        "lastName": "Wilson",
+        "party": "R",
+        "state": "SC",
+        "url": "https://api.congress.gov/v3/member/W000795?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/text?format=json"
+    },
+    "title": "Countering Russia\u2019s Forced Recruitment and Kidnapping in Africa Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8718/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:31:53Z",
+    "updateDateIncludingText": "2026-09-19T23:31:53Z"
+  },
+  "request": {
+    "billNumber": "8718",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

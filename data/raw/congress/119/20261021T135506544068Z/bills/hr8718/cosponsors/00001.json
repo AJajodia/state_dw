@@ -1,0 +1,42 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "J000309",
+      "district": 1,
+      "firstName": "Jonathan",
+      "fullName": "Rep. Jackson, Jonathan L. [D-IL-1]",
+      "isOriginalCosponsor": true,
+      "lastName": "Jackson",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-07",
+      "state": "IL",
+      "url": "https://api.congress.gov/v3/member/J000309?format=json"
+    },
+    {
+      "bioguideId": "T000463",
+      "district": 10,
+      "firstName": "Michael",
+      "fullName": "Rep. Turner, Michael R. [R-OH-10]",
+      "isOriginalCosponsor": false,
+      "lastName": "Turner",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2026-09-14",
+      "state": "OH",
+      "url": "https://api.congress.gov/v3/member/T000463?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2,
+    "countIncludingWithdrawnCosponsors": 2
+  },
+  "request": {
+    "billNumber": "8718",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/8718?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

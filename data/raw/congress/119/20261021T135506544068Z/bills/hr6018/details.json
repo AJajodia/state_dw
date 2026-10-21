@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 190 (Monday, November 10, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. WIED:\nH.R. 6018.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1; Section 8\n[Page H4591]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/cosponsors?format=json"
+    },
+    "introducedDate": "2025-11-10",
+    "latestAction": {
+      "actionDate": "2025-11-10",
+      "text": "Referred to the House Committee on Agriculture."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6018",
+    "number": "6018",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000829",
+        "district": 8,
+        "firstName": "Tony",
+        "fullName": "Rep. Wied, Tony [R-WI-8]",
+        "isByRequest": "N",
+        "lastName": "Wied",
+        "party": "R",
+        "state": "WI",
+        "url": "https://api.congress.gov/v3/member/W000829?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/text?format=json"
+    },
+    "title": "Bringing Assistance for Rural Needs During Shutdowns Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/6018/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:26:47Z",
+    "updateDateIncludingText": "2026-09-19T23:26:47Z"
+  },
+  "request": {
+    "billNumber": "6018",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

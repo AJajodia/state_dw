@@ -1,0 +1,70 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/actions?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 15,
+      "countIncludingWithdrawnCosponsors": 15,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-31",
+    "latestAction": {
+      "actionDate": "2025-07-31",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5171; text: CR S5009)"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/361",
+    "number": "361",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000122",
+        "firstName": "John",
+        "fullName": "Sen. Reed, Jack [D-RI]",
+        "isByRequest": "N",
+        "lastName": "Reed",
+        "middleName": "F.",
+        "party": "D",
+        "state": "RI",
+        "url": "https://api.congress.gov/v3/member/R000122?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/text?format=json"
+    },
+    "title": "A resolution designating August 16, 2025, \"National Airborne Day\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/sres/361/titles?format=json"
+    },
+    "type": "SRES",
+    "updateDate": "2026-08-14T13:34:28Z",
+    "updateDateIncludingText": "2026-08-14T13:34:28Z"
+  },
+  "request": {
+    "billNumber": "361",
+    "billType": "sres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

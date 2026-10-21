@@ -1,0 +1,53 @@
+{
+  "cosponsors": [
+    {
+      "bioguideId": "E000246",
+      "district": 11,
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": true,
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "NC",
+      "url": "https://api.congress.gov/v3/member/E000246?format=json"
+    },
+    {
+      "bioguideId": "G000558",
+      "district": 2,
+      "firstName": "Brett",
+      "fullName": "Rep. Guthrie, Brett [R-KY-2]",
+      "isOriginalCosponsor": true,
+      "lastName": "Guthrie",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "KY",
+      "url": "https://api.congress.gov/v3/member/G000558?format=json"
+    },
+    {
+      "bioguideId": "G000590",
+      "district": 7,
+      "firstName": "Mark",
+      "fullName": "Rep. Green, Mark E. [R-TN-7]",
+      "isOriginalCosponsor": true,
+      "lastName": "Green",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2025-01-31",
+      "state": "TN",
+      "url": "https://api.congress.gov/v3/member/G000590?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3,
+    "countIncludingWithdrawnCosponsors": 3
+  },
+  "request": {
+    "billNumber": "838",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/119/hr/838?format=json",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

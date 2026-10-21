@@ -1,0 +1,69 @@
+{
+  "bill": {
+    "actions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/cosponsors?format=json"
+    },
+    "introducedDate": "2025-09-10",
+    "latestAction": {
+      "actionDate": "2025-09-10",
+      "text": "Read twice and referred to the Committee on Finance."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2756",
+    "number": "2756",
+    "originChamber": "Senate",
+    "originChamberCode": "S",
+    "policyArea": {
+      "name": "Health"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "A000382",
+        "firstName": "Angela",
+        "fullName": "Sen. Alsobrooks, Angela D. [D-MD]",
+        "isByRequest": "N",
+        "lastName": "Alsobrooks",
+        "party": "D",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/A000382?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/text?format=json"
+    },
+    "title": "Affordable Inhalers and Nebulizers Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/s/2756/titles?format=json"
+    },
+    "type": "S",
+    "updateDate": "2026-02-04T12:03:15Z",
+    "updateDateIncludingText": "2026-02-04T12:03:15Z"
+  },
+  "request": {
+    "billNumber": "2756",
+    "billType": "s",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

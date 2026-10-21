@@ -1,0 +1,67 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 32 (Tuesday, February 18, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. SHERRILL:\nH.R. 1434.\nCongress has the power to enact this legislation pursuant\nto the following:\nClause 18 of Section 8 of Article 1 of the Constitution of\nthe United States of America\n[Page H724]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/cosponsors?format=json"
+    },
+    "introducedDate": "2025-02-18",
+    "latestAction": {
+      "actionDate": "2025-02-18",
+      "text": "Referred to the House Committee on Education and Workforce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1434",
+    "number": "1434",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001207",
+        "district": 11,
+        "firstName": "Mikie",
+        "fullName": "Rep. Sherrill, Mikie [D-NJ-11]",
+        "isByRequest": "N",
+        "lastName": "Sherrill",
+        "party": "D",
+        "state": "NJ",
+        "url": "https://api.congress.gov/v3/member/S001207?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/text?format=json"
+    },
+    "title": "Strengthening Communities through Summer Employment Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/1434/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-07-21T19:44:15Z",
+    "updateDateIncludingText": "2025-07-21T19:44:15Z"
+  },
+  "request": {
+    "billNumber": "1434",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

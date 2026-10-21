@@ -1,0 +1,80 @@
+{
+  "bill": {
+    "actions": {
+      "count": 23,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/actions?format=json"
+    },
+    "amendments": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/amendments?format=json"
+    },
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 119-632",
+        "url": "https://api.congress.gov/v3/committee-report/119/HRPT/632?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 77 (Monday, May 4, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. HARRIS:\nH.R. 8646.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe principal constitutional authority for this legislation\nis clause 7 of section 9 of article I of the Constitution of\nthe United States (the appropriation power), which states:\n``No Money shall be drawn from the Treasury, but in\nConsequence of Appropriations made by Law . . . .'' In\naddition, clause 1 of section 8 of article I of the\nConstitution (the spending power) provides: ``The Congress\nshall have the Power . . . to pay the Debts and provide for\nthe common Defence and general Welfare of the United States .\n. . .'' Together, these specific constitutional provisions\nestablish the congressional power of the purse, granting\nCongress the authority to appropriate funds, to determine\ntheir purpose, amount, and period of availability, and to set\nforth terms and conditions governing their use.\n[Page H3337]\n</pre>",
+    "introducedDate": "2026-05-01",
+    "latestAction": {
+      "actionDate": "2026-06-08",
+      "text": "Received in the Senate."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8646",
+    "number": "8646",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Economics and Public Finance"
+    },
+    "relatedBills": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001052",
+        "district": 1,
+        "firstName": "Andy",
+        "fullName": "Rep. Harris, Andy [R-MD-1]",
+        "isByRequest": "N",
+        "lastName": "Harris",
+        "party": "R",
+        "state": "MD",
+        "url": "https://api.congress.gov/v3/member/H001052?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 89,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/subjects?format=json"
+    },
+    "summaries": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/text?format=json"
+    },
+    "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
+    "titles": {
+      "count": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/8646/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-09-19T23:30:48Z",
+    "updateDateIncludingText": "2026-09-19T23:30:48Z"
+  },
+  "request": {
+    "billNumber": "8646",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

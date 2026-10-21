@@ -1,0 +1,71 @@
+{
+  "bill": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 123 (Thursday, July 17, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. RUIZ:\nH.R. 4527.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, section 8, Clauses 1 and 18 of the United States\nConstitution, to provide for the general welfare and make all\nlaws necessary and proper to carry out the powers of\nCongress.\n[Page H3477]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/cosponsors?format=json"
+    },
+    "introducedDate": "2025-07-17",
+    "latestAction": {
+      "actionDate": "2025-12-19",
+      "text": "Referred to the Subcommittee on Health."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4527",
+    "number": "4527",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000599",
+        "district": 25,
+        "firstName": "Raul",
+        "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+        "isByRequest": "N",
+        "lastName": "Ruiz",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/R000599?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/text?format=json"
+    },
+    "title": "Health Records Enhancement Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/4527/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2026-10-06T20:26:19Z",
+    "updateDateIncludingText": "2026-10-06T20:26:19Z"
+  },
+  "request": {
+    "billNumber": "4527",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

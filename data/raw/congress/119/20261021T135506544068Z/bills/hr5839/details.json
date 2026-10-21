@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5839/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5839/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 179 (Tuesday, October 28, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. BALDERSON:\nH.R. 5839.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H4559]\n</pre>",
+    "introducedDate": "2025-10-28",
+    "latestAction": {
+      "actionDate": "2025-10-28",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5839",
+    "number": "5839",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001306",
+        "district": 12,
+        "firstName": "Troy",
+        "fullName": "Rep. Balderson, Troy [R-OH-12]",
+        "isByRequest": "N",
+        "lastName": "Balderson",
+        "party": "R",
+        "state": "OH",
+        "url": "https://api.congress.gov/v3/member/B001306?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5839/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5839/text?format=json"
+    },
+    "title": "Supplemental Benefits for Individuals Act of 2025",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/5839/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-11-26T15:18:59Z",
+    "updateDateIncludingText": "2025-11-26T15:18:59Z"
+  },
+  "request": {
+    "billNumber": "5839",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

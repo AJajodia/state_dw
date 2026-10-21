@@ -1,0 +1,72 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 94 (Wednesday, June 3, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. GOSAR:\nH.J. Res. 193.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8\n[Page H3830]\n</pre>",
+    "cosponsors": {
+      "count": 8,
+      "countIncludingWithdrawnCosponsors": 8,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/cosponsors?format=json"
+    },
+    "introducedDate": "2026-06-03",
+    "latestAction": {
+      "actionDate": "2026-06-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/193",
+    "number": "193",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "relatedBills": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000565",
+        "district": 9,
+        "firstName": "Paul",
+        "fullName": "Rep. Gosar, Paul A. [R-AZ-9]",
+        "isByRequest": "N",
+        "lastName": "Gosar",
+        "middleName": "A.",
+        "party": "R",
+        "state": "AZ",
+        "url": "https://api.congress.gov/v3/member/G000565?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/text?format=json"
+    },
+    "title": "Disapproving the action of the District of Columbia Council in approving the Body-Worn Camera Transparency for Use of Force Temporary Amendment Act of 2026.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hjres/193/titles?format=json"
+    },
+    "type": "HJRES",
+    "updateDate": "2026-06-24T15:37:15Z",
+    "updateDateIncludingText": "2026-06-24T15:37:15Z"
+  },
+  "request": {
+    "billNumber": "193",
+    "billType": "hjres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

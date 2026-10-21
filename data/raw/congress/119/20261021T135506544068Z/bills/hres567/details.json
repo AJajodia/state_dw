@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/567/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/567/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-07-02",
+    "latestAction": {
+      "actionDate": "2025-07-02",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/567",
+    "number": "567",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000193",
+        "district": 2,
+        "firstName": "Bennie",
+        "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+        "isByRequest": "N",
+        "lastName": "Thompson",
+        "middleName": "G.",
+        "party": "D",
+        "state": "MS",
+        "url": "https://api.congress.gov/v3/member/T000193?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/567/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/567/text?format=json"
+    },
+    "title": "Commemorating and honoring the 40-year anniversary of Entergy's Grand Gulf Nuclear Station located in Port Gibson, Mississippi, and recognizing the important role nuclear power plays in energizing life in Mississippi.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/567/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-07-14T16:00:45Z",
+    "updateDateIncludingText": "2025-07-14T16:00:45Z"
+  },
+  "request": {
+    "billNumber": "567",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

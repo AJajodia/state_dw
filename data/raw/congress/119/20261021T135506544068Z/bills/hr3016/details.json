@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3016/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3016/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 69 (Thursday, April 24, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. SPARTZ:\nH.R. 3016.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8\n[Page H1625]\n</pre>",
+    "introducedDate": "2025-04-24",
+    "latestAction": {
+      "actionDate": "2025-04-24",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3016",
+    "number": "3016",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S000929",
+        "district": 5,
+        "firstName": "Victoria",
+        "fullName": "Rep. Spartz, Victoria [R-IN-5]",
+        "isByRequest": "N",
+        "lastName": "Spartz",
+        "party": "R",
+        "state": "IN",
+        "url": "https://api.congress.gov/v3/member/S000929?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3016/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3016/text?format=json"
+    },
+    "title": "Combatting Hospital Monopolies Act",
+    "titles": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3016/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-05-28T16:05:20Z",
+    "updateDateIncludingText": "2025-05-28T16:05:20Z"
+  },
+  "request": {
+    "billNumber": "3016",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
